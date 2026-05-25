@@ -1,0 +1,36 @@
+# Credentials — never commit these
+.env
+my_openai.py
+my_scopus.py
+
+# Output data (too large / may contain Scopus-licensed content)
+*.txt.output
+beatles_scopus.txt
+beatles_scopus_refs.txt
+beatles_wordplay.xlsx
+20250*.txt
+20250*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.conda/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/

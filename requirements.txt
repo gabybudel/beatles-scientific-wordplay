@@ -1,0 +1,24 @@
+# Python 3.10.13  (conda env "Beatles")
+# Install with:  pip install -r requirements.txt
+
+# Scopus & web
+requests==2.32.3
+beautifulsoup4==4.12.2
+bs4==0.0.1
+
+# Data handling
+numpy==1.26.4
+pandas==2.2.3
+openpyxl==3.1.5
+rapidfuzz==3.12.1
+
+# OpenAI
+openai==1.82.0
+
+# Utilities
+tqdm==4.67.1
+python-dotenv==1.1.1
+
+# Jupyter
+ipykernel==6.29.5
+jupyter-client==8.6.3

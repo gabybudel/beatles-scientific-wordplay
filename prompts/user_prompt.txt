@@ -1,0 +1,56 @@
+{
+  "beatles_song": "Ticket to Ride",
+  "few_shot_examples": [
+    {
+      "scopus_id": "SCOPUS_ID:84896352755",
+      "paper_title": "There will be an answer; let it bleed",
+      "explanation": "The title mimics two exact lines 'There will be an 
+        answer, let it be' from the song text of 'Let It Be' with a twist ('Let it 
+        bleed'), which is a clear humorous wordplay.",
+      "answer": "Yes"
+    },
+    {
+      "scopus_id": "SCOPUS_ID:XXX",
+      "paper_title": "Understanding the role of friends in adolescent health 
+        decisions",
+      "explanation": "Although thematically similar, the title does not use a 
+        creative or humorous twist on the Beatles song title.",
+      "answer": "No"
+    },
+    {
+        "scopus_id": "SCOPUS_ID:33646982325",
+        "paper_title": "Everybody's got something to hide except me and my patented monkey: patentability of cloned organisms.",
+        "beatles_song": "Everybody's Got Something To Hide Except Me and My Monkey",
+        "explanation": "This is a direct reuse of the song title in the context of the paper with light irony, fitting the category of humorous wordplay.",
+        "answer": "Yes"
+    },
+    {
+      "scopus_id": "SCOPUS_ID:XXX",
+      "paper_title": "Myocyte hypertrophy: the long and winding RhoA'd",
+      "explanation": "This is a clever wordplay with the name of the song and 
+        the protein RhoA.",
+      "answer": "Yes"
+    },
+    {
+      "scopus_id": "SCOPUS_ID:85194998005",
+      "paper_title": "Come for climate, stay for community: Acting, emoting, 
+        and staying together through the climate crisis",
+      "explanation": "It is just a coincidence that all words in the song title 
+        appear in this paper title, it is not a reference to the song.",
+      "answer": "No"
+    }
+  ],
+  "titles_to_classify": [
+    {
+      "scopus_id": "SCOPUS_ID:85178946808",
+      "title": "Pricing Analysis for Railway Multi-Ride Tickets: An 
+        Optimization Approach for Uncertain Demand within an Agreed Time Limit"
+    },
+    {
+      "scopus_id": "SCOPUS_ID:85062327809",
+      "title": "Ticket to a bubble ride: Cargo sorting into exosomes and 
+        extracellular vesicles"
+    },
+    ...
+  ]
+}         
