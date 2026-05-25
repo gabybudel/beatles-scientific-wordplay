@@ -136,28 +136,10 @@ The few-shot examples in `prompts/user_prompt.txt` cover both positive cases (ge
 
 The 137 songs in `data/beatles_songs.txt` were selected from the full Beatles discography by excluding:
 - Cover songs and songs not originally written by the Beatles
-- Titles too generic to yield reliable matches (e.g., *Get Back*, *Her Majesty*)
+- Titles too generic to yield reliable matches (e.g., *Get Back*, *Yesterday*)
 - Titles too obscure to plausibly appear as deliberate references
 
 Songs were matched from their release year onward. Queries are case- and punctuation-insensitive; articles (*a*, *an*, *the*) and auxiliary forms of *to be* may be omitted.
-
----
-
-## Citation
-
-If you use this code or data, please cite:
-
-```bibtex
-@article{budel2026beatles,
-  title   = {How science gets by with a little help from the {Beatles}:
-             Detecting cultural wordplay in scientific literature using
-             large language models},
-  author  = {Budel, Gabrielle and ...},
-  journal = {PLOS One},
-  year    = {2026},
-  note    = {Under review}
-}
-```
 
 ---
 
