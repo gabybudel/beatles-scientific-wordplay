@@ -34,3 +34,6 @@ env/
 # IDE
 .idea/
 .vscode/
+
+# Local dev notes
+CLAUDE.md
