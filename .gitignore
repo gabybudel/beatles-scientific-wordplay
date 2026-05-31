@@ -37,3 +37,13 @@ env/
 
 # Local dev notes
 CLAUDE.md
+
+# Generated analysis artifacts (reproducible by running Generate_Plots.R)
+/output/
+/plots/
+
+# Scopus-derived analysis data — not for public sharing.
+# Curated lists (beatles_songs.txt, beatles_lyrics.txt,
+# beatles_selected_songs.txt) stay tracked.
+/data/scopus_*.txt
+/data/scholar_counts.txt
