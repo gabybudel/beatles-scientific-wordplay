@@ -3,7 +3,7 @@
 Code for the paper:
 
 > **How science gets by with a little help from the Beatles: Detecting cultural wordplay in scientific literature using large language models**  
-> *PLOS One* (under review)
+> *Under review*
 
 This repository contains the data retrieval and wordplay detection pipeline used to identify Beatles song title and lyric references — including creative wordplay — in academic article titles retrieved from Scopus.
 
