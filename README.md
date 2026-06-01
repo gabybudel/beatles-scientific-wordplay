@@ -61,6 +61,8 @@ cd beatles-scientific-wordplay
 
 ### 2. Create and activate a Python 3.10 environment
 
+With conda:
+
 ```bash
 conda create -n beatles python=3.10.13
 conda activate beatles
@@ -86,7 +88,7 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 
-Edit `.env` and fill in:
+Obtain API keys form the respective providers. Edit `.env` and fill in:
 
 | Variable | Where to get it |
 |---|---|
@@ -117,20 +119,19 @@ It runs all three stages and writes its results into `data/`:
 
 The Stage 2 tags file has columns `scopus_id`, `explanation`, and `wordplay` (`"Yes"`/`"No"`).
 
-### Download the Scopus data with the standalone script
+### Download the raw Scopus data with the standalone script
 
-`scopus.py` is a command-line alternative for the exact-retrieval stage:
+`scopus.py` is for just downloading the raw data from the exact-retrieval stage:
 
 ```bash
-cp .env.example .env        # then fill in SCOPUS_API_KEY
 python scopus.py            # writes beatles_scopus.txt + beatles_scopus_refs.txt
 ```
 
 It reads `data/beatles_songs.txt` and writes per-song hit counts (`beatles_scopus.txt`) and full bibliographic records (`beatles_scopus_refs.txt`). It includes a 0.5 s delay between requests.
 
-### Export shareable reference data
+### Data export
 
-`prepare_shared_data.py` produces minimal-column copies of the retrieved references (`paper_nr`, `song_nr`, `song_name`, `year`, `cited_by`, `doi`) under `data/shared/`, for data-availability purposes:
+The data export under `data/shared/` was generated as minimal-column copies of the retrieved references (`paper_nr`, `song_nr`, `song_name`, `year`, `cited_by`, `doi`), for data-availability purposes:
 
 ```bash
 python prepare_shared_data.py
