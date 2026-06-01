@@ -11,10 +11,13 @@ This repository contains the data retrieval and wordplay detection pipeline used
 
 ## Overview
 
-The pipeline has two stages:
+The pipeline has three stages, all implemented in `wordplay_pipeline.ipynb`:
 
-1. **Scopus retrieval** (`scopus.py`) — queries the Elsevier Scopus API for each of 137 curated Beatles song titles and collects matching article metadata.
-2. **Wordplay detection** (`wordplay_detection.ipynb`) — uses GPT-4o-mini (via the OpenAI API) with few-shot prompting to classify candidate titles as genuine Beatles wordplay or coincidental matches.
+1. **Exact retrieval** — queries the Elsevier Scopus API for titles that match a Beatles song or lyric verbatim (allowing a dropped article, a parenthetical part, or removed periods).
+2. **Approximate retrieval** — relaxed leave-one-out queries (each non-article word dropped in turn) that surface candidates for wordplay which omits or changes one word.
+3. **Wordplay detection** — GPT-4o-mini (via the OpenAI API) with few-shot prompting classifies each candidate as genuine Beatles wordplay or a coincidental match.
+
+`scopus.py` is a standalone command-line alternative for the exact retrieval stage (see *Download the Scopus data* below).
 
 **Key numbers from the paper:**
 - 4,120 exact song title / lyric references identified
@@ -29,13 +32,17 @@ The pipeline has two stages:
 ```
 .
 ├── data/
-│   ├── beatles_songs.txt      # 137 curated Beatles song titles used for search
-│   └── beatles_lyrics.txt     # 36 characteristic Beatles lyric phrases
+│   ├── beatles_songs.txt          # 137 curated Beatles song titles used for search
+│   ├── beatles_lyrics.txt         # 36 characteristic Beatles lyric phrases
+│   ├── beatles_selected_songs.txt # song subset used for the published analysis
+│   └── shared/                    # minimal-column reference data (data availability)
 ├── prompts/
-│   ├── system_prompt.txt      # GPT-4o-mini system prompt for wordplay classification
-│   └── user_prompt.txt        # User prompt template with few-shot examples
-├── scopus.py                  # Stage 1: Scopus API retrieval
-├── wordplay_detection.ipynb   # Stage 2: LLM-based wordplay classification
+│   ├── system_prompt.txt          # GPT-4o-mini system prompt for wordplay classification
+│   └── user_prompt.txt            # User prompt template with few-shot examples
+├── wordplay_pipeline.ipynb        # Full pipeline: exact + approximate retrieval + LLM tagging
+├── scopus.py                      # Standalone CLI for the exact-retrieval stage
+├── prepare_shared_data.py         # Export minimal-column copies of the reference data
+├── Generate_Plots.R               # Reproduce the paper's figures and tables
 ├── requirements.txt
 ├── .env.example
 └── .gitignore
@@ -90,33 +97,44 @@ Edit `.env` and fill in:
 
 ## Usage
 
-### Stage 1 — Scopus retrieval
+> **Note:** The Scopus API requires an API key with institutional access. Rate limits apply, so the retrieval steps include a short delay between requests.
+
+### Full pipeline — `wordplay_pipeline.ipynb`
+
+Open and run the notebook end-to-end in Jupyter:
 
 ```bash
-python scopus.py
+jupyter notebook wordplay_pipeline.ipynb
 ```
 
-Reads `data/beatles_songs.txt` and writes:
-- `beatles_scopus.txt` — hit counts per song
-- `beatles_scopus_refs.txt` — full bibliographic records
+It runs all three stages and writes its results into `data/`:
 
-> **Note:** The Scopus API requires an API key with institutional access. Rate limits apply; the script includes a 0.5 s delay between requests.
+| Stage | What it does | Output |
+|---|---|---|
+| 1a — Exact retrieval | Verbatim title matches for songs and lyrics | `data/scopus_song_refs.txt`, `data/scopus_lyric_refs.txt` |
+| 1b — Approximate retrieval | Leave-one-out queries for wordplay candidates | `data/scopus_approx_refs.txt` |
+| 2 — Wordplay detection | GPT-4o-mini classification of candidates | `data/scopus_wordplay_tags.txt` |
 
-### Stage 2 — Wordplay detection
+The Stage 2 tags file has columns `scopus_id`, `explanation`, and `wordplay` (`"Yes"`/`"No"`).
 
-Open and run `wordplay_detection.ipynb` in Jupyter:
+### Download the Scopus data with the standalone script
+
+`scopus.py` is a command-line alternative for the exact-retrieval stage:
 
 ```bash
-jupyter notebook wordplay_detection.ipynb
+cp .env.example .env        # then fill in SCOPUS_API_KEY
+python scopus.py            # writes beatles_scopus.txt + beatles_scopus_refs.txt
 ```
 
-The notebook loads the Scopus results, constructs relaxed queries (leave-one-out search), and calls GPT-4o-mini to classify each candidate title. Outputs are JSON arrays with:
+It reads `data/beatles_songs.txt` and writes per-song hit counts (`beatles_scopus.txt`) and full bibliographic records (`beatles_scopus_refs.txt`). It includes a 0.5 s delay between requests.
 
-| Field | Description |
-|---|---|
-| `scopus_id` | Unique Scopus identifier |
-| `explanation` | One-sentence LLM reasoning |
-| `answer` | `"Yes"` or `"No"` |
+### Export shareable reference data
+
+`prepare_shared_data.py` produces minimal-column copies of the retrieved references (`paper_nr`, `song_nr`, `song_name`, `year`, `cited_by`, `doi`) under `data/shared/`, for data-availability purposes:
+
+```bash
+python prepare_shared_data.py
+```
 
 ---
 

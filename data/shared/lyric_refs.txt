@@ -1,0 +1,259 @@
+paper_nr	song_nr	song_name	year	cited_by	doi
+0	0	Try to see it my way	2025	4	10.1007/s12369-023-01036-7
+1	0	Try to see it my way	2022	3	10.1016/j.bandc.2021.105835
+2	0	Try to see it my way	2019	11	10.1177/1757913919835231
+3	0	Try to see it my way	2018	1	10.1007/978-3-319-95522-3_13
+4	0	Try to see it my way	2017	17	10.1353/csd.2017.0082
+5	0	Try to see it my way	2016	28	10.1016/j.cognition.2016.04.015
+6	0	Try to see it my way	2015	7	10.1136/jnnp-2015-310324
+7	0	Try to see it my way	2015	43	10.1080/13501763.2015.1008555
+8	0	Try to see it my way	2012	23	10.1080/10986065.2012.625076
+9	0	Try to see it my way	2003	29	10.1023/B:ARTI.0000045997.45038.8f
+10	0	Try to see it my way	1992	0	10.1001/jama.1992.03490190130049
+11	1	When I find myself in times of trouble	2013	12	10.1111/1475-6765.12006
+12	1	When I find myself in times of trouble	2003	16	10.1163/157361203X00228
+13	2	Take a sad song and make it better	2021	7	10.1016/j.socscimed.2021.114081
+14	2	Take a sad song and make it better	2020	9	10.1037/pst0000290
+15	2	Take a sad song and make it better	2019	25	
+16	3	I read the news today oh boy	2024	0	
+17	3	I read the news today oh boy	2020	11	10.1016/j.worlddev.2020.105111
+18	3	I read the news today oh boy	2020	1	10.1007/s12671-020-01356-z
+19	3	I read the news today oh boy	2017	5	10.1007/978-3-319-58697-7_52
+20	3	I read the news today oh boy	2010	12	10.1080/03007761003694373
+21	3	I read the news today oh boy	2010	0	
+22	3	I read the news today oh boy	2009	2	
+23	3	I read the news today oh boy	2008	0	
+24	3	I read the news today oh boy	1997	42	
+25	4	Living is easy with eyes closed	2024	11	10.1177/00936502221130840
+26	4	Living is easy with eyes closed	2016	0	
+27	4	Living is easy with eyes closed	2015	0	10.1016/j.fmc.2015.06.001
+28	4	Living is easy with eyes closed	2014	6	10.1016/j.eujim.2014.06.008
+29	5	I'd like to be under the sea	2019	19	10.1016/j.chb.2018.08.001
+30	5	I'd like to be under the sea	2018	1	10.21463/shima.12.2.15
+31	6	Look at all the lonely people	2021	1	10.1177/17579139211018120
+32	6	Look at all the lonely people	2018	1	
+33	7	Let me tell you how it will be	2017	0	
+34	8	Let me take you down	2004	0	
+35	9	Nothing's gonna change my world	2019	1	10.5771/2192-4007-2019-4-497
+36	9	Nothing's gonna change my world	2014	0	10.1007/s11739-014-1135-y
+37	10	Come together, right now	2025	0	10.1016/j.molcel.2025.02.009
+38	10	Come together, right now	2023	3	10.1287/mnsc.2023.4743
+39	10	Come together, right now	2021	7	10.1111/polp.12431
+40	10	Come together, right now	2019	38	10.1158/2159-8290.CD-18-1285
+41	10	Come together, right now	2018	0	
+42	10	Come together, right now	2018	0	10.1111/bjd.16699
+43	10	Come together, right now	2017	0	10.1017/S0147547916000387
+44	10	Come together, right now	2016	0	
+45	10	Come together, right now	2016	0	
+46	10	Come together, right now	2015	3	10.3726/978-1-4539-1672-8
+47	10	Come together, right now	2015	0	10.1182/blood-2014-11-606608
+48	10	Come together, right now	2014	42	10.1162/jocn_a_00584
+49	10	Come together, right now	2013	0	
+50	10	Come together, right now	2011	0	10.1089/gtmb.2011.1524
+51	10	Come together, right now	2009	0	10.1038/nsmb1209-1201
+52	10	Come together, right now	2009	0	10.1097/01974520-200901000-00005
+53	10	Come together, right now	2008	0	10.1049/et:20082016
+54	10	Come together, right now	2008	0	10.1109/Agile.2008.28
+55	10	Come together, right now	2008	4	10.1521/ijgp.2008.58.4.575
+56	10	Come together, right now	2005	248	10.1016/j.neuron.2005.11.001
+57	10	Come together, right now	2005	0	
+58	10	Come together, right now	2003	0	
+59	10	Come together, right now	2002	0	
+60	11	Get back to where you once belonged	2024	4	10.1016/j.pirs.2024.100036
+61	11	Get back to where you once belonged	2012	7	10.1017/S0261143012000025
+62	11	Get back to where you once belonged	2008	4	10.1590/S1413-81232008000600007
+63	11	Get back to where you once belonged	1998	46	
+64	12	Help! I need somebody	2024	0	10.1007/s10961-024-10125-2
+65	12	Help! I need somebody	2024	3	10.1007/s10926-023-10123-5
+66	12	Help! I need somebody	2023	1	10.1145/3613372.3613389
+67	12	Help! I need somebody	2023	0	10.5465/AMPROC.2023.191bp
+68	12	Help! I need somebody	2022	2	10.1002/nml.21494
+69	12	Help! I need somebody	2021	67	10.3389/fpsyg.2021.648013
+70	12	Help! I need somebody	2020	19	10.1016/j.chb.2020.106310
+71	12	Help! I need somebody	2016	5	10.1111/anae.13497
+72	12	Help! I need somebody	2014	0	
+73	12	Help! I need somebody	2014	1	
+74	12	Help! I need somebody	2011	0	10.1021/op2002722
+75	12	Help! I need somebody	2010	0	10.4037/ccn2010286
+76	12	Help! I need somebody	2005	0	
+77	12	Help! I need somebody	1998	208	10.1521/soco.1998.16.4.400
+78	12	Help! I need somebody	1966	0	
+79	13	It's getting better all the time	2025	0	10.1111/petr.14904
+80	13	It's getting better all the time	2019	0	10.1080/14606925.2019.1634448
+81	13	It's getting better all the time	2018	12	10.1504/IJEV.2018.090982
+82	13	It's getting better all the time	2017	0	10.1002/ccd.26919
+83	13	It's getting better all the time	2014	0	
+84	13	It's getting better all the time	2013	1	10.1007/s00134-013-2995-8
+85	13	It's getting better all the time	2013	0	10.4103/0972-124X.107463
+86	13	It's getting better all the time	2012	13	10.1007/s10437-012-9122-z
+87	13	It's getting better all the time	2012	0	
+88	13	It's getting better all the time	2011	19	10.1111/j.1467-9450.2011.00914.x
+89	13	It's getting better all the time	2009	0	
+90	13	It's getting better all the time	2009	0	
+91	13	It's getting better all the time	2007	0	10.12968/bjhc.2007.13.11.27707
+92	13	It's getting better all the time	2005	0	10.1001/virtualmentor.2005.7.10.jdsc1-0510
+93	13	It's getting better all the time	2003	0	10.1086/502119
+94	13	It's getting better all the time	2003	0	
+95	13	It's getting better all the time	2000	0	
+96	13	It's getting better all the time	1998	8	10.1016/s0140-6736(98)90266-5
+97	13	It's getting better all the time	1989	0	10.1016/0891-5849(89)90001-4
+98	13	It's getting better all the time	1984	1	10.1038/312206a0
+99	13	It's getting better all the time	2015	0	
+100	14	Something in the way she moves	2018	3	10.1080/13506285.2018.1471560
+101	14	Something in the way she moves	2017	35	10.1016/j.bbapap.2017.08.014
+102	14	Something in the way she moves	2014	15	10.3758/s13423-013-0517-x
+103	14	Something in the way she moves	2012	2	10.3758/s13414-011-0228-1
+104	14	Something in the way she moves	2004	22	10.1093/oep/gpf039
+105	14	Something in the way she moves	2004	10	10.1016/j.tics.2003.12.009
+106	14	Something in the way she moves	1996	6	10.1053/gast.1996.v111.agast961110823
+107	15	You say you want a revolution	2024	1	10.1097/PCC.0000000000003328
+108	15	You say you want a revolution	2023	0	
+109	15	You say you want a revolution	2023	0	10.1629/uksg.632
+110	15	You say you want a revolution	2021	1	10.1007/s11098-021-01603-6
+111	15	You say you want a revolution	2021	0	10.4000/apliut.8413
+112	15	You say you want a revolution	2020	3	10.1515/9783110670837-024
+113	15	You say you want a revolution	2020	1	
+114	15	You say you want a revolution	2020	5	
+115	15	You say you want a revolution	2019	0	
+116	15	You say you want a revolution	2019	0	
+117	15	You say you want a revolution	2017	0	10.1162/DESI_r_00466
+118	15	You say you want a revolution	2017	0	10.1080/14606925.2017.1352866
+119	15	You say you want a revolution	2017	0	
+120	15	You say you want a revolution	2016	63	10.1016/j.dhjo.2015.12.006
+121	15	You say you want a revolution	2015	5	10.1177/0004867415610200
+122	15	You say you want a revolution	2015	37	10.1177/1094670515582037
+123	15	You say you want a revolution	2015	1	10.4324/9781315756035
+124	15	You say you want a revolution	2015	2	10.17660/ActaHortic.2015.1085.83
+125	15	You say you want a revolution	2015	14	10.4000/apliut.5020
+126	15	You say you want a revolution	2015	0	
+127	15	You say you want a revolution	2014	17	10.1007/s12142-014-0315-5
+128	15	You say you want a revolution	2014	0	
+129	15	You say you want a revolution	2014	0	
+130	15	You say you want a revolution	2014	0	
+131	15	You say you want a revolution	2014	0	
+132	15	You say you want a revolution	2014	0	
+133	15	You say you want a revolution	2014	0	
+134	15	You say you want a revolution	2014	0	
+135	15	You say you want a revolution	2013	14	10.1001/jamainternmed.2013.7042
+136	15	You say you want a revolution	2013	104	10.1016/j.envsci.2012.11.011
+137	15	You say you want a revolution	2013	0	
+138	15	You say you want a revolution	2013	1	10.4324/9780203761830
+139	15	You say you want a revolution	2013	0	10.4324/9780203761830-7
+140	15	You say you want a revolution	2012	0	10.1017/S0140525X12001409
+141	15	You say you want a revolution	2012	1	10.1016/j.hcmf.2012.09.009
+142	15	You say you want a revolution	2011	17	
+143	15	You say you want a revolution	2010	0	10.1109/MCSE.2010.52
+144	15	You say you want a revolution	2010	0	
+145	15	You say you want a revolution	2009	6	10.1016/j.jmig.2009.01.001
+146	15	You say you want a revolution	2009	2	10.1371/journal.pgen.1000560
+147	15	You say you want a revolution	2009	9	
+148	15	You say you want a revolution	2008	0	
+149	15	You say you want a revolution	2008	6	10.1126/science.322.5902.664
+150	15	You say you want a revolution	2006	0	
+151	15	You say you want a revolution	2004	0	
+152	15	You say you want a revolution	2003	3	
+153	15	You say you want a revolution	2002	0	
+154	15	You say you want a revolution	1999	0	
+155	15	You say you want a revolution	1999	5	10.1080/01495939908403187
+156	15	You say you want a revolution	1999	0	10.1080/03064229908536662
+157	15	You say you want a revolution	1999	92	10.1177/0022002799043003002
+158	15	You say you want a revolution	1998	0	
+159	15	You say you want a revolution	1997	1	
+160	21	Will you still need me, will you still feed me	2020	4	10.1016/j.cub.2020.07.002
+161	21	Will you still need me, will you still feed me	2019	1	10.1001/jamasurg.2019.1160
+162	21	Will you still need me, will you still feed me	2017	64	10.1002/hec.3542
+163	21	Will you still need me, will you still feed me	2014	6	10.1038/514S14a
+164	21	Will you still need me, will you still feed me	2013	8	10.1634/theoncologist.2013-0173
+165	21	Will you still need me, will you still feed me	2013	14	10.1111/eulj.12042
+166	21	Will you still need me, will you still feed me	2013	0	
+167	21	Will you still need me, will you still feed me	2009	0	10.1163/9789042027404_014
+168	21	Will you still need me, will you still feed me	2006	0	
+169	21	Will you still need me, will you still feed me	1997	15	10.1111/1467-9515.00044
+170	21	Will you still need me, will you still feed me	1990	0	
+171	22	You say yes, I say no	2023	1	10.16995/glossa.9185
+172	22	You say yes, I say no	2013	4	10.1007/978-3-642-40346-0_12
+173	22	You say yes, I say no	2011	1	
+174	27	Speaking words of wisdom	2024	0	
+175	27	Speaking words of wisdom	2005	1	
+176	33	Life goes on	2025	1	10.1136/bmj.r254
+177	33	Life goes on	2024	1	10.1017/S1478951523000044
+178	33	Life goes on	2024	0	10.32735/s0718-22012024000583575
+179	33	Life goes on	2024	2	10.1111/lit.12366
+180	33	Life goes on	2024	0	10.1111/acem.14841
+181	33	Life goes on	2024	1	10.1111/gcb.17248
+182	33	Life goes on	2024	0	10.1080/10646175.2024.2357312
+183	33	Life goes on	2024	0	10.1080/02643944.2024.2425543
+184	33	Life goes on	2024	0	10.1080/14759756.2023.2227395
+185	33	Life goes on	2023	0	10.33993/drl.2023.10.219.238
+186	33	Life goes on	2023	0	
+187	33	Life goes on	2023	0	10.1007/978-3-031-30784-3_26
+188	33	Life goes on	2022	0	10.1017/S0140525X22000152
+189	33	Life goes on	2022	2	10.1097/TGR.0000000000000369
+190	33	Life goes on	2021	0	10.1016/j.yapd.2021.05.016
+191	33	Life goes on	2021	2	10.1016/j.regg.2021.04.008
+192	33	Life goes on	2021	1	10.18552/IJPBLHSC.V9I1.758
+193	33	Life goes on	2021	12	10.1080/13607863.2019.1675141
+194	33	Life goes on	2021	0	10.18565/aig.2021.10.191-193
+195	33	Life goes on	2021	0	
+196	33	Life goes on	2020	1	10.1177/1089253220969248
+197	33	Life goes on	2020	0	10.1007/s11673-020-09986-7
+198	33	Life goes on	2020	3	10.1111/jocn.15117
+199	33	Life goes on	2020	1	10.5325/intelitestud.22.1-2.0160
+200	33	Life goes on	2019	8	10.1111/inm.12587
+201	33	Life goes on	2019	3	10.1017/9781108589727.008
+202	33	Life goes on	2018	30	10.1177/1049732318755675
+203	33	Life goes on	2018	21	10.1177/0959683617752841
+204	33	Life goes on	2018	2	
+205	33	Life goes on	2017	0	10.4102/hts.v73i4.4425
+206	33	Life goes on	2016	0	
+207	33	Life goes on	2015	0	
+208	33	Life goes on	2015	1	10.1002/evan.21447
+209	33	Life goes on	2015	0	10.1007/s13312-015-0618-x
+210	33	Life goes on	2014	27	10.1111/fare.12053
+211	33	Life goes on	2013	0	10.7775/rac.es.v81.i4.2952
+212	33	Life goes on	2013	3	10.3109/01612840.2012.732192
+213	33	Life goes on	2012	12	10.1007/s11673-012-9379-6
+214	33	Life goes on	2012	0	
+215	33	Life goes on	2012	0	10.1136/bmj.e155
+216	33	Life goes on	2011	1	10.1016/j.plrev.2011.07.012
+217	33	Life goes on	2011	21	10.1643/CG-10-164
+218	33	Life goes on	2011	5	
+219	33	Life goes on	2010	0	
+220	33	Life goes on	2010	3	10.1093/sleep/33.1.15
+221	33	Life goes on	2009	0	
+222	33	Life goes on	2008	0	
+223	33	Life goes on	2008	0	10.1111/j.1469-8749.2008.03082.x
+224	33	Life goes on	2006	0	
+225	33	Life goes on	2006	2	10.3917/gs.116.0119
+226	33	Life goes on	2005	4	
+227	33	Life goes on	2005	0	
+228	33	Life goes on	2004	0	
+229	33	Life goes on	2004	1	10.1163/156853104323018307
+230	33	Life goes on	2002	0	
+231	33	Life goes on	2002	0	10.1016/S0735-1097(01)01787-9
+232	33	Life goes on	2002	3	10.3138/md.45.4.611
+233	33	Life goes on	2001	0	
+234	33	Life goes on	1999	0	
+235	33	Life goes on	1998	0	
+236	33	Life goes on	1998	0	
+237	33	Life goes on	1994	0	10.1001/jama.272.17.1379
+238	33	Life goes on	1993	0	
+239	33	Life goes on	1991	1	
+240	33	Life goes on	1989	6	10.1016/0140-1971(89)90086-9
+241	33	Life goes on	1988	0	
+242	33	Life goes on	1986	0	
+243	33	Life goes on	1983	1	10.1093/jaarel/LI.1.37
+244	33	Life goes on	1983	0	10.1097/00004714-198312000-00001
+245	34	Love is all you need	2023	1	10.34135/lartis.23.8.1.07
+246	34	Love is all you need	2018	1	10.14236/ewic/HCI2018.28
+247	34	Love is all you need	2014	1	
+248	34	Love is all you need	2014	7	10.1057/9781137340993_3
+249	34	Love is all you need	2013	9	10.1080/01292986.2012.729148
+250	34	Love is all you need	2013	0	10.1016/S1470-2045(13)70201-8
+251	34	Love is all you need	2009	0	10.1017/CBO9780511576386.021
+252	34	Love is all you need	2008	0	10.1111/j.1744-540X.2008.00525.x
+253	34	Love is all you need	2007	23	10.3200/JPFT.34.4.160-169
+254	34	Love is all you need	2003	0	
+255	34	Love is all you need	2000	7	10.1111/j.1744-6155.2000.tb00106.x
+256	34	Love is all you need	1999	58	10.1006/jado.1998.0200
+257	34	Love is all you need	1994	0	10.1136/bmj.309.6957.816
