@@ -59,7 +59,7 @@ sample of 300 wordplay candidates (150 the model labelled as wordplay, 150 as no
 model's predictions and to one another's labels. Taking the majority human label as ground truth:
 
 - **LLM vs. human majority:** precision 0.46, NPV 0.91, recall 0.83, F1 0.59, Cohen's κ 0.37
-- **Inter-annotator agreement:** pairwise Cohen's κ 0.76–0.86, Fleiss' κ 0.82 ("almost perfect")
+- **Inter-annotator agreement:** pairwise Cohen's κ 0.76–0.86, Fleiss' κ 0.82
 
 Because the sample is balanced 1:1 by the model's label, precision and NPV are unbiased for the
 full candidate set, while recall, F1, and accuracy are conditional on the balanced design. False
@@ -174,7 +174,7 @@ The few-shot examples in `prompts/user_prompt.txt` cover both positive cases (ge
 
 ## Song curation
 
-The 137 songs in `data/beatles_songs.txt` were selected from the full Beatles discography by excluding:
+The 112 songs in `data/beatles_selected_songs.txt` were selected from the full Beatles discography (`data/beatles_songs.txt`) by excluding:
 - Cover songs and songs not originally written by the Beatles
 - Titles too generic to yield reliable matches (e.g., *Get Back*, *Yesterday*)
 - Titles too obscure to plausibly appear as deliberate references
