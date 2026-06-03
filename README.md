@@ -20,9 +20,9 @@ The pipeline has three stages, all implemented in `wordplay_pipeline.ipynb`:
 `scopus.py` is a standalone command-line alternative for the exact retrieval stage (see *Download the Scopus data* below).
 
 **Key numbers from the paper:**
-- 4,120 exact song title / lyric references identified
-- 1,251 instances of creative wordplay detected
-- 137 Beatles songs in the curated search list (see `data/beatles_songs.txt`)
+- 2,306 exact song title / lyric references identified
+- 1,247 instances of creative wordplay detected
+- 112 curated Beatles songs used in the published analysis (see `data/beatles_selected_songs.txt`)
 - 36 characteristic lyric phrases (see `data/beatles_lyrics.txt`)
 
 ---
@@ -32,14 +32,16 @@ The pipeline has three stages, all implemented in `wordplay_pipeline.ipynb`:
 ```
 .
 ├── data/
-│   ├── beatles_songs.txt          # 137 curated Beatles song titles used for search
+│   ├── beatles_songs.txt          # full Beatles discography (search list)
 │   ├── beatles_lyrics.txt         # 36 characteristic Beatles lyric phrases
-│   ├── beatles_selected_songs.txt # song subset used for the published analysis
-│   └── shared/                    # minimal-column reference data (data availability)
+│   ├── beatles_selected_songs.txt # 112 curated songs used in the published analysis
+│   └── shared/                    # minimal-column data for sharing (data availability)
+│       └── wordplay_annotation_sample.csv  # 300-title human validation set
 ├── prompts/
 │   ├── system_prompt.txt          # GPT-4o-mini system prompt for wordplay classification
 │   └── user_prompt.txt            # User prompt template with few-shot examples
 ├── wordplay_pipeline.ipynb        # Full pipeline: exact + approximate retrieval + LLM tagging
+├── annotation_validation.ipynb    # Human validation: precision/recall/F1 + inter-annotator agreement
 ├── scopus.py                      # Standalone CLI for the exact-retrieval stage
 ├── prepare_shared_data.py         # Export minimal-column copies of the reference data
 ├── Generate_Plots.R               # Reproduce the paper's figures and tables
@@ -47,6 +49,25 @@ The pipeline has three stages, all implemented in `wordplay_pipeline.ipynb`:
 ├── .env.example
 └── .gitignore
 ```
+
+---
+
+## Validation of the wordplay classifier
+
+To validate the GPT-4o-mini classifier, all three authors independently annotated a stratified
+sample of 300 wordplay candidates (150 the model labelled as wordplay, 150 as not), blind to the
+model's predictions and to one another's labels. Taking the majority human label as ground truth:
+
+- **LLM vs. human majority:** precision 0.46, NPV 0.91, recall 0.83, F1 0.59, Cohen's κ 0.37
+- **Inter-annotator agreement:** pairwise Cohen's κ 0.76–0.86, Fleiss' κ 0.82 ("almost perfect")
+
+Because the sample is balanced 1:1 by the model's label, precision and NPV are unbiased for the
+full candidate set, while recall, F1, and accuracy are conditional on the balanced design. False
+positives are dominated by *misattributed* wordplay — genuine puns, but on a different song,
+artist, or source than the one supplied.
+
+- `annotation_validation.ipynb` — reproduces every metric with 95% bootstrap confidence intervals
+- `data/shared/wordplay_annotation_sample.csv` — the 300 titles with each rater's Yes/No label and the majority vote
 
 ---
 

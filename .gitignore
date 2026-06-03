@@ -28,6 +28,10 @@ build/
 venv/
 env/
 
+# R
+.Rhistory
+.RData
+
 # macOS
 .DS_Store
 

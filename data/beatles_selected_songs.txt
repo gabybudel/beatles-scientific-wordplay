@@ -1,12 +1,8 @@
 song	year
-Across the Universe	1969
-All I've Got to Do	1963
 All My Loving	1963
-All Together Now	1969
 All You Need Is Love	1967
 And I Love Her	1964
 And Your Bird Can Sing	1966
-Any Time at All	1964
 Baby, You're a Rich Man	1967
 Baby's in Black	1964
 Back in the U.S.S.R.	1968
@@ -17,8 +13,6 @@ Can't Buy Me Love	1964
 Carry That Weight	1969
 The Continuing Story of Bungalow Bill	1968
 Cry Baby Cry	1968
-A Day in the Life	1967
-Day Tripper	1965
 Dear Prudence	1968
 Dig a Pony	1970
 Do You Want to Know a Secret	1963
@@ -31,8 +25,6 @@ Eleanor Rigby	1966
 Everybody's Got Something to Hide Except Me and My Monkey	1968
 Fixing a Hole	1967
 The Fool on the Hill	1967
-For No One	1966
-For You Blue	1970
 From Me to You	1963
 Glass Onion	1968
 Golden Slumbers	1969
@@ -49,30 +41,22 @@ Hey Bulldog	1969
 Hey Jude	1968
 Honey Pie	1968
 I Am the Walrus	1967
-I Call Your Name	1964
 I Don't Want to Spoil the Party	1964
 I Me Mine	1970
 I Saw Her Standing There	1963
 I Should Have Known Better	1964
 I Wanna Be Your Man	1963
 I Want to Hold Your Hand	1963
-I Want to Tell You	1966
 If I Fell	1964
 If I Needed Someone	1965
 I'll Cry Instead	1964
 I'll Follow the Sun	1964
-I'll Get You	1963
 I'm a Loser	1964
 I'm Happy Just to Dance with You	1964
 I'm Looking Through You	1965
 I'm Only Sleeping	1966
 I'm So Tired	1968
-I've Got a Feeling	1970
 I've Just Seen a Face	1965
-In My Life	1965
-It Won't Be Long	1963
-It's All Too Much	1969
-It's Only Love	1965
 Komm, gib mir deine Hand	1964
 Lady Madonna	1968
 Let It Be	1970
@@ -85,13 +69,11 @@ Martha My Dear	1968
 Maxwell's Silver Hammer	1969
 Mean Mr. Mustard	1969
 Mother Nature's Son	1968
-No Reply	1964
 Norwegian Wood (This Bird Has Flown)	1965
 Not a Second Time	1963
 Nowhere Man	1965
 Ob-La-Di, Ob-La-Da	1968
 Octopus's Garden	1969
-Oh! Darling	1969
 Old Brown Shoe	1969
 One After 909	1970
 Only a Northern Song	1969
@@ -102,7 +84,6 @@ Polythene Pam	1969
 P.S. I Love You	1962
 Revolution 9	1968
 Rocky Raccoon	1968
-Run for Your Life	1965
 Savoy Truffle	1968
 Sexy Sadie	1968
 Sgt. Pepper's Lonely Hearts Club Band	1967
@@ -113,10 +94,7 @@ She's a Woman	1964
 She's Leaving Home	1967
 Sie liebt dich	1964
 Strawberry Fields Forever	1967
-Tell Me What You See	1965
-Thank You Girl	1963
 Things We Said Today	1964
-Think for Yourself	1965
 Ticket to Ride	1965
 Tomorrow Never Knows	1966
 We Can Work It Out	1965
@@ -128,11 +106,8 @@ With a Little Help from My Friends	1967
 Within You Without You	1967
 Yellow Submarine	1966
 Yer Blues	1968
-You Can't Do That	1964
 You Know My Name (Look Up the Number)	1970
-You Like Me Too Much	1965
 You Never Give Me Your Money	1969
-You Won't See Me	1965
 Your Mother Should Know	1967
 You're Going to Lose That Girl	1965
 You've Got to Hide Your Love Away	1965
