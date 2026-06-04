@@ -167,9 +167,9 @@ The reference datasets behind the paper's results, plus the approximate wordplay
 | `lyrics_wordplay.txt` | 553 | lyric wordplay references |
 | `wordplay_candidates.txt` | — | approximate candidates before wordplay classification |
 
-Each row is one referencing article, with columns `paper_nr`, `song_nr`, `song_name`,
-`title`, `year`, `cited_by`, `doi`. Rows are ordered by descending per-song reference
-count, then newest first within each song; the song-title datasets cover the 112 selected songs.
+Each row is one referencing article, with columns `paper_nr`, `song_name`, `title`,
+`year`, `cited_by`, `doi`. Rows are ordered by descending per-song reference count, then
+newest first within each song; the song-title datasets cover the 112 selected songs.
 
 Regenerate them from the retrieved data with:
 

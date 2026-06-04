@@ -1,695 +1,695 @@
-paper_nr	song_nr	song_name	title	year	cited_by	doi
-0	20	Here Comes the Sun	Here comes the SU(N): multivariate quantum gates and gradients	2024	7	10.22331/q-2024-03-07-1275
-1	20	Here Comes the Sun	'Here comes the (Turkish) bride': American consumer culture and the Turkish bridal industry	2024	0	10.1386/fspc_00092_1
-2	20	Here Comes the Sun	Here Comes the STRAIN: Analyzing Defensive Pass Rush in American Football with Player Tracking Data	2024	3	10.1080/00031305.2023.2242442
-3	20	Here Comes the Sun	HERE COMES THE MULTIPLEX! Notes for a 'Flipped' History of the Italian Film Market (1998-2015)	2024	0	10.26350/001200_000217
-4	20	Here Comes the Sun	Here Comes the Change: The Role of Global and Domestic Factors in Post-Pandemic Inflation in Europe	2024	0	10.5089/9798400225789.001
-5	20	Here Comes the Sun	But Here Comes the Water... -Dam-Induced Displacement and Resettlement in the Technological and Hydroelectric Landscapes of Portugal's New State (1933-1974)	2024	0	10.2478/host-2024-0016
-6	20	Here Comes the Sun	"Quoting as a Reflection Technique in K. D. Vorobyov's Novella ""Here Comes the Giant..."""	2023	0	10.31857/S013161170026402-1
-7	20	Here Comes the Sun	Here Comes the Cat Quietly Became Popular: Content Marketing in the New Media Era	2023	0	10.1007/978-981-99-1741-9_28
-8	20	Here Comes the Sun	Attention, here comes the EU Data Act! A critical in-depth analysis of the Commission's 2022 Proposal	2022	7	
-9	20	Here Comes the Sun	Austerity and the Precarity of Whiteness: Polish Characters in Stacey Gregg's Shibboleth (2015) and Rosemary Jenkinson's Here Comes the Night (2016)	2022	0	10.4324/9781003207474-11
-10	20	Here Comes the Sun	"Here comes the large catfish ""jau"" Zungaro jahu (Ihering 1898) (Teleostei, Pimelodidae): a new alarming case of fish introduction in a high-endemism Neotropical ecoregion"	2022	0	10.1590/S2179-975X4322
-11	20	Here Comes the Sun	Here Comes the Hot-Stepper: Hollywood Renaissance, Indie Film and Robert Altman's Comeback in the 1990s	2022	2	
-12	20	Here Comes the Sun	'Here comes the story of the Hurricane': A case report of AL cardiac amyloidosis and myocardial bridging	2022	3	10.1093/ehjcr/ytac225
-13	20	Here Comes the Sun	CELL BIOLOGY: Here comes the cavalry!	2021	0	10.1126/SCIENCE.371.6524.40-A
-14	20	Here Comes the Sun	Here Comes the Junkies, Opioid Replacement Therapy in Rural Australia	2021	0	10.1097/JAN.0000000000000378
-15	20	Here Comes the Sun	Here comes the dress: Daily resistance in Edwidge Danticat's The Dew Breaker	2021	0	10.4324/9780429354236-20
-16	20	Here Comes the Sun	Here comes the summer	2021	0	
-17	20	Here Comes the Sun	Here comes the flood, but not failure? Lessons to learn after the heavy rain and pluvial floods in germany 2021	2021	133	10.3390/w13213016
-18	20	Here Comes the Sun	'Here Comes the Period of Hard and Long-lasting Diplomatic Struggles': Polish Diplomacy and the Concept of the Western Pact, 1936-1937	2021	0	10.1080/09592296.2021.1961486
-19	20	Here Comes the Sun	"After three decades of neoliberal hegemony, here comes the ""populist moment""?"	2020	0	10.4000/mcv.13088
-20	20	Here Comes the Sun	Here comes the flood! Stress effects of continuous and interval waterlogging periods during the growing season on Scots pine saplings	2020	14	10.1093/treephys/tpaa036
-21	20	Here Comes the Sun	Here comes the sure	2020	0	
-22	20	Here Comes the Sun	Here comes the flood	2020	0	
-23	20	Here Comes the Sun	Here comes the new world	2020	0	10.53738/REVMED.2020.16.683.0428
-24	20	Here Comes the Sun	Artificial Intelligence in IR-Here Comes the Heavy Lifting	2020	2	10.1016/j.jvir.2019.12.795
-25	20	Here Comes the Sun	"Here comes the new one. Mass culture and western cultural patterns in the opinions and evaluations of the party and state authorities in Poland of the ""Gomulka era"" (1956 - 1970)"	2020	0	
-26	20	Here Comes the Sun	ATMOSPHERIC SCIENCE: Here comes the flood	2019	0	10.1126/SCIENCE.366.6470.1209-E
-27	20	Here Comes the Sun	Delivering information literacy via Facebook: Here comes the Spinach!	2019	1	10.18438/eblip29532
-28	20	Here Comes the Sun	Here comes the water: Risk assessments, observation and knowledge of Ompundja village	2019	1	10.4102/JAMBA.V11I1.507
-29	20	Here Comes the Sun	Terror in Christchurch: Here comes the 'Peace Train'	2019	0	10.1386/AJPC_00002_1
-30	20	Here Comes the Sun	Bridging higher education and industrial needs: Here comes the specialist!	2019	0	
-31	20	Here Comes the Sun	Cell Division: Here Comes the Kinesin Cavalry	2018	0	10.1016/j.cub.2018.07.054
-32	20	Here Comes the Sun	Here Comes the Bad News: Doctor Robot Taking Over	2018	15	10.1007/s12369-017-0455-2
-33	20	Here Comes the Sun	Here Comes the Sunshine: Industry's Payments to Cardiothoracic Surgeons	2017	19	10.1016/j.athoracsur.2016.06.053
-34	20	Here Comes the Sun	Here comes the Son: Masayoshi Son and Saudi Arabia launch a monster technology fund	2017	0	
-35	20	Here Comes the Sun	Biological labels: Here comes the spaser	2017	12	10.1038/nmat4943
-36	20	Here Comes the Sun	Que viene el Coco: Here comes the Boogeyman	2017	0	10.4324/9781315680392
-37	20	Here Comes the Sun	Here comes the rain: Assessing storm hazards vulnerability in Northeast Ohio	2017	5	10.1016/j.ijdrr.2017.07.004
-38	20	Here Comes the Sun	Here comes the Doctor!: Sanitation guards, labor relations, and the formation of identity (1930s and 1940s)	2016	0	10.1590/1806-93472016v36n71_003
-39	20	Here Comes the Sun	Fasten your seat belts: Here comes the Trump Administration	2016	0	
-40	20	Here Comes the Sun	Here comes the summer!	2015	0	
-41	20	Here Comes the Sun	Here Comes the Bride : Re-Envisioning the Wedding at Cana in the 12th Century	2015	0	10.1163/18712428-09502001
-42	20	Here Comes the Sun	Here comes the flood......	2015	0	10.1080/03071375.2015.1138730
-43	20	Here Comes the Sun	SoftBank: Here comes the Son	2015	0	
-44	20	Here Comes the Sun	Here comes the cord	2014	0	10.5045/br.2014.49.4.209
-45	20	Here Comes the Sun	Urban Inertia and Dealing with the Disappeared in Postwar Beirut: A Perfect Day (2004) and Here Comes the Rain (2010)	2014	2	
-46	20	Here Comes the Sun	Here comes the revolution - the European digital agenda	2014	13	10.1057/9781137032195
-47	20	Here Comes the Sun	Photography's linguistic turn: On Werner Graeff's here comes the new photographer!	2013	0	
-48	20	Here Comes the Sun	Here comes the science bit	2013	0	
-49	20	Here Comes the Sun	Don't fear the reaper: Here comes the drone lobby	2013	1	
-50	20	Here Comes the Sun	Here comes the cavalry: Glimmers of hope for a long-suffering newspaper	2013	0	
-51	20	Here Comes the Sun	Analgesia in emergency departments: Here comes the sufentanyl...	2013	0	10.1016/j.douler.2013.02.002
-52	20	Here Comes the Sun	Here comes the new: Deadwood and the historiography of capitalism	2013	6	
-53	20	Here Comes the Sun	Here comes the judge	2013	0	10.1353/sew.2013.0109
-54	20	Here Comes the Sun	Here comes the toothbus	2013	0	
-55	20	Here Comes the Sun	Here comes the sausage: An empirical study of children's verbal communication during a collaborative music-making activity	2013	12	10.1080/14613808.2013.812626
-56	20	Here Comes the Sun	Here comes the science bit	2012	0	
-57	20	Here Comes the Sun	Here comes the baby carriage, but where goes our sex life? Sexuality and the transition to parenthood	2012	1	
-58	20	Here Comes the Sun	Here comes the brand: Wedding media and the management of transformation	2012	15	10.1080/10304312.2012.630143
-59	20	Here Comes the Sun	Here Comes the Judge: Violent Pacifism in the Book of Revelation	2012	10	
-60	20	Here Comes the Sun	Ready or not, here comes the smart grid!	2012	160	10.1016/j.energy.2011.07.054
-61	20	Here Comes the Sun	Here comes the bogeyman: Exploring contemporary issues in writing for children	2012	1	10.4324/9780203156872
-62	20	Here Comes the Sun	Here comes the era of rare projects	2011	0	
-63	20	Here Comes the Sun	Here comes the yuan: A city's bid to revive its fortunes through the local and the global	2011	0	
-64	20	Here Comes the Sun	Here comes the judge: A small contribution to the study of French input into the vocabulary of the law in Middle English	2011	2	
-65	20	Here Comes the Sun	Wetter world: Here comes the rain	2011	0	10.1016/S0262-4079(11)60631-3
-66	20	Here Comes the Sun	Here COMes the future!	2010	0	
-67	20	Here Comes the Sun	Passive radar: Here comes the new generation VERA-NG	2010	0	
-68	20	Here Comes the Sun	Here comes the new Redditometro: Here's how to be prepared	2010	0	
-69	20	Here Comes the Sun	The first case of multidrug-resistant NDM-1-harboring enterobacteriaceae in Taiwan: Here comes the superbacteria!	2010	23	10.1016/S1726-4901(10)70121-0
-70	20	Here Comes the Sun	Here comes the electric nissan	2010	0	
-71	20	Here Comes the Sun	Here comes the robotic brain!	2010	1	10.1007/978-3-642-15810-0_15
-72	20	Here Comes the Sun	Here comes the money. Providers should begin to receive EHR incentive funds by end of January.	2010	0	
-73	20	Here Comes the Sun	Chinese paperboard capacity expansion: Here comes the boxboard!	2010	0	
-74	20	Here Comes the Sun	Here comes the semiotic species: Reflections on the semiotic turn in the cognitive sciences	2009	8	10.4324/9780203856550
-75	20	Here Comes the Sun	Here comes the bride: An ethnographic content analysis of bridal books	2009	11	10.1080/08952830902952267
-76	20	Here Comes the Sun	Never Mind the Web: Here Comes the Book	2009	0	10.1108/00242530910997991
-77	20	Here Comes the Sun	Here comes the chickens	2009	0	
-78	20	Here Comes the Sun	Here comes the (daughter of the) bride: Parental weddings in two contemporary girls' series books	2009	2	10.1007/s10583-007-9061-5
-79	20	Here Comes the Sun	Here comes the Sunshine. Lawmakers eye physician-owned GPOs for reporting.	2009	0	
-80	20	Here Comes the Sun	Outlook 2009: Healthcare IT: here comes the money.	2009	0	
-81	20	Here Comes the Sun	Here Comes the New Boss	2009	0	10.1016/j.jacr.2009.01.001
-82	20	Here Comes the Sun	Here comes the controversial new sugar substitute stevia. Soon it could sweeten foods from yogurt to diet soda.	2008	1	
-83	20	Here Comes the Sun	'Here comes the judge'(with absent left arm swing)	2008	0	10.3109/9780203008454-90
-84	20	Here Comes the Sun	Here comes the son: A shandean project	2008	1	10.3138/9781442687349-014
-85	20	Here Comes the Sun	Never Mind the Web: Here Comes the Book	2008	24	10.1533/9781780632162
-86	20	Here Comes the Sun	Never mind the Web. Here comes the book.: Continuity and discontinuity in the fate of reading	2008	3	10.2959/logo.2008.19.3.151
-87	20	Here Comes the Sun	Here comes the future: The network south - A portrait	2007	0	
-88	20	Here Comes the Sun	Here comes the bear	2007	0	
-89	20	Here Comes the Sun	Here comes the scan	2007	0	
-90	20	Here Comes the Sun	Here comes the Nazarene: Conrad's treatment of the Serani and the racial politics of empire	2007	2	10.1353/cnd.2008.0001
-91	20	Here Comes the Sun	Drug discovery: here comes the worm.	2006	26	10.1021/cb600221m
-92	20	Here Comes the Sun	Here comes the 'cybernators'!	2006	6	10.1016/j.clsr.2006.07.005
-93	20	Here Comes the Sun	Here comes the future [10]	2006	0	10.1377/hlthaff.25.2.570-b
-94	20	Here Comes the Sun	Here comes the Fiance	2006	0	
-95	20	Here Comes the Sun	Ready or not! Here comes the value-driven health care system.	2006	0	
-96	20	Here Comes the Sun	Here comes the gift horse	2006	1	10.1038/nmat1682
-97	20	Here Comes the Sun	Here comes the real bride: Anna de Austria and the birth of theater in Spain	2006	1	
-98	20	Here Comes the Sun	Here comes the NPI.	2005	0	
-99	20	Here Comes the Sun	Here comes the judge	2005	0	
-100	20	Here Comes the Sun	Here comes the Chief Supply Chain Officer	2005	0	
-101	20	Here Comes the Sun	Here comes the cycling squad!	2005	0	10.1038/nrm1582
-102	20	Here Comes the Sun	Here comes the flood	2005	0	
-103	20	Here Comes the Sun	Here comes the middle age: One who could save! A short and painful discussion of the more clamorous cultural swindle in the history of western music	2005	0	
-104	20	Here Comes the Sun	Ready or not, here comes the future	2005	0	
-105	20	Here Comes the Sun	For the dental patient. Here comes the bride ... and her teeth are nice and bright.	2004	0	10.14219/jada.archive.2004.0259
-106	20	Here Comes the Sun	Here comes the mayor	2004	0	
-107	20	Here Comes the Sun	Here comes the crash	2004	0	
-108	20	Here Comes the Sun	Here comes the revolution	2004	0	
-109	20	Here Comes the Sun	Here comes the judge: The influence of judge personal characteristics on federal sexual harassment case outcomes	2003	52	10.1023/A:1021678912133
-110	20	Here Comes the Sun	Here comes the judge - Duties and responsibilities of design professionals when deciding disputes	2003	8	10.1061/(ASCE)1052-3928(2003)129:3(177)
-111	20	Here Comes the Sun	Here comes the rain...	2003	2	
-112	20	Here Comes the Sun	Here comes the new wave: Rx-to-OTC switches represent a huge professional and marketing opportunity. Are R.Ph.s ready?	2003	0	
-113	20	Here Comes the Sun	Here comes the press!	2002	0	
-114	20	Here Comes the Sun	Here comes the real bride: Anna de Austria and the birth of theater in Spain	2002	0	
-115	20	Here Comes the Sun	New kids on the block. Here comes the next generation of workers: they have Gen Xers' energy and skills, with a new attitude.	2001	8	
-116	20	Here Comes the Sun	Here comes the rain	2001	3	
-117	20	Here Comes the Sun	Whose monastery is it anyway? translating culture in here comes the messiah!	2001	0	10.1080/07374836.2001.10523783
-118	20	Here Comes the Sun	Here comes the show of shows!	2000	0	
-119	20	Here Comes the Sun	Like a fly's eye: here comes the physically flexible imager	2000	0	
-120	20	Here Comes the Sun	Here comes the judge.	2000	0	
-121	20	Here Comes the Sun	Here comes the self-help revolution in mental health	2000	50	10.1037/0033-3204.37.4.370
-122	20	Here Comes the Sun	Here comes the NICE [2]	2000	0	
-123	20	Here Comes the Sun	Here comes the personal color proofing engine: Smashing bang for the buch	1997	0	
-124	20	Here Comes the Sun	Here comes the BBJ	1997	0	
-125	20	Here Comes the Sun	Move over, PC - here comes the tabletop accelerator	1996	0	
-126	20	Here Comes the Sun	Here comes the hot-dipper	1995	0	
-127	20	Here Comes the Sun	'Here comes the bride': The making of a 'modern traditional' wedding in western culture	1993	47	10.3138/jcfs.24.3.403
-128	20	Here Comes the Sun	Here Comes the Multimedia Generation! Ready? Or not? (abstract)	1993	0	10.1145/169073.169525
-129	20	Here Comes the Sun	Here comes the roving pregnancy monitors.	1993	0	
-130	20	Here Comes the Sun	Here comes the era of the volunteer.	1991	1	
-131	20	Here Comes the Sun	Watch out! Here comes the greenhouse	1990	2	10.1126/science.248.4955.549-b
-132	20	Here Comes the Sun	Here comes the Heathrow express	1990	0	
-133	20	Here Comes the Sun	Here comes the judge!	1988	0	
-134	20	Here Comes the Sun	Here comes the big new cleanup	1988	7	
-135	20	Here Comes the Sun	Here Comes the Judge! The Origins of Baseball's Commissioner System and American Legal Culture	1987	2	10.1111/j.0022-3840.1987.00129.x
-136	20	Here Comes the Sun	HERE COMES THE BILLION-TRANSISTOR IC.	1987	3	
-137	20	Here Comes the Sun	Move over Rotary and Kiwanis--here comes the Men's Club.	1985	0	
-138	20	Here Comes the Sun	Here comes the computer.	1983	0	
-139	20	Here Comes the Sun	Performance Appraisal: Here Comes the Judge	1981	1	10.2307/41164951
-140	20	Here Comes the Sun	Here Comes the Artificial Heart: Are we introducing a halfway technology with halfway policymaking?	1978	1	10.1002/j.2326-1951.1978.tb01256.x
-141	20	Here Comes the Sun	Microsystems: Here Comes the PET	1977	1	10.1109/C-M.1977.217533
-142	20	Here Comes the Sun	Get ready! Here comes the trustbusters.	1976	0	
-143	20	Here Comes the Sun	Rooty-toot-toot, here comes the substitute	1974	1	10.1007/BF02144927
-144	0	All You Need Is Love	All You Need is XOR-Convolution: A Generalized Higher-Order Side-Channel Attack with Application to XEX/XE-based Encryptions	2025	0	10.46586/tches.v2025.i3.317-360
-145	0	All You Need Is Love	All You Need Is SPACE: When Jailbreaking Meets Bias Audit and Reveals What Lies Beneath the Guardrails	2025	0	10.1609/aaai.v39i28.35249
-146	0	All You Need Is Love	All You Need Is Statistical Modeling to Predict Epileptic Seizures in Advance	2025	0	10.1007/978-981-96-2647-2_25
-147	0	All You Need Is Love	All You Need Is Your Voice: Emotional Face Representation with Audio Perspective for Emotional Talking Face Generation	2025	0	10.1007/978-3-031-73039-9_20
-148	0	All You Need Is Love	Moving Object Segmentation: All You Need is SAM (and Flow)	2025	0	10.1007/978-981-96-0972-7_17
-149	0	All You Need Is Love	All You Need Is a Guiding Hand: Mitigating Shortcut Bias in Deep Learning Models for Medical Imaging	2025	0	10.1007/978-3-031-72787-0_7
-150	0	All You Need Is Love	All you need is rotation: Construction of developable strips	2024	0	10.1145/3687947
-151	0	All You Need Is Love	"All you need is [somebody's] love ""third-party reproduction"" and the existential density of biological affinity"	2024	1	10.1007/s40592-024-00212-3
-152	0	All You Need Is Love	All you need is compassion? a latent profile analysis of neglect and self-compassion on child mental health	2024	2	10.1016/j.jad.2024.07.096
-153	0	All You Need Is Love	All You Need is Unary: End-to-End Unary Bit-stream Processing in Hyperdimensional Computing	2024	0	10.1145/3665314.3670834
-154	0	All You Need Is Love	Eventually, all you need is a simple evolutionary algorithm (for neuroevolution of continuous control policies)	2024	0	10.1145/3638530.3664112
-155	0	All You Need Is Love	All You Need Is Music: Supporting Medical Students' Emotional Development With a Music-Based Pedagogy	2024	1	10.1097/ACM.0000000000005709
-156	0	All You Need Is Love	All you need is data preparation: A systematic review of image harmonization techniques in Multi-center/device studies for medical support systems	2024	24	10.1016/j.cmpb.2024.108200
-157	0	All You Need Is Love	All you Need is Trust? Public Perspectives on Consenting to Participate in Genomic Research in the Sri Lankan District of Colombo	2024	2	10.1007/s41649-023-00269-y
-158	0	All You Need Is Love	All You Need is LUV	2024	0	10.3917/anpsy1.242.0215
-159	0	All You Need Is Love	All You Need Is Context: Clinician Evaluations of various iterations of a Large Language Model-Based First Aid Decision Support Tool in Ghana	2024	1	10.1109/ICHI61247.2024.00093
-160	0	All You Need Is Love	'All you need is trust': examining trust, information sharing, and supplier performance perception in SMEs from a social exchange perspective	2024	1	10.1080/23311975.2024.2415523
-161	0	All You Need Is Love	Is It Really Long Context if All You Need Is Retrieval? Towards Genuinely Difficult Long Context NLP	2024	0	10.18653/v1/2024.emnlp-main.924
-162	0	All You Need Is Love	All You Need is Knowledge, Experience and Tools: A Framework for Integrating Digital Labour with White Collar Work	2024	0	10.1109/INTCEC61833.2024.10602875
-163	0	All You Need Is Love	All You Need is Data: A Multimodal Approach in Understanding Driver Behavior	2024	1	10.1177/10711813241275942
-164	0	All You Need Is Love	Knowlab's Submission to L+M Shared Task: All you need is continued pretraining of chemistry texts even for molecule captioning	2024	0	
-165	0	All You Need Is Love	All You Need is Attention: Lightweight Attention-based Data Augmentation for Text Classification	2024	0	10.18653/v1/2024.findings-emnlp.752
-166	0	All You Need Is Love	All You Need is Sex for Diversity	2023	2	10.1007/978-3-031-29573-7_18
-167	0	All You Need Is Love	Post-mix Vocoding and the making of All You Need Is Lunch	2023	0	
-168	0	All You Need Is Love	Some Might Say All You Need Is Sum	2023	3	10.24963/ijcai.2023/464
-169	0	All You Need Is Love	All You Need Is Fault: Zero-Value Attacks on AES and a New -Detection M&M	2023	4	10.46586/tches.v2024.i1.133-156
-170	0	All You Need Is Love	Physics-Enhanced Bifurcation Optimisers: All You Need is a Canonical Complex Network	2023	7	10.1109/JSTQE.2023.3235334
-171	0	All You Need Is Love	All You Need Is a Few Dots to Label CT Images For Organ Segmentation	2022	4	10.3390/app12031328
-172	0	All You Need Is Love	All You Need Is a Second Look: Towards Arbitrary-Shaped Text Detection	2022	16	10.1109/TCSVT.2021.3068133
-173	0	All You Need Is Love	All You Need is a Good Functional Prior for Bayesian Deep Learning	2022	38	
-174	0	All You Need Is Love	All You Need is Source! A Study on Source-based Quality Estimation for Neural Machine Translation	2022	2	
-175	0	All You Need Is Love	'All you need is... entrepreneurial attitudes': A deeper look into the propensity to start a business during the COVID-19 through a gender comparison (GEM data)	2022	8	10.1504/WREMSD.2022.120801
-176	0	All You Need Is Love	All You Need is LUV: Unsupervised Collection of Labeled Images Using UV-Fluorescent Markings	2022	10	10.1109/IROS47612.2022.9981768
-177	0	All You Need Is Love	All you need is Faith: Sainte Foy, Furta Sacra, and Saint Mary Magdalene	2022	2	10.1079/9781789249392.0006
-178	0	All You Need Is Love	All You Need Is RAW: Defending Against Adversarial Attacks with Camera Image Pipelines	2022	4	10.1007/978-3-031-19800-7_19
-179	0	All You Need Is Love	All you need is ... a network: The rise of interpretive public administration	2022	20	10.1111/padm.12817
-180	0	All You Need Is Love	All you need is superword-level parallelism: systematic control-flow vectorization with SLP	2022	13	10.1145/3519939.3523701
-181	0	All You Need Is Love	Editorial: 'All you need is immunotherapy': A new treatment paradigm in sight for early-stage, mismatch repair-deficient/microsatellite instability high gastrointestinal cancers?	2022	0	10.1097/CCO.0000000000000856
-182	0	All You Need Is Love	DeepType 2: Superhuman Entity Linking All You Need Is Type Interactions	2022	6	10.1609/aaai.v36i7.20774
-183	0	All You Need Is Love	All you need is time to generalise the Goman-Khrabrov dynamic stall model	2022	11	10.1017/jfm.2022.381
-184	0	All You Need Is Love	All You Need Is Feedback: Communication with Block Attention Feedback Codes	2022	23	10.1109/JSAIT.2022.3223901
-185	0	All You Need Is Love	All you need is guitar pedals: The communicative construction of material culture in YouTube product reviews	2022	5	10.1016/j.dcm.2022.100626
-186	0	All You Need Is Love	All you need is logs: improving code completion by learning from anonymous IDE usage logs	2022	6	10.1145/3540250.3558968
-187	0	All You Need Is Love	All You Need Is Evidence: What We Know About Pneumonia in Children With Neuromuscular Diseases	2021	11	10.3389/fped.2021.625751
-188	0	All You Need Is Love	All you need is air-Alternating activated sludge system BIOCOS without electromechanical equipment	2021	1	10.1002/wer.1516
-189	0	All You Need Is Love	All You Need is DAG	2021	129	10.1145/3465084.3467905
-190	0	All You Need Is Love	All You Need Is Sleep: the Effects of Sleep Apnea and Treatment Benefits in the Heart Failure Patient	2021	4	10.1007/s11897-021-00506-1
-191	0	All You Need Is Love	All You Need is Transformer: RTT Prediction for TCP based on Deep Learning Approach	2021	1	10.1109/DSInS54396.2021.9670591
-192	0	All You Need Is Love	All You Need is Color: Image Based Spatial Gene Expression Prediction Using Neural Stain Learning	2021	16	10.1007/978-3-030-93733-1_32
-193	0	All You Need Is Love	All you need is self-determination: Investigation of PHD students' motivation profiles and their impact on the doctoral completion process	2021	32	10.28945/4702
-194	0	All You Need Is Love	All you need is boundary: Toward arbitrary-shaped text spotting	2020	129	
-195	0	All You Need Is Love	All you need is lod: Levels of detail in visual augmentations for the audience	2020	3	
-196	0	All You Need Is Love	Versioned queries over RDF archives: All you need is SPARQL?	2020	3	
-197	0	All You Need Is Love	All you need is higher accuracy? On the quest for minimum acceptable accuracy for medical artificial intelligence	2020	7	
-198	0	All You Need Is Love	All You Need is Web: Visual Interaction with No Graphic Background	2020	2	10.1007/978-3-030-50726-8_1
-199	0	All You Need Is Love	MIXED PRECISION DNNS: ALL YOU NEED IS A GOOD PARAMETRIZATION	2020	58	
-200	0	All You Need Is Love	All you need is Low (rank): Defending against adversarial attacks on graphs	2020	267	10.1145/3336191.3371789
-201	0	All You Need Is Love	All you need is light. Photorepair of uv-induced pyrimidine dimers	2020	54	10.3390/genes11111304
-202	0	All You Need Is Love	Evaluating biomarkers as predictors of cancer therapy cardiotoxicity: all you need is a meta-analysis? Reply	2020	3	10.1002/ejhf.1834
-203	0	All You Need Is Love	Evaluating biomarkers as predictors of cancer therapy cardiotoxicity: all you need is a meta-analysis?. Letter regarding the article 'Troponins and brain natriuretic peptides for the prediction of cardiotoxicity in cancer patients: a meta-analysis.'	2020	0	10.1002/ejhf.1826
-204	0	All You Need Is Love	All You Need is a Second Look: Towards Tighter Arbitrary Shape Text Detection	2020	6	10.1109/ICASSP40776.2020.9053679
-205	0	All You Need Is Love	Estimation of the causal effect of tourism advertising campaign All You Need is Ecuador on digital exposure	2020	0	10.1080/23737484.2019.1694459
-206	0	All You Need Is Love	Arrogance of but all you need is a good index finger': A narrative ethics exploration of lack of universal funding of PSA screening in Canada	2020	2	10.1136/medethics-2019-105742
-207	0	All You Need Is Love	3D Plant Phenotyping: All You Need is Labelled Point Cloud Data	2020	17	10.1007/978-3-030-65414-6_18
-208	0	All You Need Is Love	All you need is a few shifts: Designing efficient convolutional neural networks for image classification	2019	85	10.1109/CVPR.2019.00741
-209	0	All You Need Is Love	All You Need is Cable TV?	2019	1	10.1080/00220388.2018.1506581
-210	0	All You Need Is Love	'All you need is brand love': a critical review and comprehensive conceptual framework for brand love	2019	142	10.1080/0267257X.2019.1572025
-211	0	All You Need Is Love	All you need is cash: Skewering a legend with the prefab four	2019	2	10.4324/9781351266642-38
-212	0	All You Need Is Love	All you need is mentorship	2018	0	
-213	0	All You Need Is Love	All you need is fats-For seizure control: Using amoeba to advance epilepsy research	2018	16	10.3389/fncel.2018.00199
-214	0	All You Need Is Love	All you need is lovage: A rich and rewarding celebration of a meal	2018	0	
-215	0	All You Need Is Love	All you need is shape: Predicting shear banding in sand with LS-DEM	2018	301	10.1016/j.jmps.2017.10.003
-216	0	All You Need Is Love	All you need is control. Italian perspectives on acquisitive prescription of immovables	2018	2	
-217	0	All You Need Is Love	"All you need is science, or is it?: Exploring scientific, theological and other ""ways of knowing"""	2018	1	10.4324/9781315451954-2
-218	0	All You Need Is Love	All you need is beyond a good init: Exploring better solution for training extremely deep convolutional neural networks with orthonormality and modulation	2017	115	10.1109/CVPR.2017.539
-219	0	All You Need Is Love	All You Need Is Time? Discrepancies between the European Court of Human Rights Case Law and Liberal Normative Theory on Long-Term Migrants	2017	2	10.1017/S0021223717000152
-220	0	All You Need Is Love	All you need is facebook friends? Associations between online and face-to-face friendships and health	2017	27	10.3389/fpsyg.2017.00068
-221	0	All You Need Is Love	All You Need Is Sleep	2016	5	10.1016/j.ebiom.2016.10.003
-222	0	All You Need Is Love	All you need is log - Mathematics and models: Logarithms and exponential as tools to interpret real phenomena	2016	0	
-223	0	All You Need Is Love	All You Need Is Mentorship	2016	0	10.1016/j.cell.2016.02.055
-224	0	All You Need Is Love	All you need is a good init	2016	132	
-225	0	All You Need Is Love	Positioning the cleavage furrow: All you need is Rho	2016	4	10.1083/jcb.201606010
-226	0	All You Need Is Love	All you need is a dollar and a dream: Explaining the inverse relationship between socio-economic position and lottery play	2016	2	10.4324/9781315603599-18
-227	0	All You Need Is Love	Restoring stem cells-all you need is NAD+	2016	17	10.1038/cr.2016.80
-228	0	All You Need Is Love	All you need is export? Moroccan farmers juggling global and local markets	2015	3	10.4337/9780857939838.00024
-229	0	All You Need Is Love	From system services freezing to system server shutdown in android: All you need is a loop in an app	2015	50	10.1145/2810103.2813606
-230	0	All You Need Is Love	All you need is trust? An examination of inter-organizational supply chain projects	2015	141	10.1111/poms.12234
-231	0	All You Need Is Love	All you need is trust - an analysis of trust measures communicated by cloud providers	2015	7	10.1007/978-3-319-26148-5_38
-232	0	All You Need Is Love	'You don't need influence . . . all you need is your first opportunity!': The early broadcast talent show and the BBC	2014	5	10.7227/CST.9.1.3
-233	0	All You Need Is Love	All you need is a red shirt and cap, And you are Sokol!	2014	0	
-234	0	All You Need Is Love	All you need is Darcy's equation to determine EOR success or failure	2013	10	
-235	0	All You Need Is Love	All you need is .. resources: The effects of justice and support on burnout and turnover	2013	112	10.1177/0018726712462614
-236	0	All You Need Is Love	Initiation of clathrin-mediated endocytosis: All you need is two?	2013	8	10.1002/bies.201200129
-237	0	All You Need Is Love	All you need is health: Liberal and communitarian views on the allocation of health care resources	2013	1	10.4324/9780203010389-8
-238	0	All You Need Is Love	All you need is trust? A critical review of the trust and entrepreneurship literature	2012	242	10.1177/0266242612439588
-239	0	All You Need Is Love	Targeting sirtuin 1 to improve metabolism: All you need is NAD +?	2012	341	10.1124/pr.110.003905
-240	0	All You Need Is Love	All you need is trust? A critical review of the trust and entrepreneurship literature	2012	1	10.4337/9781788119474.00018
-241	0	All You Need Is Love	Burned out and fed up? Maybe all you need is a break	2011	0	
-242	0	All You Need Is Love	All you need is a potato: The culinary performances of Grushenka Abramova	2011	0	10.1080/0740770X.2011.628455
-243	0	All You Need Is Love	All You Need is Holt-Is the Socio-cultural Phenomenon a Problem for a Neorealist Ecological Psychology?	2011	1	10.1007/s12124-011-9161-z
-244	0	All You Need Is Love	All you need is light, antimicrobial photoinactivation as an evolving and emerging discovery strategy against infectious disease	2011	216	10.4161/viru.2.6.17889
-245	0	All You Need Is Love	Want to be a mentor? All you need is mentee	2010	0	
-246	0	All You Need Is Love	All you need is time solar dyeing with natural dyes	2010	0	
-247	0	All You Need Is Love	Solving the futures challenge - all you need is a 3LA	2010	6	10.1016/j.futures.2009.09.010
-248	0	All You Need Is Love	All You Need Is a Mir-acle: The Role of Nontranslated RNAs in the Suppression of B Cell Chronic Lymphocytic Leukemia	2010	11	10.1016/j.ccr.2009.12.029
-249	0	All You Need Is Love	All you need is flow!	2010	6	10.1016/j.resuscitation.2010.02.010
-250	0	All You Need Is Love	When all you need is a dot	2009	0	
-251	0	All You Need Is Love	All you need is N: Baryon spectroscopy in two large N limits	2009	29	10.1103/PhysRevD.80.036002
-252	0	All You Need Is Love	NEMS: All you need is feedback	2008	4	10.1038/nnano.2008.142
-253	0	All You Need Is Love	'All you need is an idea!': The impact of values-based participation on pupils' attitudes towards social activism and enterprise	2008	5	10.1177/1365480207086751
-254	0	All You Need Is Love	All you need is compassion	2008	17	10.1007/978-3-540-78163-9_21
-255	0	All You Need Is Love	All you need is sound	2007	2	10.1021/ac071966x
-256	0	All You Need Is Love	Transgenic Wnt/TCF pathway reporters: All you need is Lef?	2006	134	10.1038/sj.onc.1210057
-257	0	All You Need Is Love	Reviving the killers: All you need is IL-2	2006	0	10.1182/blood-2006-02-001198
-258	0	All You Need Is Love	III.7 simplified approach for crossing total occlusions: Forget the new gadgets; all you need is a catheter and a wire	2005	0	
-259	0	All You Need Is Love	All you need is One!	2004	0	
-260	0	All You Need Is Love	All you need is vision	2003	0	
-261	0	All You Need Is Love	"To control temperature, all you need is a ""cool"" line"	2002	2	10.1097/00003246-200211000-00036
-262	0	All You Need Is Love	All you need is cognitive behaviour therapy? [1] (multiple letters)	2002	1	
-263	0	All You Need Is Love	All you need is cognitive behaviour therapy?	2002	85	
-264	0	All You Need Is Love	All you need is cognitive behaviour therapy? Critical appraisal of evidence base must be understood and respected.	2002	0	10.1136/bmj.324.7352.1522
-265	0	All You Need Is Love	All you need is cognitive behaviour therapy? Integrated biopsychosocial approach will be treatment of choice.	2002	0	
-266	0	All You Need Is Love	All you need is cognitive behaviour therapy? Political range of psychotherapies has emerged.	2002	0	
-267	0	All You Need Is Love	Mental health. All you need is help.	2001	0	
-268	0	All You Need Is Love	All you need is a little respect.	2000	0	
-269	0	All You Need Is Love	Texas nameplate company: All you need is trust	1998	1	
-270	0	All You Need Is Love	All you need is RNA	1998	8	10.1126/science.281.5377.658
-271	0	All You Need Is Love	All you need is theory? The Beatles' 'Sgt. Pepper'	1998	4	10.1093/ml/79.4.577
-272	0	All You Need Is Love	Transmitting voice and data: all you need is one phone line	1995	0	
-273	0	All You Need Is Love	Psychiatry: all you need is drugs?	1992	0	
-274	0	All You Need Is Love	Primary nursing. All you need is thought.	1988	1	
-275	0	All You Need Is Love	All you need is a typewriter	1983	0	10.1080/03064228308533514
-276	34	The Long and Winding Road	The Lung and Winding Road: Inflammation-Driven Platelet Reactivity in Long COVID	2025	0	10.1016/j.jacbts.2024.11.013
-277	34	The Long and Winding Road	Temporality and the Brain: The Long and Winding Emergence of Time in Cognitive Neuroscience	2025	0	10.1007/s42087-025-00497-8
-278	34	The Long and Winding Road	Biologics in COPD: The Road is Still Long and Winding	2025	1	10.1080/15412555.2025.2467657
-279	34	The Long and Winding Road	The future of renewable energy systems-a long and winding transition pathway?	2025	0	10.1088/978-0-7503-6179-8ch1
-280	34	The Long and Winding Road	The PREVENT trial: The road to treating vulnerable plaques is still long and winding	2024	0	10.1714/4282.42631
-281	34	The Long and Winding Road	A long and winding but exciting road: Biodiversity, phylogenetic, and biogeographic relationships of ascidians in the Southwest Atlantic	2023	0	10.1002/dvg.23551
-282	34	The Long and Winding Road	Kashmir: a long winding road to freedom: An interview with Iffat Fatima	2023	0	10.1080/17503280.2021.2005456
-283	34	The Long and Winding Road	Wind and winding roads: Friendship amid indefnite confnement	2022	0	10.4324/9781003214441-5
-284	34	The Long and Winding Road	From GSR to Heart Rate Variability: A Long and Winding (Actually, Wiggly) Road	2022	3	10.1007/s10484-022-09540-8
-285	34	The Long and Winding Road	The long winding road to the safer glucocorticoid receptor (GR) targeting therapies	2022	30	10.18632/ONCOTARGET.28191
-286	34	The Long and Winding Road	The social and winding road between inflammation and PTSD	2021	3	10.1038/s41386-021-00979-7
-287	34	The Long and Winding Road	The long and winding path to nuclear fusion: The ultimate energy source	2021	3	10.1557/s43577-021-00200-6
-288	34	The Long and Winding Road	The long and winding career path: lessons learned	2021	0	10.1007/s00247-020-04799-7
-289	34	The Long and Winding Road	VanPatten (1990)'s long and winding story and the nature of replication studies	2021	4	10.1075/sibil.62.05san
-290	34	The Long and Winding Road	The Long Winding Road to Liberation: The Tales of Two Iranian Immigrants	2021	1	10.1080/07351690.2021.1865765
-291	34	The Long and Winding Road	A unifying theory of driver perception and steering control on straight and winding roads	2020	11	10.1109/THMS.2019.2947551
-292	34	The Long and Winding Road	The long and winding boundaries: quantifying interfaces between residential, natural and agricultural land uses	2020	4	10.1080/1747423X.2020.1769212
-293	34	The Long and Winding Road	The long and winding path to secure implementation of globalplatform SCP10	2020	1	10.13154/tches.v2020.i3.196-218
-294	34	The Long and Winding Road	The Long and Winding Railway: Domestic Politics and the Realization of China-Initiated High-Speed Railway Projects in Thailand	2019	23	10.1007/s41111-019-00124-2
-295	34	The Long and Winding Road	Oncology trajectories of elderly patients in a palliative situation: The long and winding road	2018	1	
-296	34	The Long and Winding Road	Harmonization of laboratory hematology: A long and winding journey	2018	19	10.1515/cclm-2018-0161
-297	34	The Long and Winding Road	The Long and Winding Triage Road	2018	3	10.1016/j.annemergmed.2018.03.021
-298	34	The Long and Winding Road	The long and winding route	2018	0	10.1016/j.jtcvs.2017.12.059
-299	34	The Long and Winding Road	Extracardiac imaging in amyloidosis: A long and winding (but possible) road	2018	1	10.1016/j.ijcard.2017.11.089
-300	34	The Long and Winding Road	The fast and winding roads that lead to the doors: Generating heterogeneous music playlists	2017	2	10.1145/3126858.3126891
-301	34	The Long and Winding Road	Secondary hypertension post bone marrow transplant: A long winding road	2017	0	10.1097/MPH.0000000000000687
-302	34	The Long and Winding Road	The Long Winding Road to Transplant: How Sarcopenia and Debility Impact Morbidity and Mortality on the Waitlist	2017	55	10.1016/j.cgh.2017.04.004
-303	34	The Long and Winding Road	BCL-2: Long and winding path from discovery to therapeutic target	2017	69	10.1016/j.bbrc.2016.10.100
-304	34	The Long and Winding Road	The long and winding path to understanding kidney structure in amphioxus - A review	2017	10	10.1387/ijdb.170196nh
-305	34	The Long and Winding Road	A long and winding sTORy	2017	5	10.1038/ncb3624
-306	34	The Long and Winding Road	The long winding road towards certification in neuroendovascular surgery	2016	1	10.1136/neurintsurg-2016-012360
-307	34	The Long and Winding Road	India faces a long and winding path to green climate solutions	2016	12	10.1073/pnas.1616121113
-308	34	The Long and Winding Road	Revisiting the long and winding (less travelled) road: The road to chaos in marketin	2016	0	10.1007/978-981-10-0464-3_9
-309	34	The Long and Winding Road	Rails and Roads Between Competition and Interdependency: A Long and Winding Relationship with Many Innovations That Failed	2016	0	10.4324/9781315583495-3
-310	34	The Long and Winding Road	The green (and winding) road. It's been a year since Colorado and Washington legalized recreational marijuana, and not all that was predicted has come to pass--with some surprises along the way	2015	0	
-311	34	The Long and Winding Road	The long & winding road the process safety journey: Where are we and where are we headed?	2015	0	10.4043/25737-ms
-312	34	The Long and Winding Road	Editorial: The lung and winding road: Twists and turns on the way to personalized nsclc therapy	2014	1	10.2174/13816128113196660766
-313	34	The Long and Winding Road	The lung and winding road	2014	1	10.1016/S2213-2600(14)70082-7
-314	34	The Long and Winding Road	Along and winding road	2014	0	
-315	34	The Long and Winding Road	C hydrogen atom transfer in post-cleavage radical-cation complexes: Short and steep versus long winding road	2014	5	10.1021/jp507865h
-316	34	The Long and Winding Road	A dark and winding road	2013	0	
-317	34	The Long and Winding Road	The long & winding road to collaborative observational practice	2013	0	
-318	34	The Long and Winding Road	The two-way mixed model: A long and winding controversy	2013	4	10.7334/psicothema2012.15
-319	34	The Long and Winding Road	Formation of long and winding nuclear F-actin bundles by nuclear c-Abl tyrosine kinase	2013	20	10.1016/j.yexcr.2013.09.003
-320	34	The Long and Winding Road	Ghrelin and motilin receptor agonists: A long and winding misconception	2013	0	10.1111/nmo.12244
-321	34	The Long and Winding Road	Ghrelin and motilin receptor agonists: A long and winding misconception	2013	3	10.1111/nmo.12241
-322	34	The Long and Winding Road	Conjugated polymers: Long and winding polymeric roads	2013	45	10.1038/nmat3790
-323	34	The Long and Winding Road	A long and winding path: Requirements for critical thinking in project work	2013	2	10.1016/j.lcsi.2012.11.001
-324	34	The Long and Winding Road	The Necessity of Origin: A Long and Winding Route	2013	9	10.1007/s10670-011-9354-3
-325	34	The Long and Winding Road	The long and winding helix	2013	0	10.1038/embor.2013.31
-326	34	The Long and Winding Road	The long, winding road: One university's quest for minority health care professionals and services	2012	17	10.1097/ACM.0b013e31826c97bd
-327	34	The Long and Winding Road	The long and winding regulatory road for laboratory- developed tests	2012	22	10.1309/AJCP6OAULC3CMFEJ
-328	34	The Long and Winding Road	Anatomical basis of variation in mesophyll resistance in eastern Australian sclerophylls: News of a long and winding path	2012	150	10.1093/jxb/ers171
-329	34	The Long and Winding Road	The long and winding TRAIL to weight loss	2012	0	10.1042/CS20120356
-330	34	The Long and Winding Road	Short and winding road: Software in car navigation systems	2011	10	10.1109/MS.2011.83
-331	34	The Long and Winding Road	The long winding road toward understanding the molecular mechanisms for B-cell suppression by 2,3,7,8-tetrachlorodibenzo-p-dioxin	2011	67	10.1093/toxsci/kfq324
-332	34	The Long and Winding Road	The 'long winding road' to adulthood: A risk-filled journey for young people in stockholm's marginalized periphery	2011	10	10.1177/110330881101900302
-333	34	The Long and Winding Road	Participative democracy and the diffusion of organizational innovations: The long, winding road from a plant level 'field experiment' to regional economic development	2010	5	10.1057/9780230304154_10
-334	34	The Long and Winding Road	A long, winding road	2010	5	10.1109/MMM.2010.937734
-335	34	The Long and Winding Road	Fabrication of mesoporous carbons with rod and winding road like morphology using NbSBA-15 templates	2010	14	10.1166/jnn.2010.1526
-336	34	The Long and Winding Road	Retrograde approach to a totally occluded right coronary artery via a septal perforator artery: The tale of a long and winding wire	2010	6	
-337	34	The Long and Winding Road	Revisiting individual choices in group settings: The long and winding (less traveled) road?	2010	20	10.1086/644750
-338	34	The Long and Winding Road	Erratum: A long, winding road to ignition (Science (2009) 324 (327))	2009	1	
-339	34	The Long and Winding Road	The long and winding journey of Outsider Art. An historical perspective	2007	7	10.1017/S1121189X00004759
-340	34	The Long and Winding Road	Risk Assessment of GM Crops - Does the Road Ahead Need to be Long and Winding?	2007	2	10.1002/9780470988497.ch10
-341	34	The Long and Winding Road	Confessions of an intellectual (property): Danger Mouse, Mickey Mouse, Sonny Bono, and my long and winding path as a copyright activist-academic	2005	45	10.1080/0300776042000300981
-342	34	The Long and Winding Road	Optimizing digoxin dosage: The long winding road	2003	2	10.1046/j.0269-4727.2003.00509.x
-343	34	The Long and Winding Road	Long and winding	2003	0	
-344	34	The Long and Winding Road	Lasers show that protein folding is a long and winding path	2002	0	
-345	34	The Long and Winding Road	Free energy calculations. The long and winding gilded road	2002	89	10.1080/08927020211974
-346	34	The Long and Winding Road	Corporate governance in microfinance organizations: Along and winding road	2001	56	10.1108/00251740110391466
-347	34	The Long and Winding Road	The long and winding (and frequently bumpy) road to successful client engagement: One team's journey	2001	7	10.1002/sdr.214
-348	34	The Long and Winding Road	The long, winding road of RU-486.	2000	0	
-349	34	The Long and Winding Road	The road to the production of IgE is long and winding	2000	10	10.1164/ajrccm.162.supplement_2.ras-3
-350	34	The Long and Winding Road	Perspectives. The long, winding road to integration of alternative and conventional medicine.	1999	0	
-351	34	The Long and Winding Road	Navigating the long and winding path of post-tenure review: The Arizona story	1999	0	10.1023/B:IHIE.0000008143.07570.1b
-352	34	The Long and Winding Road	The long and winding code	1999	0	
-353	34	The Long and Winding Road	Myocyte hypertrophy: The long and winding RhoA'd	1999	18	10.1172/JCI7459
-354	34	The Long and Winding Road	A long, winding road	1998	0	
-355	34	The Long and Winding Road	Bank computerization and organizational innovations: the long winding road to the bank of the future	1992	5	10.1111/j.1468-005X.1992.tb00020.x
-356	61	With a Little Help from My Friends	Getting by with a little help from my antiracist White friends: Can White antiracism counteract the demobilizing effect of positive contact?	2025	0	10.1177/13684302241286442
-357	61	With a Little Help from My Friends	 With a Little Help from My (LLM) Friends: Enhancing Static Analysis with LLMs to Detect Software Vulnerabilities	2025	0	10.1109/LLM4Code66737.2025.00008
-358	61	With a Little Help from My Friends	Getting by with a little help from friends and family: mediation model between loneliness and depressive symptoms amongst Portuguese students	2025	5	10.1108/JARHE-11-2023-0547
-359	61	With a Little Help from My Friends	With a little help from my retailer: Shopper acceptance of nutritional decision aids supporting healthy grocery shopping	2025	0	10.1016/j.appet.2025.107972
-360	61	With a Little Help from My Friends	With a little help from my family and friends: social class and contextual variations in the role of personal networks in students' higher education plans	2024	3	10.1080/01425692.2023.2266574
-361	61	With a Little Help from My Friends	With a Little Help from my (Linguistic) Friends: Topic Segmentation of Multi-party Casual Conversations	2024	0	
-362	61	With a Little Help from My Friends	With a little help from my (neighbouring) friends. 'Border region patient mobility' in the European Union: A policy analysis	2024	3	10.1016/j.healthpol.2024.105114
-363	61	With a Little Help from My Friends	'With a little help from my educated friends': revisiting the role of social capital for immigrants' labour market integration in Germany	2024	1	10.1186/s40878-024-00366-3
-364	61	With a Little Help from My Friends	STILL DOING IT THEMSELVES, WITH A LITTLE HELP FROM FRIENDS: Independent Filmmaking in Malaysia Two Decades Hence	2024	0	10.4324/9781003266952-44
-365	61	With a Little Help from My Friends	With a little help from my T friends: T cells increase efficacy of KRAS (G12D) inhibitors	2023	3	10.1016/j.xcrm.2023.100950
-366	61	With a Little Help from My Friends	With(Out) a Little Help From My Friends? Reconciling Incongruous Findings on Stakeholder Management, Innovation, and Firm Performance	2023	20	10.1177/10422587211024497
-367	61	With a Little Help from My Friends	With a little help from friends	2023	0	10.1007/978-3-031-31462-9_14
-368	61	With a Little Help from My Friends	With a Little Help from Friends: Teaching About, with, and Through Social Media	2023	0	10.1007/978-3-031-10865-5_8
-369	61	With a Little Help from My Friends	I Get by With a Little Help From My Bots: Implications of Machine Agents in the Context of Social Support	2022	8	10.30658/hmc.4.8
-370	61	With a Little Help from My Friends	With a Little Help from My Cell Wall: Structural Modifications in Pectin May Play a Role to Overcome Both Dehydration Stress and Fungal Pathogens	2022	15	10.3390/plants11030385
-371	61	With a Little Help from My Friends	With a Little Help From My Empathic Friends: The Role of Peers in the Development of Empathy in Adolescence	2022	23	10.1037/dev0001347
-372	61	With a Little Help from My Friends	I Get by With a Little Help From My Peers: Mindfulness and Peer Support for Doctor of Nursing Practice Students	2022	4	10.1097/01.NEP.0000000000001010
-373	61	With a Little Help from My Friends	With a Little Help from My Peer Clique: Mitigating the Intergenerational Transmission of Poverty	2022	2	10.1093/esr/jcac020
-374	61	With a Little Help from My Friends	Getting by with a Little Help from Friends: A Qualitative Case Study of Students' Strategies for Coping with Failure in an Undergraduate Biology Laboratory Course	2022	3	10.1187/CBE.20-07-0155
-375	61	With a Little Help from My Friends	With a Little Help from my Temporal Context: Multimodal Egocentric Action Recognition	2021	19	
-376	61	With a Little Help from My Friends	With a little help from my conversational agent: Towards a voice assistant for improved patient compliance and medication therapy safety	2021	0	
-377	61	With a Little Help from My Friends	Improving ICI outcomes with a little help from my microbial friends	2021	4	10.1016/j.chom.2021.01.012
-378	61	With a Little Help from My Friends	With a little help from my (her) friends: The role of friend support on the negative effects of work engagement for married couples	2021	9	10.1016/j.jvb.2021.103539
-379	61	With a Little Help from My Friends	With a little help from my website. Firm survival and web presence in times of COVID-19 - Evidence from 10 European countries	2021	10	
-380	61	With a Little Help from My Friends	With(out) a little help from my friends: insecure attachment in adolescence, support-seeking, and adult negativity and hostility	2021	19	10.1080/14616734.2020.1821722
-381	61	With a Little Help from My Friends	With a little help from my peers	2020	21	10.1145/3377325.3377518
-382	61	With a Little Help from My Friends	Singing synthesis: With a little help from my attention	2020	8	10.21437/Interspeech.2020-1399
-383	61	With a Little Help from My Friends	With a little help from my best friend... : Exploring the social functioning of students with moderate learning difficulties in inclusive educational settings	2020	3	10.1016/j.ijer.2020.101640
-384	61	With a Little Help from My Friends	Building strong neighborhoods in the lung with a little help from my mesenchymal stem cells	2019	3	10.1164/rccm.201811-2153ED
-385	61	With a Little Help from My Friends	With a little help from my boss: The impact of workplace mental health training on leader behaviors and employee resource utilization	2019	103	10.1037/ocp0000126
-386	61	With a Little Help from My Friends	With a Little Help from My Government - A User Perspective on State Support for Electric Vehicles	2019	5	10.1007/978-3-319-93885-1_35
-387	61	With a Little Help from My Friends	With a little help from my peers: Professional development of higher education teachers to teach critical thinking	2019	8	10.24140/issn.1645-7250.rle44.09
-388	61	With a Little Help from My Friends	With a little help from my customers: The influence of customer empowerment on consumers' perceptions of well-established brands	2019	0	10.1142/9781786346490_0014
-389	61	With a Little Help from My Friends	With a little help from my fans: the transformative role of the consumer in music co-production	2018	4	10.1080/09537287.2018.1478148
-390	61	With a Little Help from My Friends	With a little help from my colleagues: Notes on emotional support in a qualitative longitudinal research project	2018	14	10.1108/S1042-319220180000016003
-391	61	With a Little Help from My Friends	With a little help from my child: A dyad approach to immigrant mothers' and adolescents' socio-cultural adaptation	2018	20	10.1016/j.adolescence.2017.04.005
-392	61	With a Little Help from My Friends	Monitoring servers, with a little help from my bots	2017	7	10.1145/3123458.3123461
-393	61	With a Little Help from My Friends	With a little help from my trainers: Training students to become job application trainers for refugees	2017	0	10.1007/s11612-017-0370-x
-394	61	With a Little Help from My Friends	WITH A LITTLE HELP from MY CUSTOMERS: The INFLUENCE of CUSTOMER EMPOWERMENT on CONSUMERS' PERCEPTIONS of WELL-ESTABLISHED BRANDS	2017	13	10.1142/S1363919617500487
-395	61	With a Little Help from My Friends	I get by with a little help from my PEEPS: Learning from an NSF S-STEM cohort scholarship program	2017	4	
-396	61	With a Little Help from My Friends	With a little help from my family: A mixed-method study on the outcomes of family support and workload	2016	19	10.5964/ejop.v12i4.1159
-397	61	With a Little Help from My Friends	With a Little Help from my Neighbors: Person Name Linking Using the Wikipedia Social Network	2016	6	10.1145/2872518.2891109
-398	61	With a Little Help from My Friends	With a little help from my wheel: Wheel-coiled pottery in protogeometric Greece	2016	13	10.2972/hesperia.85.2.0297
-399	61	With a Little Help from My Friends	Getting by with a little help from friends and colleagues: Testing how residents' social support networks affect loneliness and burnout	2016	56	
-400	61	With a Little Help from My Friends	With a Little Help From My Competitors: Peer Networking Among Artisan Entrepreneurs	2015	151	10.1111/etap.12053
-401	61	With a Little Help from My Friends	Commentary: With a little help from my enteric microbial friends	2015	1	10.3389/fmicb.2015.01029
-402	61	With a Little Help from My Friends	With a little help from my enteric microbial friends	2015	8	10.3389/fmed.2015.00030
-403	61	With a Little Help from My Friends	With a little help from friends: Pierre-Louis-Antoine Cordier (1777-1861): 50 years of experimental work on basalt	2015	2	10.17704/1944-6187-34.2.204
-404	61	With a Little Help from My Friends	With a little help from my neighbours: A spatial analysis ofthe impact of local campaigns at the 2010 British general election	2014	12	10.1016/j.electstud.2013.12.001
-405	61	With a Little Help from My Friends	With a little help from my old T cell: Memory follicular T helper cells driving autoimmunity?	2014	4	10.1002/eji.201445101
-406	61	With a Little Help from My Friends	I get by with a little help from my supervisor: Creative-idea generation, idea implementation, and perceived supervisor support	2014	116	10.1016/j.leaqua.2014.05.003
-407	61	With a Little Help from My Friends	With a little help from my assistant: Buffering the negative effects of emotional dissonance on dentist performance	2013	9	10.1111/cdoe.12038
-408	61	With a Little Help from My Friends	With a little help from my colleagues: A social embeddedness approach to perceived organizational support	2012	128	10.1002/job.755
-409	61	With a Little Help from My Friends	With a little help from my kin: Barn swallow nestlings modulate solicitation of parental care according to nestmates' need	2012	22	10.1111/j.1420-9101.2012.02571.x
-410	61	With a Little Help from My Friends	Lives saved, with a little help from friends	2012	0	10.1353/nib.2012.0047
-411	61	With a Little Help from My Friends	TailGate: Handling long-tail content with a little help from friends	2012	45	10.1145/2187836.2187858
-412	61	With a Little Help from My Friends	With a little help from my spouse: Does spousal collaboration compensate for the effects of cognitive aging?	2011	31	10.1159/000317335
-413	61	With a Little Help from My Friends	Bacterial Virulence: With a little help from my enemies	2011	0	10.1038/nrmicro2561
-414	61	With a Little Help from My Friends	With a little help from my colleagues: Strengthening the stereotype inoculation model with insights from fellow psychologists	2011	4	10.1080/1047840X.2011.631872
-415	61	With a Little Help from My Friends	Getting by better with help from my friends -social capital and its contribution to lives of Irish people with intellectual disabilities	2010	0	
-416	61	With a Little Help from My Friends	With a little help from my goals: Integrating intergoal facilitation with the theory of planned behaviour to predict physical activity	2010	34	10.1348/135910710X494105
-417	61	With a Little Help from My Friends	Getting by with a Little Help from My Hunter: Riding to Hounds in English Foxhound Packs	2010	4	10.1002/9781444327694.ch7
-418	61	With a Little Help from My Friends	With a little help from my enemy: Comparative advertising as a signal of quality	2009	26	10.1111/j.1530-9134.2009.00238.x
-419	61	With a Little Help from My Friends	With a little help from my f(X)riends!: The basis of Ad5-mediated transduction of the liver revealed	2008	5	10.1038/mt.2008.80
-420	61	With a Little Help from My Friends	Importing with a little help from friends	2005	2	
-421	61	With a Little Help from My Friends	With a little help from my fans - Extending models of pro-social behaviour to explain supporters' intentions to buy soccer club shares	2000	71	10.1016/S0167-4870(00)00010-6
-422	61	With a Little Help from My Friends	Oral rehydration at home - With a little help from friends	1997	2	
-423	61	With a Little Help from My Friends	I get by with a little help from my family and friends: Adolescents' support for diabetes care	1995	315	10.1093/jpepsy/20.4.449
-424	61	With a Little Help from My Friends	Health care decision making by the elderly: I get by with a little help from my family	1991	50	10.1093/geront/31.5.619
-425	21	Here, There and Everywhere	Here, There, and In-Between: The Poetic Narratives of a Transnational Family's Translingual, Multiliterate, and Trans-Geographic Reality	2025	0	10.1002/rrq.70002
-426	21	Here, There and Everywhere	"Corrigendum to ""here-, there-, and every where-: Exploring the role of pronominal adverbs in legal language"" [Applied Corpus Linguistics Volume 4, Issue 1 (2024) 100087](S2666799124000042)(10.1016/j.acorp.2024.100087)"	2024	0	10.1016/j.acorp.2024.100112
-427	21	Here, There and Everywhere	here-, there-, and every where-: Exploring the role of pronominal adverbs in legal language	2024	3	10.1016/j.acorp.2024.100087
-428	21	Here, There and Everywhere	AI Is Officially Here, There, Everywhere, and Nowhere Districts playing catch-up can still adopt sound policies for artificial intelligence	2024	1	
-429	21	Here, There and Everywhere	Neuromonitoring - Here, There, and to Every Critically Ill Patient	2023	1	10.1097/CCM.0000000000005926
-430	21	Here, There and Everywhere	Visiting here, there, and somewhere: Multi-locality and the geographies of transnational family visiting	2023	2	10.1111/glob.12419
-431	21	Here, There and Everywhere	Introduction: 'Then, There and Everywhere' - Situating Disrupted Knowledge	2023	0	10.1163/9789004536418_002
-432	21	Here, There and Everywhere	Hair, there and everywhere: A comparison of bat wing sensory hair distribution	2023	7	10.1002/ar.25176
-433	21	Here, There and Everywhere	HERE, THERE, AND BACK AGAIN	2023	0	
-434	21	Here, There and Everywhere	Here, there, everywhere: The relational geographies of chemsex	2023	14	10.1111/tran.12603
-435	21	Here, There and Everywhere	Here, there, everywhere: Situating contemporary multimodal poetry	2023	1	10.1515/9783111299334-002
-436	21	Here, There and Everywhere	Hair, there, and everywhere: Peritonsillar abscess formation initiated by pet hair ingestion	2022	0	10.1016/j.xocr.2022.100470
-437	21	Here, There and Everywhere	Materials Nanoarchitectonics Here, There, Everywhere: Looking Back and Leaping Forward	2022	1	10.1039/9781788019613-00546
-438	21	Here, There and Everywhere	Here, There, and Elsewhere: The Making of Immigrant Identities in a Globalized World	2022	0	10.1080/14442213.2022.2049067
-439	21	Here, There and Everywhere	Here, there, & everywhere: Development and validation of a cross-culturally representative measure of subjective career success	2021	51	10.1016/j.jvb.2021.103612
-440	21	Here, There and Everywhere	Here/There/Everywhere: Quantum Models for Decolonizing Canadian State Onto-Epistemology: In a Situation of Oppression, Epistemic Relations are Screwed Up. (Medina, 2013)	2021	6	10.1007/s10699-019-09610-x
-441	21	Here, There and Everywhere	The digital void of voluntourism: Here, there and new currencies of care	2021	11	10.1016/j.geoforum.2021.05.016
-442	21	Here, There and Everywhere	Colour here, there, and in-between-Placemaking and wayfinding in mental health environments	2021	10	10.1002/col.22570
-443	21	Here, There and Everywhere	Here, there, and back again: The southern diaspora and the transcultural music of muddy waters	2021	3	10.1353/sgo.2021.0004
-444	21	Here, There and Everywhere	Here, there and nowhere in provincial outskirts and haunted houses1	2021	0	10.4324/9781003103646-12
-445	21	Here, There and Everywhere	Here. There. Everywhere?	2020	0	10.1016/S0262-4079(20)30864-2
-446	21	Here, There and Everywhere	Here, there, and anywhere	2019	1	10.1163/15700682-12341462
-447	21	Here, There and Everywhere	Here, There, and Back Again with the Social Foundations of Education: Tracing Conocimientos In/Toward Coalitional Journeys	2018	1	10.1080/00131946.2017.1406857
-448	21	Here, There and Everywhere	Of Here and Everywhere: Dynamic Spatial Perspectives in Twelfth Night	2017	0	10.1080/17450918.2017.1298664
-449	21	Here, There and Everywhere	Miro in Parkinson's disease: Here, there, everywhere!	2017	1	10.1002/mds.26975
-450	21	Here, There and Everywhere	Here, there, and anywhere? Arguments for and against the physical plasma cell survival niche	2017	50	10.4049/jimmunol.1700461
-451	21	Here, There and Everywhere	The view from here, there and nowhere? Situating the observer in the planetarium and in the solar system	2017	5	10.1080/17460654.2017.1323409
-452	21	Here, There and Everywhere	Here, There, and In-Between: On the interplay of multilocal living, space, and inequality	2016	0	
-453	21	Here, There and Everywhere	Here, There and Nowhere: Following Adult Survivors of Childhood Cancer A Case Report of Recurrent Osteosarcoma in a Young Adult	2016	0	
-454	21	Here, There and Everywhere	Editors' Introduction to the Special Issue - Bion: Here, There, and In Between	2016	0	10.1080/15240657.2016.1199922
-455	21	Here, There and Everywhere	Here, there, and now: Deictics and the transposition of orality to image in colonial imagery	2015	3	10.2752/175613115X14235644692310
-456	21	Here, There and Everywhere	Here, there and nowhere: Ageing, gender and celebrity studies	2015	5	10.1057/9781137495129.0006
-457	21	Here, There and Everywhere	Here, There and Nowhere: Ageing, Gender and Celebrity Studies	2015	0	10.1057/9781137495129_2
-458	21	Here, There and Everywhere	Mrs. Dalloway here, there, everywhere	2014	2	10.1215/00138282-52.1.133
-459	21	Here, There and Everywhere	Here, there, everywhere: mRNA localization in budding yeast	2014	25	10.4161/rna.29945
-460	21	Here, There and Everywhere	Not here and everywhere: The non-production of scientific knowledge	2014	30	
-461	21	Here, There and Everywhere	Here, there and in-between: Transitional space in Hong Kong movies	2014	0	
-462	21	Here, There and Everywhere	PTEN, here, there, everywhere	2013	11	10.1038/cdd.2013.127
-463	21	Here, There and Everywhere	Huntingtin: Here, there, everywhere!	2013	53	10.3233/JHD-130082
-464	21	Here, There and Everywhere	Here, there, everywhere: Further reflections on Antipodean experience and geography	2013	3	10.1177/2043820613493068
-465	21	Here, There and Everywhere	Is the secure base phenomenon evident here, there, and anywhere? A cross-cultural study of child behavior and experts' definitions	2013	40	10.1111/cdev.12084
-466	21	Here, There and Everywhere	Analyzing the view from here, there and nowhere: Discursive approaches to journalistic stance	2012	7	10.1016/j.dcm.2012.10.003
-467	21	Here, There and Everywhere	Here, there, and in-between: Lifestyle migrants from Japan	2012	6	
-468	21	Here, There and Everywhere	Pathogenic C difficile is here (and everywhere) to stay	2011	10	10.1016/S0140-6736(10)61885-5
-469	21	Here, There and Everywhere	Introduction: Queer, there and everywhere	2011	8	10.1080/0950236X.2011.586773
-470	21	Here, There and Everywhere	Here, there and in-between rehearsing over Skype	2011	8	10.1080/13528165.2011.606036
-471	21	Here, There and Everywhere	here, there, everywhere, or is it truly partial epilepsy?	2010	0	10.1017/S0317167100051374
-472	21	Here, There and Everywhere	Here, there, and in-between: On the interplay of multilocal living, space, and inequality	2009	19	
-473	21	Here, There and Everywhere	Cancer stem cells: Here, there, everywhere?	2008	85	10.1038/456581a
-474	21	Here, There and Everywhere	Pharmaceutical care: Here, there and now	2008	1	
-475	21	Here, There and Everywhere	Women in theatre: Here, there, everywhere, and nowhere	2006	2	10.3138/tric.27.1.56
-476	21	Here, There and Everywhere	Here, there, everywhere: Antibiotic-resistant foodborne pathogens	2004	3	
-477	21	Here, There and Everywhere	Glutamatergic Chemical Transmission: Look! Here, There, and Anywhere	2004	73	10.1093/jb/mvh018
-478	21	Here, There and Everywhere	Inflammation and asthma: Here, there, everywhere	2002	2	10.1016/S1081-1206(10)62032-7
-479	21	Here, There and Everywhere	Here, there, everywhere.	2000	0	
-480	21	Here, There and Everywhere	Changes: here and everywhere.	1997	1	
-481	21	Here, There and Everywhere	MiniRapid Microbiology Workshops  Here, There, Everywhere!	1993	0	10.1111/j.1745-4581.1993.tb00330.x
-482	21	Here, There and Everywhere	The center out there, in here, and everywhere else: The nature of pilgrimage to the shrine of saint jude, 1929-1965	1991	17	10.1353/jsh/25.2.213
-483	21	Here, There and Everywhere	Here, there, and nowhere: Once Upon a Time ...	1975	0	10.1177/009385487500200402
-484	57	When I'm Sixty-Four	When I'm 64: functional shift of aging platelets	2025	0	10.1182/blood.2024027996
-485	57	When I'm Sixty-Four	When I'm 64: Age-Related Variability in over 40,000 Online Cognitive Test Takers	2022	36	10.1093/geronb/gbab143
-486	57	When I'm Sixty-Four	Erratum: When I'm 64: Age-Related Variability in over 40,000 Online Cognitive Test Takers (The Journals of Gerontology: Series B DOI: 10.1093/geronb/gbab143)	2022	4	10.1093/geronb/gbab207
-487	57	When I'm Sixty-Four	When I'm 54: Working longer starts younger than we think	2022	4	10.1093/oso/9780197512067.003.0002
-488	57	When I'm Sixty-Four	'When I'm 65': On the Age-negotiated Duty to Work	2021	6	10.1177/0950017019885797
-489	57	When I'm Sixty-Four	When Im 84: What Should Life Look Like in Old Age?	2020	1	10.1111/jgs.16408
-490	57	When I'm Sixty-Four	When I'm 75: College Students' Self Perceptions of the Challenges of Aging	2020	7	10.1177/0091415020912930
-491	57	When I'm Sixty-Four	When I'm 64 (Slices) - Prognostication in Geriatric Trauma	2019	0	10.1001/jamasurg.2019.1011
-492	57	When I'm Sixty-Four	When I'm 64: A review of instrumental music-making and brain health in later life	2019	3	10.1016/j.exger.2019.05.006
-493	57	When I'm Sixty-Four	When I'm 64: Effects of an interdisciplinary gerontology course on first-year undergraduates' perceptions of aging	2018	29	10.1080/02701960.2016.1144600
-494	57	When I'm Sixty-Four	Will you still need me, will you still feed me when I'm 64? The health impact of caregiving to one's spouse	2017	64	10.1002/hec.3542
-495	57	When I'm Sixty-Four	Will You Still Need Me When I'm 64, or 84, or 104? the Importance of Speech-Language Pathologists in Promoting the Quality of Life of Aging Adults in the United States into the Future	2016	14	10.1055/s-0036-1583544
-496	57	When I'm Sixty-Four	Will you still treat me when i'm 64? Care of the older adult with hiv infection	2015	3	
-497	57	When I'm Sixty-Four	"Kaons - A micro-physics laboratory - ""Will you still need me when I'm 64?"" (the beatles)"	2012	0	10.1143/ptps.197.128
-498	57	When I'm Sixty-Four	Will you still fit me when I'm seventy-four?	2012	0	10.1038/nrclinonc.2012.151
-499	57	When I'm Sixty-Four	When I'm 64.	2011	0	10.1136/bmj.d5808
-500	57	When I'm Sixty-Four	When I'm 64: Psychological contract breach, work motivation and the moderating roles of future time perspective and regulatory focus	2011	70	10.1080/02678373.2011.632610
-501	57	When I'm Sixty-Four	Demographic changes: When I'm 84...	2011	0	
-502	57	When I'm Sixty-Four	How Will You Need Me, How Will You Read Me, When I'm 64 (or More!)?: Volume Computed Tomographic Scanning and Information Overload in the Emergency Department	2010	1	10.1067/j.cpradiol.2009.07.007
-503	57	When I'm Sixty-Four	When I'm 66	2010	0	
-504	57	When I'm Sixty-Four	Will you still need me: When i'm 64?	2009	30	10.1007/s10645-009-9132-7
-505	57	When I'm Sixty-Four	Will you still love me when I'M 64? The boomers at work	2009	2	
-506	57	When I'm Sixty-Four	WILL YOU STILL NEED ME, WILL YOU STILL FEED ME, WHEN I'M 64? AN ETHICAL PROBLEM FOR THE MODERN, COSMOPOLITAN ACADEMIC	2009	0	10.1163/9789042027404_014
-507	57	When I'm Sixty-Four	When I'm 64.	2008	1	10.1503/cmaj.081090
-508	57	When I'm Sixty-Four	When I'm 104: The Determinants of Healthy Longevity Among the Oldest-Old in China	2008	0	10.1007/978-1-4020-6752-5_8
-509	57	When I'm Sixty-Four	The aging workplace - It's not just ergonomics or will you still need me, will you still love me, when I'm 64?	2008	0	
-510	57	When I'm Sixty-Four	Will you still need me ... when I'm 64?1 the future of CMS	2008	18	10.1177/1350508408095823
-511	57	When I'm Sixty-Four	When I'm 64	2006	41	10.17226/11474
-512	57	When I'm Sixty-Four	Will you still need me, will you still feed me, when I'm 64?	2006	0	
-513	57	When I'm Sixty-Four	When I'm 64 [4]	2006	0	
-514	57	When I'm Sixty-Four	When I'm 64 [2]	2006	0	
-515	57	When I'm Sixty-Four	When I'm 64 [1]	2006	0	
-516	57	When I'm Sixty-Four	When I'm 64 [3]	2006	0	
-517	57	When I'm Sixty-Four	"LINDEMAN'S TROPHIC-DYNAMIC ASPECT OF ECOLOGY: ""WILL YOU STILL NEED ME WHEN I'M 64?"""	2005	12	10.1002/lob.200514353
-518	57	When I'm Sixty-Four	When I'm sixty five. A public sector pension has always been an attractive benefit for nurses. But, as Sue Ward reports, a review of the NHS scheme could change all that.	2004	0	10.7748/ns.18.46.21.s33
-519	57	When I'm Sixty-Four	When I'm 64: Health choices	2004	2	10.1111/j.1369-7625.2004.00269.x
-520	57	When I'm Sixty-Four	When I'm 64 ... will you still need me? Epidemiology in country practice: W H Pickles 1939	2004	2	10.1136/jech.2003.015230
-521	57	When I'm Sixty-Four	Perceptions of Older Adult Eyewitnesses: Will You Believe Me When I'm 64?	2003	40	10.1023/A:1025486006769
-522	57	When I'm Sixty-Four	When I'm 64...!	2002	0	10.1054/joon.2001.0223
-523	57	When I'm Sixty-Four	Will you still list me when I'm 64? Apologies to Lennon/McCartney	2002	8	10.1046/j.1532-5415.2002.50029.x
-524	57	When I'm Sixty-Four	When I'm sixty five.	1997	0	10.7748/ns.11.51.16.s27
-525	57	When I'm Sixty-Four	Will you still need me, will you still screen me, when I'm past 64?: Breast screening policy is based on ageism	1997	18	10.1136/bmj.315.7115.1032
-526	57	When I'm Sixty-Four	When I'm 64 technology and telecommunications beyond 2025	1995	1	
-527	57	When I'm Sixty-Four	When I'm 64. Experiential sensitivity program helps employees treat older people with patience and understanding. Santa Monica Hospital Medical Center, CA.	1994	0	
-528	57	When I'm Sixty-Four	Will you still need me, will you still feed me, when I'm eighty-four?	1990	0	
-529	8	Can't Buy Me Love	Money can buy me love: Gifts are a more effective form of acute social support than conversations	2025	0	10.1002/jcpy.1438
-530	8	Can't Buy Me Love	Can't Buy Me Health-Care Access: Qualitative Experiences of U.S.-Born Latinx Adults' Health Insurance Coverage and Health-Care Use Post ACA	2024	3	10.7758/RSF.2024.10.4.08
-531	8	Can't Buy Me Love	Can't buy me meaning? Lay theories impede people from deriving meaning and well-being from consumption	2022	7	10.1016/j.copsyc.2022.101332
-532	8	Can't Buy Me Love	Incentives Can't Buy Me Knowledge: The Missing Effects of Appreciation and Aligned Performance Appraisals on Knowledge Sharing of Public Employees	2022	23	10.1177/0734371X20986839
-533	8	Can't Buy Me Love	Can't buy me acceptance? Financial benefits for wind energy projects in Germany	2022	30	10.1016/j.enpol.2022.112924
-534	8	Can't Buy Me Love	Can't buy me votes? Campaign spending and the outcome of direct democratic votes	2022	7	10.1080/01402382.2020.1852374
-535	8	Can't Buy Me Love	Buy me love: entanglements of citizenship, income and emotions in regulating marriage migration	2021	27	10.1080/1369183X.2019.1625141
-536	8	Can't Buy Me Love	Money can't buy love but can it buy peace? Evidence from the EU Programme for Peace and Reconciliation (PEACE II)	2020	3	10.1177/0738894218766865
-537	8	Can't Buy Me Love	Money Can't Buy Me Trust: Evidence of Exogenous Influences Crowding out Process-based Trust in Alliances	2017	3	10.1111/1467-8551.12189
-538	8	Can't Buy Me Love	Can't Buy Me Green? A Review of Consumer Perceptions of and Behavior Toward the Price of Organic Food	2017	358	10.1111/joca.12092
-539	8	Can't Buy Me Love	'Can't buy me legitimacy': The elusive stability of Mideast rentier regimes	2017	21	10.1057/jird.2014.32
-540	8	Can't Buy Me Love	Can't buy me laughter - Humour in organisational change	2016	6	10.1007/s11612-016-0341-7
-541	8	Can't Buy Me Love	Money can't buy me land: Foreign land ownership regime and public opinion in a transition society	2016	13	10.1016/j.landusepol.2016.03.032
-542	8	Can't Buy Me Love	Can't buy me friendship? Peer rejection and adolescent materialism: Implicit self-esteem as a mediator	2015	78	10.1016/j.jesp.2015.01.001
-543	8	Can't Buy Me Love	Can't buy me soft power	2013	0	
-544	8	Can't Buy Me Love	Can buy me love: The effect of child welfare expenditures on maltreatment outcomes	2012	4	10.1080/00036846.2011.581214
-545	8	Can't Buy Me Love	Can buy me love: Mate attraction goals lead to perceptual readiness for status products	2011	64	10.1016/j.jesp.2010.08.009
-546	8	Can't Buy Me Love	Can't buy me health: Financial constraints and health-seeking behaviour in rural households in Central Togo	2011	0	
-547	8	Can't Buy Me Love	Money can't buy me hygge Danish middle-class consumption, egalitarianism, and the sanctity of inner space	2011	72	10.3167/sa.2011.550202
-548	8	Can't Buy Me Love	Money can't buy love: Private-equity firms battle to keep their tax perks	2010	0	
-549	8	Can't Buy Me Love	Can't buy me growth: On foreign aid and economic change	2010	4	
-550	8	Can't Buy Me Love	Money can't buy love: Asymmetric beliefs about gift price and feelings of appreciation	2009	106	10.1016/j.jesp.2008.11.003
-551	8	Can't Buy Me Love	Can't buy me whiteness: New Lessons from the Titanic on Race, Ethnicity, and Health	2008	102	10.1017/S1742058X0808003X
-552	8	Can't Buy Me Love	Can't buy me democracy [5] (multiple letters)	2003	0	10.2307/3183508
-553	8	Can't Buy Me Love	Beauvoir on Sex, Love and Money: Money Can't Buy Love, but It Sure Makes for Better Sex	1996	1	10.1163/25897616-01301007
-554	155	With a Little Help from My Friends	Find a little help from my (microbial) friends	2022	0	10.1016/j.chom.2022.03.024
-555	155	With a Little Help from My Friends	Sex pheromones: Made with a little help from my (bacterial) friends	2021	2	10.1016/j.cub.2021.03.074
-556	155	With a Little Help from My Friends	With a little help from my (Canadian) friends: Health differences between minimal and maximal religiosity/spirituality are partially mediated by social support	2020	13	10.1016/j.socscimed.2020.113387
-557	155	With a Little Help from My Friends	With a little help from my (Psittacidae) friends	2020	1	10.3758/s13420-020-00439-0
-558	155	With a Little Help from My Friends	"Tubule repair: with a little help from my ""unexpected"" friends"	2019	4	10.1016/j.kint.2018.11.019
-559	155	With a Little Help from My Friends	Noninvasive ventilation in unplanned endotracheal extubation: Just a little help from my friend?	2019	0	10.4187/respcare.06886
-560	155	With a Little Help from My Friends	I get by with a little help from my 750-dollar-per-tablet friends: A model act for states to prevent dramatic pharmaceutical price increases	2018	1	
-561	155	With a Little Help from My Friends	Social surrogate use in those exposed to trauma: I get by with a little help from my (fictional) friends	2017	26	10.1521/jscp.2017.36.1.41
-562	155	With a Little Help from My Friends	With a little help from my (online?) friends - A comparison of support seeking, receiving and providing support in online and offline communities	2017	0	
-563	155	With a Little Help from My Friends	Tumor biology: With a little help from my dying friends	2015	21	10.1016/j.cub.2015.01.040
-564	155	With a Little Help from My Friends	Metagenomics: With a little help from my phage friends.	2013	0	10.1038/nrg3532
-565	155	With a Little Help from My Friends	With(out) a little help from my friends: An IL-12/CD40L-mediated feed-forward loop between CD8<sup>+</sup> T cells and DCs	2013	0	10.1002/eji.201343644
-566	155	With a Little Help from My Friends	Microbiome: With a little help from my phage friends	2013	3	10.1038/nrmicro3070
-567	155	With a Little Help from My Friends	With a little help from my (random) friends: Success and failure in post-business school entrepreneurship	2013	148	10.1093/rfs/hht024
-568	155	With a Little Help from My Friends	With a Little Help From My Cross-Group Friend: Reducing Anxiety in Intergroup Contexts Through Cross-Group Friendship	2008	426	10.1037/0022-3514.95.5.1080
-569	155	With a Little Help from My Friends	'A little help from my friend?' Analysis of network links on the meso level in Uzbekistan	2006	15	10.1080/02634930600903106
-570	155	With a Little Help from My Friends	Without a little help from 'my' friends: Direct insertion of proteins into chloroplast membranes?	2001	71	10.1016/S0167-4889(01)00152-5
-571	155	With a Little Help from My Friends	'With a little help from my academic friend': Mentoring change agents	2000	21	10.1080/713685507
-572	155	With a Little Help from My Friends	The role of derivational morphology in vocabulary acquisition: Get by with a little help from my morpheme friends	2000	70	10.1111/1467-9450.00201
-573	155	With a Little Help from My Friends	I get by with a little help from my cyber-friends: Sharing stories of good and bad times on the Web	1999	4	
-574	155	With a Little Help from My Friends	Teaching on the web: With a little help from my pedagogical friends	1999	38	10.1007/BF02940840
-575	155	With a Little Help from My Friends	I get by with a little help from my cyber-friends: Sharing stories of good and bad times on the web	1999	22	10.1111/j.1083-6101.1999.tb00102.x
-576	51	Hello, Goodbye	Say hello and wave goodbye	2025	0	10.1080/02723638.2025.2468451
-577	51	Hello, Goodbye	Etomidate and its derivatives: time to say goodbye? You say goodbye and I say hello. Response to Br J Anaesth 2025; 134: 11-3	2025	0	10.1016/j.bja.2025.02.016
-578	51	Hello, Goodbye	Goodbye Dr. Google, hello Dr. ChatGPT: Advancing a new frontier for ENT medical information online	2025	0	10.1016/j.amjoto.2025.104618
-579	51	Hello, Goodbye	They say goodbye, we say hello: understanding the relational phases of equity-minded STEMM graduate-undergraduate mentorship	2024	4	10.1080/13611267.2024.2323476
-580	51	Hello, Goodbye	Goodbye Substantial Factor, Hello Doull v. Foster!	2023	0	10.1515/jtl-2023-0018
-581	51	Hello, Goodbye	Say hello, wave goodbye	2023	0	10.1242/jcs.261519
-582	51	Hello, Goodbye	You Have to Say Hello Before You Can Say Goodbye	2023	0	
-583	51	Hello, Goodbye	It's hello from her and goodbye from him	2022	0	
-584	51	Hello, Goodbye	"You say, ""goodbye,"" and i Say, ""hello, Hello, Hello"""	2020	0	10.1097/01.REO.0000000000000195
-585	51	Hello, Goodbye	Goodbye Adhesives, Hello Thermal Direct Joining	2019	0	
-586	51	Hello, Goodbye	"It's ""Goodbye"" from me and ""Hello"" from him"	2017	0	10.1042/bio03906003
-587	51	Hello, Goodbye	I don't know why you say goodbye, i say hello	2015	0	10.1515/9780271075747-045
-588	51	Hello, Goodbye	I don't know why you say goodbye, i say hello (on taking both the visual and the political seriously)	2015	0	10.1515/9780271075747-040
-589	51	Hello, Goodbye	You Say Goodbye and I Say Hello	2013	0	10.1111/1552-6909.12202
-590	51	Hello, Goodbye	You say goodbye, and I say hello!	2012	5	10.1183/09059180.00006112
-591	51	Hello, Goodbye	You say goodbye, I say hello	2012	1	10.5860/rusq.52n1.15
-592	51	Hello, Goodbye	"You say ""yes,"" i say ""no,"" you say ""goodbye,"" and i say ""hello"""	2011	1	
-593	51	Hello, Goodbye	You say goodbye and I say hello	2009	1	10.1093/rheumatology/ken444
-594	33	Let It Be	Let it Bee: Thoughts for My Friend julie ezelle patton	2024	0	
-595	33	Let It Be	Julie patton's Let it Bee Garden and Poet Tree Mitigation Program: Selected Correspondence	2024	0	
-596	33	Let It Be	Author Response: Let It Breathe: Mastering Spontaneous Breathing Trials	2024	0	10.4187/respcare.12426
-597	33	Let It Be	Let It Breathe: Mastering Spontaneous Breathing Trials	2024	0	10.4187/respcare.12331
-598	33	Let It Be	Let It BEE: Natural Language Classification of Arthropod Specimens Based on Their Spanish Description	2023	0	10.1007/978-3-031-42935-4_10
-599	33	Let It Be	Brief Announcement: Let It TEE: Asynchronous Byzantine Atomic Broadcast with n  2f + 1	2023	2	10.4230/LIPIcs.DISC.2023.43
-600	33	Let It Be	Let It Beat: How Lifestyle and Psychosocial Factors Affect the Risk of Sudden Cardiac Death-A 10-Year Follow-Up Study	2022	4	10.3390/ijerph19052627
-601	33	Let It Be	Let it Bee: A Case Study of Applying Triadic Game Design for Designing Virtual Reality Training Games for Beekeepers	2021	2	10.1145/3472538.3472558
-602	33	Let It Be	"Let it ""B""? The role of hepatitis B universal vaccination among Italian problematic drug users"	2015	5	10.3390/ijerph120403979
-603	33	Let It Be	Let it bee - Towards NMF-inspired audio mosaicing	2015	19	
-604	33	Let It Be	Particle physics: Let it B	2013	0	10.1038/499290a
-605	33	Let It Be	Aortic arch repair: Let it beat!	2012	17	10.1055/s-0030-1271042
-606	33	Let It Be	Robert Glasper: Let it blur	2012	0	
-607	33	Let It Be	Let it B in viral hepatitis?	2011	7	10.1016/j.jhep.2010.12.027
-608	33	Let It Be	Let it bubble - Paul Nizon and the literary Paris	2010	0	10.3917/eger.257.0069
-609	33	Let It Be	"Technical topics - ""Let it rust!"""	2007	0	
-610	33	Let It Be	Let it breathe	1987	0	
-611	19	A Hard Day's Night	A hard day's write: Beatles fanfic and the quantum of creativity	2021	2	10.1093/oso/9780190917852.003.0008
-612	19	A Hard Day's Night	It Has Been a Hard Day's Year	2021	0	10.1159/000521805
-613	19	A Hard Day's Night	A hard day's Fortnite: The latest video-game fad shows off a DIY ethic	2018	0	
-614	19	A Hard Day's Night	It's been a hard day's night...But it was worth every minute	2018	1	10.1016/j.pulmoe.2018.09.002
-615	19	A Hard Day's Night	Restorying a hard day's work	2013	8	10.1108/S1479-3555(2013)0000011013
-616	19	A Hard Day's Night	A hard day's work--and getting paid for it.	2007	0	
-617	19	A Hard Day's Night	Hard day's work: A boon for performance but a bane for satisfaction?	2006	1	10.5465/AMP.2006.23270312
-618	19	A Hard Day's Night	A hard day's work	1997	0	10.1017/S0008197300017694
-619	19	A Hard Day's Night	A hard day's work: Measuring women's work in anthropological research	1996	1	10.1177/1525822X960080020201
-620	19	A Hard Day's Night	A hard day's knight. Zinc phosphide poisoning.	1989	2	
-621	19	A Hard Day's Night	Professionalism committee does a hard day's work for ACS	1972	0	10.1021/cen-v050n011.p025
-622	54	Ticket to Ride	Game to Ride: Gamification to Salvage Carbon Footprints for Sustainable Development	2023	0	10.1007/978-981-99-0835-6_50
-623	54	Ticket to Ride	TICKET TO DEBT: CITY OF CHICAGO V. FULTON AND THE TWO-TRACK CONSUMER BANKRUPTCY SYSTEM	2023	0	
-624	54	Ticket to Ride	Ticket to rate: antecedents to turnover intention among teachers	2023	1	10.1080/13603124.2023.2218107
-625	54	Ticket to Ride	Ride-hail to ride rail: Learning to balance supply and demand in ride-hailing services with intermodal mobility options	2022	4	10.1016/j.trc.2022.103887
-626	54	Ticket to Ride	Ticket to divide: m6A reader YTHDC1 drives acute myeloid leukemia proliferation	2021	5	10.1182/blood.2021013185
-627	54	Ticket to Ride	Ticket to talk: Supporting conversation between young people and people with dementia through digital media	2018	74	10.1145/3173574.3173949
-628	54	Ticket to Ride	Ticket to success	2017	1	
-629	54	Ticket to Ride	Ticket to done: High-end operators are having guests prepay for meals, and experts say it's just the beginning	2014	0	
-630	54	Ticket to Ride	Right to Ride: African American citizenship and protest in the Era of Plessy v. Ferguson	2007	3	
-631	54	Ticket to Ride	Ticket to a smoother ride	2006	0	
-632	54	Ticket to Ride	You've got a ticket to deride	2005	0	
-633	36	Lucy in the Sky with Diamonds	In the sky with diamonds: Hedonic motivations in experiential luxury buying after a crisis	2023	6	10.1002/cb.2028
-634	36	Lucy in the Sky with Diamonds	Lucy in the sky with Trojan asteroids	2021	3	10.1038/s41550-021-01534-6
-635	36	Lucy in the Sky with Diamonds	Lucy in the Sky with Crystals	2019	0	10.1038/scientificamerican1119-4
-636	36	Lucy in the Sky with Diamonds	Sulfur in the Sky with Diamonds: An Inquiry into the Feasibility of Solar Geoengineering	2019	3	10.1111/1758-5899.12646
-637	36	Lucy in the Sky with Diamonds	Lucy in the sky with ketamine: Psychoactive drugs have potential for a major breakthrough in treating depression	2018	0	10.15252/embr.201847118
-638	36	Lucy in the Sky with Diamonds	Rubies in the sky with diamonds: Prices are up, thanks to extravagant Asians and edgy Westerners	2011	0	
-639	36	Lucy in the Sky with Diamonds	Leucine in the sky with diamonds	2003	4	10.1016/j.str.2003.09.009
-640	36	Lucy in the Sky with Diamonds	Discourse in the sky with diamonds	2001	0	
-641	36	Lucy in the Sky with Diamonds	Luce in the sky with diamonds	1973	0	10.1080/00332927308408831
-642	37	Magical Mystery Tour	A mathematical mystery tour: Higher-thinking math tasks (grades 5-12)	2023	0	10.4324/9781003419396
-643	37	Magical Mystery Tour	Adolescents and cancer clinical trials: A MaGIC mystery tour	2019	0	10.1200/JOP.19.00416
-644	37	Magical Mystery Tour	Skeptical mystery tour	2014	0	10.4324/9780203123522-7
-645	37	Magical Mystery Tour	Skeptical mystery tour	2014	2	10.4324/9780203123522
-646	37	Magical Mystery Tour	The concept of Sebestoimost' in Russian farm accounting: A very unmagical mystery tour	2001	9	10.1111/1471-0366.00003
-647	37	Magical Mystery Tour	Magic happens: A new age metaphysical mystery tour	1999	3	10.1080/14443059909387505
-648	37	Magical Mystery Tour	Mycological mystery tour	1995	3	10.1038/375276a0
-649	37	Magical Mystery Tour	Alcohol Intoxication and Physical Dependence: a molecular mystery tour	1989	20	10.1111/j.1360-0443.1989.tb03459.x
-650	37	Magical Mystery Tour	PSROs: a magical medical mystery tour.	1979	0	
-651	4	All You Need Is Love	Love Is Not All You Need: Understanding the Association Between Relationship Status and Relationship Dysfunction With Self-Directed Violence in Veterans	2024	0	10.1080/13811118.2023.2237097
-652	4	All You Need Is Love	All you need is political love? Assessing the effects of partisan favouritism in Croatia's public procurement	2022	5	10.1016/j.ejpoleco.2021.102170
-653	4	All You Need Is Love	All we need is love! (Someone who likes beer as much as you?)	2020	0	
-654	4	All You Need Is Love	All you need is not love: Are we really hard-wired to feel other people' s pain?	2018	1	
-655	4	All You Need Is Love	Love is not all you need: A revolutionary approach to parental abuse	2014	3	10.1002/anzf.1069
-656	4	All You Need Is Love	Although It Helps, Love Is Not All You Need: How Caryl Rusbult Made Me Discover What Relationships Are All About	2010	1	10.1111/j.1475-6811.2010.01264.x
-657	4	All You Need Is Love	If you need love, get a Puppy: A case study on professional skepticism and auditor independence	2009	7	10.2308/iace.2009.24.2.237
-658	18	Happiness Is a Warm Gun	Happiness is a warm theorem	2009	0	10.1007/s00283-009-9043-0
-659	18	Happiness Is a Warm Gun	Happiness is a warm hug. Research suggests keeping employees happy is a great wellness program.	2008	0	
-660	18	Happiness Is a Warm Gun	Happiness is a warm workplace.	2008	0	
-661	18	Happiness Is a Warm Gun	Happiness is a warm abstract thought: Self-construal abstractness and subjective well-being	2007	32	10.1080/17439760601069150
-662	18	Happiness Is a Warm Gun	Happiness is a warm iPod	2006	0	
-663	18	Happiness Is a Warm Gun	Happiness is a warm... customer	2005	0	
-664	18	Happiness Is a Warm Gun	Happiness is a Warm Blanket: Chris Norris on the eternal comforts of Dustin Hoffman	2005	0	
-665	52	Strawberry Fields Forever	Phenomenal Fields Forever: Instructed Action and Perception's Work	2023	0	10.4324/9781003279235-6
-666	52	Strawberry Fields Forever	Chrysanthemum fields forever: The labor exchange band, taiwanese folk rock, and the LP form	2019	0	10.4324/9781351119146-10
-667	52	Strawberry Fields Forever	Sound Fields Forever: Mapping sound fields via position-aware smartphones	2017	1	
-668	52	Strawberry Fields Forever	Editorial: Conference Special Issue - Marketing Fields Forever 2011	2011	1	10.1080/0267257X.2011.624696
-669	52	Strawberry Fields Forever	Northala fields forever	2009	1	
-670	52	Strawberry Fields Forever	Plutonium fields forever	2003	4	10.1126/science.300.5623.1220
-671	52	Strawberry Fields Forever	Hot spots, avatars, and narrative fields forever: Bunuel's legacy for new digital media and interactive database narrative	2002	79	10.1525/fq.2002.55.4.2
-672	35	Everybody's Got Something to Hide Except Me and My Monkey	Everybody's Got Something To Hide Except Me and My NFT's Monkey - An Analysis of the European Commission's DAC8 Proposal on Automatic Exchange of Cryptoasset Information	2023	1	10.59403/16edte1
-673	35	Love Me Do	From experiencer verbs to Agree-and-Move: a review of Bind Me Tender, Bind Me Do!	2023	0	10.1515/psicl-2022-1075
-674	35	Everybody's Got Something to Hide Except Me and My Monkey	Everybody's got something to hide except me and my patented monkey: patentability of cloned organisms.	1998	0	
-675	58	While My Guitar Gently Weeps	Still my guitar gently weeps. Questions for an ockhamized metaphysics of the event sources of sound	2013	1	10.1515/krt-2013-012704
-676	58	While My Guitar Gently Weeps	While my guitar gently reaps	2005	0	
-677	101	Magical Mystery Tour	Francis Underwood's Magical Political Mystery Tour Is Dying to Take You Away; Dying to Take You Away, Take You Today	2015	0	10.1002/9781119092834.ch22
-678	101	Magical Mystery Tour	This mystery tour is not magical--it's downright tragic.	1987	0	
-679	26	Do You Want to Know a Secret	Do You Want to Know a Trade Secret? How Article 2B Will Make Licensing Trade Secrets Easier (But Innovation More Difficult)	1999	5	10.2307/3481007
-680	28	I'll Follow the Sun	I'll follow the fun: The extended investment model of social media influencers	2022	38	10.1016/j.tele.2022.101881
-681	31	I've Just Seen a Face	'i have just seen a face of old africa' the depiction of black africa in national geographic magazine	1997	1	10.1080/02500169708537815
-682	39	Maxwell's Silver Hammer	Grenville's silver hammer: The problem of money in the Stamp Act crisis	2017	6	10.1093/jahist/jax172
-683	47	Please Please Me	Please, Please, Just Tell Me: The Linguistic Features of Humorous Deception	2020	6	10.5210/dad.2020.205
-684	64	I Me Mine	"I, me, me, mine!: Autobiographical fiction and the ""I"""	2005	7	10.1080/10131750485310111
-685	93	Let It Be	There will be an answer; let it bleed	2014	0	10.2310/8000.2013.131026
-686	100	Lucy in the Sky with Diamonds	Lucy in the sky without diamonds: Stealing confidential data in the cloud	2011	120	10.1109/DSNW.2011.5958798
-687	108	Norwegian Wood (This Bird Has Flown)	Bird flu has flown	2017	0	10.1002/cind.812_9.x
-688	110	Nowhere Man	The nowhere (wo)man: An example of the defensive use of emptiness in a patient with a schizoid disorder of the self	1996	4	10.1007/BF02189729
-689	123	Revolution 9	Rated X: Apple's new operating system aims to score a perfect 10, but for some, revolution no. 9 was change enough	2001	0	
-690	135	Strawberry Fields Forever	"Strawberry Fields (Not) Forever? ""Iceberg Reflections"" on PerformingGreenland"	2024	0	
-691	144	Ticket to Ride	Ticket to a bubble ride: Cargo sorting into exosomes and extracellular vesicles	2019	206	10.1016/j.bbapap.2019.02.005
-692	147	We Can Work It Out	Can Wii work it out?	2011	5	10.7790/tja.v61i3.231
-693	151	When I'm Sixty-Four	Tanizaki's The Key in Translation: Will You Still Need Me, Will You Still Read Me, When I'm (Over) Sixty-Four?	2023	0	
+paper_nr	song_name	title	year	cited_by	doi
+0	Here Comes the Sun	Here comes the SU(N): multivariate quantum gates and gradients	2024	7	10.22331/q-2024-03-07-1275
+1	Here Comes the Sun	'Here comes the (Turkish) bride': American consumer culture and the Turkish bridal industry	2024	0	10.1386/fspc_00092_1
+2	Here Comes the Sun	Here Comes the STRAIN: Analyzing Defensive Pass Rush in American Football with Player Tracking Data	2024	3	10.1080/00031305.2023.2242442
+3	Here Comes the Sun	HERE COMES THE MULTIPLEX! Notes for a 'Flipped' History of the Italian Film Market (1998-2015)	2024	0	10.26350/001200_000217
+4	Here Comes the Sun	Here Comes the Change: The Role of Global and Domestic Factors in Post-Pandemic Inflation in Europe	2024	0	10.5089/9798400225789.001
+5	Here Comes the Sun	But Here Comes the Water... -Dam-Induced Displacement and Resettlement in the Technological and Hydroelectric Landscapes of Portugal's New State (1933-1974)	2024	0	10.2478/host-2024-0016
+6	Here Comes the Sun	"Quoting as a Reflection Technique in K. D. Vorobyov's Novella ""Here Comes the Giant..."""	2023	0	10.31857/S013161170026402-1
+7	Here Comes the Sun	Here Comes the Cat Quietly Became Popular: Content Marketing in the New Media Era	2023	0	10.1007/978-981-99-1741-9_28
+8	Here Comes the Sun	Attention, here comes the EU Data Act! A critical in-depth analysis of the Commission's 2022 Proposal	2022	7	
+9	Here Comes the Sun	Austerity and the Precarity of Whiteness: Polish Characters in Stacey Gregg's Shibboleth (2015) and Rosemary Jenkinson's Here Comes the Night (2016)	2022	0	10.4324/9781003207474-11
+10	Here Comes the Sun	"Here comes the large catfish ""jau"" Zungaro jahu (Ihering 1898) (Teleostei, Pimelodidae): a new alarming case of fish introduction in a high-endemism Neotropical ecoregion"	2022	0	10.1590/S2179-975X4322
+11	Here Comes the Sun	Here Comes the Hot-Stepper: Hollywood Renaissance, Indie Film and Robert Altman's Comeback in the 1990s	2022	2	
+12	Here Comes the Sun	'Here comes the story of the Hurricane': A case report of AL cardiac amyloidosis and myocardial bridging	2022	3	10.1093/ehjcr/ytac225
+13	Here Comes the Sun	CELL BIOLOGY: Here comes the cavalry!	2021	0	10.1126/SCIENCE.371.6524.40-A
+14	Here Comes the Sun	Here Comes the Junkies, Opioid Replacement Therapy in Rural Australia	2021	0	10.1097/JAN.0000000000000378
+15	Here Comes the Sun	Here comes the dress: Daily resistance in Edwidge Danticat's The Dew Breaker	2021	0	10.4324/9780429354236-20
+16	Here Comes the Sun	Here comes the summer	2021	0	
+17	Here Comes the Sun	Here comes the flood, but not failure? Lessons to learn after the heavy rain and pluvial floods in germany 2021	2021	133	10.3390/w13213016
+18	Here Comes the Sun	'Here Comes the Period of Hard and Long-lasting Diplomatic Struggles': Polish Diplomacy and the Concept of the Western Pact, 1936-1937	2021	0	10.1080/09592296.2021.1961486
+19	Here Comes the Sun	"After three decades of neoliberal hegemony, here comes the ""populist moment""?"	2020	0	10.4000/mcv.13088
+20	Here Comes the Sun	Here comes the flood! Stress effects of continuous and interval waterlogging periods during the growing season on Scots pine saplings	2020	14	10.1093/treephys/tpaa036
+21	Here Comes the Sun	Here comes the sure	2020	0	
+22	Here Comes the Sun	Here comes the flood	2020	0	
+23	Here Comes the Sun	Here comes the new world	2020	0	10.53738/REVMED.2020.16.683.0428
+24	Here Comes the Sun	Artificial Intelligence in IR-Here Comes the Heavy Lifting	2020	2	10.1016/j.jvir.2019.12.795
+25	Here Comes the Sun	"Here comes the new one. Mass culture and western cultural patterns in the opinions and evaluations of the party and state authorities in Poland of the ""Gomulka era"" (1956 - 1970)"	2020	0	
+26	Here Comes the Sun	ATMOSPHERIC SCIENCE: Here comes the flood	2019	0	10.1126/SCIENCE.366.6470.1209-E
+27	Here Comes the Sun	Delivering information literacy via Facebook: Here comes the Spinach!	2019	1	10.18438/eblip29532
+28	Here Comes the Sun	Here comes the water: Risk assessments, observation and knowledge of Ompundja village	2019	1	10.4102/JAMBA.V11I1.507
+29	Here Comes the Sun	Terror in Christchurch: Here comes the 'Peace Train'	2019	0	10.1386/AJPC_00002_1
+30	Here Comes the Sun	Bridging higher education and industrial needs: Here comes the specialist!	2019	0	
+31	Here Comes the Sun	Cell Division: Here Comes the Kinesin Cavalry	2018	0	10.1016/j.cub.2018.07.054
+32	Here Comes the Sun	Here Comes the Bad News: Doctor Robot Taking Over	2018	15	10.1007/s12369-017-0455-2
+33	Here Comes the Sun	Here Comes the Sunshine: Industry's Payments to Cardiothoracic Surgeons	2017	19	10.1016/j.athoracsur.2016.06.053
+34	Here Comes the Sun	Here comes the Son: Masayoshi Son and Saudi Arabia launch a monster technology fund	2017	0	
+35	Here Comes the Sun	Biological labels: Here comes the spaser	2017	12	10.1038/nmat4943
+36	Here Comes the Sun	Que viene el Coco: Here comes the Boogeyman	2017	0	10.4324/9781315680392
+37	Here Comes the Sun	Here comes the rain: Assessing storm hazards vulnerability in Northeast Ohio	2017	5	10.1016/j.ijdrr.2017.07.004
+38	Here Comes the Sun	Here comes the Doctor!: Sanitation guards, labor relations, and the formation of identity (1930s and 1940s)	2016	0	10.1590/1806-93472016v36n71_003
+39	Here Comes the Sun	Fasten your seat belts: Here comes the Trump Administration	2016	0	
+40	Here Comes the Sun	Here comes the summer!	2015	0	
+41	Here Comes the Sun	Here Comes the Bride : Re-Envisioning the Wedding at Cana in the 12th Century	2015	0	10.1163/18712428-09502001
+42	Here Comes the Sun	Here comes the flood......	2015	0	10.1080/03071375.2015.1138730
+43	Here Comes the Sun	SoftBank: Here comes the Son	2015	0	
+44	Here Comes the Sun	Here comes the cord	2014	0	10.5045/br.2014.49.4.209
+45	Here Comes the Sun	Urban Inertia and Dealing with the Disappeared in Postwar Beirut: A Perfect Day (2004) and Here Comes the Rain (2010)	2014	2	
+46	Here Comes the Sun	Here comes the revolution - the European digital agenda	2014	13	10.1057/9781137032195
+47	Here Comes the Sun	Photography's linguistic turn: On Werner Graeff's here comes the new photographer!	2013	0	
+48	Here Comes the Sun	Here comes the science bit	2013	0	
+49	Here Comes the Sun	Don't fear the reaper: Here comes the drone lobby	2013	1	
+50	Here Comes the Sun	Here comes the cavalry: Glimmers of hope for a long-suffering newspaper	2013	0	
+51	Here Comes the Sun	Analgesia in emergency departments: Here comes the sufentanyl...	2013	0	10.1016/j.douler.2013.02.002
+52	Here Comes the Sun	Here comes the new: Deadwood and the historiography of capitalism	2013	6	
+53	Here Comes the Sun	Here comes the judge	2013	0	10.1353/sew.2013.0109
+54	Here Comes the Sun	Here comes the toothbus	2013	0	
+55	Here Comes the Sun	Here comes the sausage: An empirical study of children's verbal communication during a collaborative music-making activity	2013	12	10.1080/14613808.2013.812626
+56	Here Comes the Sun	Here comes the science bit	2012	0	
+57	Here Comes the Sun	Here comes the baby carriage, but where goes our sex life? Sexuality and the transition to parenthood	2012	1	
+58	Here Comes the Sun	Here comes the brand: Wedding media and the management of transformation	2012	15	10.1080/10304312.2012.630143
+59	Here Comes the Sun	Here Comes the Judge: Violent Pacifism in the Book of Revelation	2012	10	
+60	Here Comes the Sun	Ready or not, here comes the smart grid!	2012	160	10.1016/j.energy.2011.07.054
+61	Here Comes the Sun	Here comes the bogeyman: Exploring contemporary issues in writing for children	2012	1	10.4324/9780203156872
+62	Here Comes the Sun	Here comes the era of rare projects	2011	0	
+63	Here Comes the Sun	Here comes the yuan: A city's bid to revive its fortunes through the local and the global	2011	0	
+64	Here Comes the Sun	Here comes the judge: A small contribution to the study of French input into the vocabulary of the law in Middle English	2011	2	
+65	Here Comes the Sun	Wetter world: Here comes the rain	2011	0	10.1016/S0262-4079(11)60631-3
+66	Here Comes the Sun	Here COMes the future!	2010	0	
+67	Here Comes the Sun	Passive radar: Here comes the new generation VERA-NG	2010	0	
+68	Here Comes the Sun	Here comes the new Redditometro: Here's how to be prepared	2010	0	
+69	Here Comes the Sun	The first case of multidrug-resistant NDM-1-harboring enterobacteriaceae in Taiwan: Here comes the superbacteria!	2010	23	10.1016/S1726-4901(10)70121-0
+70	Here Comes the Sun	Here comes the electric nissan	2010	0	
+71	Here Comes the Sun	Here comes the robotic brain!	2010	1	10.1007/978-3-642-15810-0_15
+72	Here Comes the Sun	Here comes the money. Providers should begin to receive EHR incentive funds by end of January.	2010	0	
+73	Here Comes the Sun	Chinese paperboard capacity expansion: Here comes the boxboard!	2010	0	
+74	Here Comes the Sun	Here comes the semiotic species: Reflections on the semiotic turn in the cognitive sciences	2009	8	10.4324/9780203856550
+75	Here Comes the Sun	Here comes the bride: An ethnographic content analysis of bridal books	2009	11	10.1080/08952830902952267
+76	Here Comes the Sun	Never Mind the Web: Here Comes the Book	2009	0	10.1108/00242530910997991
+77	Here Comes the Sun	Here comes the chickens	2009	0	
+78	Here Comes the Sun	Here comes the (daughter of the) bride: Parental weddings in two contemporary girls' series books	2009	2	10.1007/s10583-007-9061-5
+79	Here Comes the Sun	Here comes the Sunshine. Lawmakers eye physician-owned GPOs for reporting.	2009	0	
+80	Here Comes the Sun	Outlook 2009: Healthcare IT: here comes the money.	2009	0	
+81	Here Comes the Sun	Here Comes the New Boss	2009	0	10.1016/j.jacr.2009.01.001
+82	Here Comes the Sun	Here comes the controversial new sugar substitute stevia. Soon it could sweeten foods from yogurt to diet soda.	2008	1	
+83	Here Comes the Sun	'Here comes the judge'(with absent left arm swing)	2008	0	10.3109/9780203008454-90
+84	Here Comes the Sun	Here comes the son: A shandean project	2008	1	10.3138/9781442687349-014
+85	Here Comes the Sun	Never Mind the Web: Here Comes the Book	2008	24	10.1533/9781780632162
+86	Here Comes the Sun	Never mind the Web. Here comes the book.: Continuity and discontinuity in the fate of reading	2008	3	10.2959/logo.2008.19.3.151
+87	Here Comes the Sun	Here comes the future: The network south - A portrait	2007	0	
+88	Here Comes the Sun	Here comes the bear	2007	0	
+89	Here Comes the Sun	Here comes the scan	2007	0	
+90	Here Comes the Sun	Here comes the Nazarene: Conrad's treatment of the Serani and the racial politics of empire	2007	2	10.1353/cnd.2008.0001
+91	Here Comes the Sun	Drug discovery: here comes the worm.	2006	26	10.1021/cb600221m
+92	Here Comes the Sun	Here comes the 'cybernators'!	2006	6	10.1016/j.clsr.2006.07.005
+93	Here Comes the Sun	Here comes the future [10]	2006	0	10.1377/hlthaff.25.2.570-b
+94	Here Comes the Sun	Here comes the Fiance	2006	0	
+95	Here Comes the Sun	Ready or not! Here comes the value-driven health care system.	2006	0	
+96	Here Comes the Sun	Here comes the gift horse	2006	1	10.1038/nmat1682
+97	Here Comes the Sun	Here comes the real bride: Anna de Austria and the birth of theater in Spain	2006	1	
+98	Here Comes the Sun	Here comes the NPI.	2005	0	
+99	Here Comes the Sun	Here comes the judge	2005	0	
+100	Here Comes the Sun	Here comes the Chief Supply Chain Officer	2005	0	
+101	Here Comes the Sun	Here comes the cycling squad!	2005	0	10.1038/nrm1582
+102	Here Comes the Sun	Here comes the flood	2005	0	
+103	Here Comes the Sun	Here comes the middle age: One who could save! A short and painful discussion of the more clamorous cultural swindle in the history of western music	2005	0	
+104	Here Comes the Sun	Ready or not, here comes the future	2005	0	
+105	Here Comes the Sun	For the dental patient. Here comes the bride ... and her teeth are nice and bright.	2004	0	10.14219/jada.archive.2004.0259
+106	Here Comes the Sun	Here comes the mayor	2004	0	
+107	Here Comes the Sun	Here comes the crash	2004	0	
+108	Here Comes the Sun	Here comes the revolution	2004	0	
+109	Here Comes the Sun	Here comes the judge: The influence of judge personal characteristics on federal sexual harassment case outcomes	2003	52	10.1023/A:1021678912133
+110	Here Comes the Sun	Here comes the judge - Duties and responsibilities of design professionals when deciding disputes	2003	8	10.1061/(ASCE)1052-3928(2003)129:3(177)
+111	Here Comes the Sun	Here comes the rain...	2003	2	
+112	Here Comes the Sun	Here comes the new wave: Rx-to-OTC switches represent a huge professional and marketing opportunity. Are R.Ph.s ready?	2003	0	
+113	Here Comes the Sun	Here comes the press!	2002	0	
+114	Here Comes the Sun	Here comes the real bride: Anna de Austria and the birth of theater in Spain	2002	0	
+115	Here Comes the Sun	New kids on the block. Here comes the next generation of workers: they have Gen Xers' energy and skills, with a new attitude.	2001	8	
+116	Here Comes the Sun	Here comes the rain	2001	3	
+117	Here Comes the Sun	Whose monastery is it anyway? translating culture in here comes the messiah!	2001	0	10.1080/07374836.2001.10523783
+118	Here Comes the Sun	Here comes the show of shows!	2000	0	
+119	Here Comes the Sun	Like a fly's eye: here comes the physically flexible imager	2000	0	
+120	Here Comes the Sun	Here comes the judge.	2000	0	
+121	Here Comes the Sun	Here comes the self-help revolution in mental health	2000	50	10.1037/0033-3204.37.4.370
+122	Here Comes the Sun	Here comes the NICE [2]	2000	0	
+123	Here Comes the Sun	Here comes the personal color proofing engine: Smashing bang for the buch	1997	0	
+124	Here Comes the Sun	Here comes the BBJ	1997	0	
+125	Here Comes the Sun	Move over, PC - here comes the tabletop accelerator	1996	0	
+126	Here Comes the Sun	Here comes the hot-dipper	1995	0	
+127	Here Comes the Sun	'Here comes the bride': The making of a 'modern traditional' wedding in western culture	1993	47	10.3138/jcfs.24.3.403
+128	Here Comes the Sun	Here Comes the Multimedia Generation! Ready? Or not? (abstract)	1993	0	10.1145/169073.169525
+129	Here Comes the Sun	Here comes the roving pregnancy monitors.	1993	0	
+130	Here Comes the Sun	Here comes the era of the volunteer.	1991	1	
+131	Here Comes the Sun	Watch out! Here comes the greenhouse	1990	2	10.1126/science.248.4955.549-b
+132	Here Comes the Sun	Here comes the Heathrow express	1990	0	
+133	Here Comes the Sun	Here comes the judge!	1988	0	
+134	Here Comes the Sun	Here comes the big new cleanup	1988	7	
+135	Here Comes the Sun	Here Comes the Judge! The Origins of Baseball's Commissioner System and American Legal Culture	1987	2	10.1111/j.0022-3840.1987.00129.x
+136	Here Comes the Sun	HERE COMES THE BILLION-TRANSISTOR IC.	1987	3	
+137	Here Comes the Sun	Move over Rotary and Kiwanis--here comes the Men's Club.	1985	0	
+138	Here Comes the Sun	Here comes the computer.	1983	0	
+139	Here Comes the Sun	Performance Appraisal: Here Comes the Judge	1981	1	10.2307/41164951
+140	Here Comes the Sun	Here Comes the Artificial Heart: Are we introducing a halfway technology with halfway policymaking?	1978	1	10.1002/j.2326-1951.1978.tb01256.x
+141	Here Comes the Sun	Microsystems: Here Comes the PET	1977	1	10.1109/C-M.1977.217533
+142	Here Comes the Sun	Get ready! Here comes the trustbusters.	1976	0	
+143	Here Comes the Sun	Rooty-toot-toot, here comes the substitute	1974	1	10.1007/BF02144927
+144	All You Need Is Love	All You Need is XOR-Convolution: A Generalized Higher-Order Side-Channel Attack with Application to XEX/XE-based Encryptions	2025	0	10.46586/tches.v2025.i3.317-360
+145	All You Need Is Love	All You Need Is SPACE: When Jailbreaking Meets Bias Audit and Reveals What Lies Beneath the Guardrails	2025	0	10.1609/aaai.v39i28.35249
+146	All You Need Is Love	All You Need Is Statistical Modeling to Predict Epileptic Seizures in Advance	2025	0	10.1007/978-981-96-2647-2_25
+147	All You Need Is Love	All You Need Is Your Voice: Emotional Face Representation with Audio Perspective for Emotional Talking Face Generation	2025	0	10.1007/978-3-031-73039-9_20
+148	All You Need Is Love	Moving Object Segmentation: All You Need is SAM (and Flow)	2025	0	10.1007/978-981-96-0972-7_17
+149	All You Need Is Love	All You Need Is a Guiding Hand: Mitigating Shortcut Bias in Deep Learning Models for Medical Imaging	2025	0	10.1007/978-3-031-72787-0_7
+150	All You Need Is Love	All you need is rotation: Construction of developable strips	2024	0	10.1145/3687947
+151	All You Need Is Love	"All you need is [somebody's] love ""third-party reproduction"" and the existential density of biological affinity"	2024	1	10.1007/s40592-024-00212-3
+152	All You Need Is Love	All you need is compassion? a latent profile analysis of neglect and self-compassion on child mental health	2024	2	10.1016/j.jad.2024.07.096
+153	All You Need Is Love	All You Need is Unary: End-to-End Unary Bit-stream Processing in Hyperdimensional Computing	2024	0	10.1145/3665314.3670834
+154	All You Need Is Love	Eventually, all you need is a simple evolutionary algorithm (for neuroevolution of continuous control policies)	2024	0	10.1145/3638530.3664112
+155	All You Need Is Love	All You Need Is Music: Supporting Medical Students' Emotional Development With a Music-Based Pedagogy	2024	1	10.1097/ACM.0000000000005709
+156	All You Need Is Love	All you need is data preparation: A systematic review of image harmonization techniques in Multi-center/device studies for medical support systems	2024	24	10.1016/j.cmpb.2024.108200
+157	All You Need Is Love	All you Need is Trust? Public Perspectives on Consenting to Participate in Genomic Research in the Sri Lankan District of Colombo	2024	2	10.1007/s41649-023-00269-y
+158	All You Need Is Love	All You Need is LUV	2024	0	10.3917/anpsy1.242.0215
+159	All You Need Is Love	All You Need Is Context: Clinician Evaluations of various iterations of a Large Language Model-Based First Aid Decision Support Tool in Ghana	2024	1	10.1109/ICHI61247.2024.00093
+160	All You Need Is Love	'All you need is trust': examining trust, information sharing, and supplier performance perception in SMEs from a social exchange perspective	2024	1	10.1080/23311975.2024.2415523
+161	All You Need Is Love	Is It Really Long Context if All You Need Is Retrieval? Towards Genuinely Difficult Long Context NLP	2024	0	10.18653/v1/2024.emnlp-main.924
+162	All You Need Is Love	All You Need is Knowledge, Experience and Tools: A Framework for Integrating Digital Labour with White Collar Work	2024	0	10.1109/INTCEC61833.2024.10602875
+163	All You Need Is Love	All You Need is Data: A Multimodal Approach in Understanding Driver Behavior	2024	1	10.1177/10711813241275942
+164	All You Need Is Love	Knowlab's Submission to L+M Shared Task: All you need is continued pretraining of chemistry texts even for molecule captioning	2024	0	
+165	All You Need Is Love	All You Need is Attention: Lightweight Attention-based Data Augmentation for Text Classification	2024	0	10.18653/v1/2024.findings-emnlp.752
+166	All You Need Is Love	Love Is Not All You Need: Understanding the Association Between Relationship Status and Relationship Dysfunction With Self-Directed Violence in Veterans	2024	0	10.1080/13811118.2023.2237097
+167	All You Need Is Love	All You Need is Sex for Diversity	2023	2	10.1007/978-3-031-29573-7_18
+168	All You Need Is Love	Post-mix Vocoding and the making of All You Need Is Lunch	2023	0	
+169	All You Need Is Love	Some Might Say All You Need Is Sum	2023	3	10.24963/ijcai.2023/464
+170	All You Need Is Love	All You Need Is Fault: Zero-Value Attacks on AES and a New -Detection M&M	2023	4	10.46586/tches.v2024.i1.133-156
+171	All You Need Is Love	Physics-Enhanced Bifurcation Optimisers: All You Need is a Canonical Complex Network	2023	7	10.1109/JSTQE.2023.3235334
+172	All You Need Is Love	All You Need Is a Few Dots to Label CT Images For Organ Segmentation	2022	4	10.3390/app12031328
+173	All You Need Is Love	All You Need Is a Second Look: Towards Arbitrary-Shaped Text Detection	2022	16	10.1109/TCSVT.2021.3068133
+174	All You Need Is Love	All You Need is a Good Functional Prior for Bayesian Deep Learning	2022	38	
+175	All You Need Is Love	All You Need is Source! A Study on Source-based Quality Estimation for Neural Machine Translation	2022	2	
+176	All You Need Is Love	'All you need is... entrepreneurial attitudes': A deeper look into the propensity to start a business during the COVID-19 through a gender comparison (GEM data)	2022	8	10.1504/WREMSD.2022.120801
+177	All You Need Is Love	All You Need is LUV: Unsupervised Collection of Labeled Images Using UV-Fluorescent Markings	2022	10	10.1109/IROS47612.2022.9981768
+178	All You Need Is Love	All you need is Faith: Sainte Foy, Furta Sacra, and Saint Mary Magdalene	2022	2	10.1079/9781789249392.0006
+179	All You Need Is Love	All You Need Is RAW: Defending Against Adversarial Attacks with Camera Image Pipelines	2022	4	10.1007/978-3-031-19800-7_19
+180	All You Need Is Love	All you need is ... a network: The rise of interpretive public administration	2022	20	10.1111/padm.12817
+181	All You Need Is Love	All you need is superword-level parallelism: systematic control-flow vectorization with SLP	2022	13	10.1145/3519939.3523701
+182	All You Need Is Love	Editorial: 'All you need is immunotherapy': A new treatment paradigm in sight for early-stage, mismatch repair-deficient/microsatellite instability high gastrointestinal cancers?	2022	0	10.1097/CCO.0000000000000856
+183	All You Need Is Love	DeepType 2: Superhuman Entity Linking All You Need Is Type Interactions	2022	6	10.1609/aaai.v36i7.20774
+184	All You Need Is Love	All you need is time to generalise the Goman-Khrabrov dynamic stall model	2022	11	10.1017/jfm.2022.381
+185	All You Need Is Love	All You Need Is Feedback: Communication with Block Attention Feedback Codes	2022	23	10.1109/JSAIT.2022.3223901
+186	All You Need Is Love	All you need is guitar pedals: The communicative construction of material culture in YouTube product reviews	2022	5	10.1016/j.dcm.2022.100626
+187	All You Need Is Love	All you need is logs: improving code completion by learning from anonymous IDE usage logs	2022	6	10.1145/3540250.3558968
+188	All You Need Is Love	All you need is political love? Assessing the effects of partisan favouritism in Croatia's public procurement	2022	5	10.1016/j.ejpoleco.2021.102170
+189	All You Need Is Love	All You Need Is Evidence: What We Know About Pneumonia in Children With Neuromuscular Diseases	2021	11	10.3389/fped.2021.625751
+190	All You Need Is Love	All you need is air-Alternating activated sludge system BIOCOS without electromechanical equipment	2021	1	10.1002/wer.1516
+191	All You Need Is Love	All You Need is DAG	2021	129	10.1145/3465084.3467905
+192	All You Need Is Love	All You Need Is Sleep: the Effects of Sleep Apnea and Treatment Benefits in the Heart Failure Patient	2021	4	10.1007/s11897-021-00506-1
+193	All You Need Is Love	All You Need is Transformer: RTT Prediction for TCP based on Deep Learning Approach	2021	1	10.1109/DSInS54396.2021.9670591
+194	All You Need Is Love	All You Need is Color: Image Based Spatial Gene Expression Prediction Using Neural Stain Learning	2021	16	10.1007/978-3-030-93733-1_32
+195	All You Need Is Love	All you need is self-determination: Investigation of PHD students' motivation profiles and their impact on the doctoral completion process	2021	32	10.28945/4702
+196	All You Need Is Love	All you need is boundary: Toward arbitrary-shaped text spotting	2020	129	
+197	All You Need Is Love	All you need is lod: Levels of detail in visual augmentations for the audience	2020	3	
+198	All You Need Is Love	Versioned queries over RDF archives: All you need is SPARQL?	2020	3	
+199	All You Need Is Love	All you need is higher accuracy? On the quest for minimum acceptable accuracy for medical artificial intelligence	2020	7	
+200	All You Need Is Love	All You Need is Web: Visual Interaction with No Graphic Background	2020	2	10.1007/978-3-030-50726-8_1
+201	All You Need Is Love	MIXED PRECISION DNNS: ALL YOU NEED IS A GOOD PARAMETRIZATION	2020	58	
+202	All You Need Is Love	All you need is Low (rank): Defending against adversarial attacks on graphs	2020	267	10.1145/3336191.3371789
+203	All You Need Is Love	All you need is light. Photorepair of uv-induced pyrimidine dimers	2020	54	10.3390/genes11111304
+204	All You Need Is Love	Evaluating biomarkers as predictors of cancer therapy cardiotoxicity: all you need is a meta-analysis? Reply	2020	3	10.1002/ejhf.1834
+205	All You Need Is Love	Evaluating biomarkers as predictors of cancer therapy cardiotoxicity: all you need is a meta-analysis?. Letter regarding the article 'Troponins and brain natriuretic peptides for the prediction of cardiotoxicity in cancer patients: a meta-analysis.'	2020	0	10.1002/ejhf.1826
+206	All You Need Is Love	All You Need is a Second Look: Towards Tighter Arbitrary Shape Text Detection	2020	6	10.1109/ICASSP40776.2020.9053679
+207	All You Need Is Love	Estimation of the causal effect of tourism advertising campaign All You Need is Ecuador on digital exposure	2020	0	10.1080/23737484.2019.1694459
+208	All You Need Is Love	Arrogance of but all you need is a good index finger': A narrative ethics exploration of lack of universal funding of PSA screening in Canada	2020	2	10.1136/medethics-2019-105742
+209	All You Need Is Love	3D Plant Phenotyping: All You Need is Labelled Point Cloud Data	2020	17	10.1007/978-3-030-65414-6_18
+210	All You Need Is Love	All we need is love! (Someone who likes beer as much as you?)	2020	0	
+211	All You Need Is Love	All you need is a few shifts: Designing efficient convolutional neural networks for image classification	2019	85	10.1109/CVPR.2019.00741
+212	All You Need Is Love	All You Need is Cable TV?	2019	1	10.1080/00220388.2018.1506581
+213	All You Need Is Love	'All you need is brand love': a critical review and comprehensive conceptual framework for brand love	2019	142	10.1080/0267257X.2019.1572025
+214	All You Need Is Love	All you need is cash: Skewering a legend with the prefab four	2019	2	10.4324/9781351266642-38
+215	All You Need Is Love	All you need is mentorship	2018	0	
+216	All You Need Is Love	All you need is fats-For seizure control: Using amoeba to advance epilepsy research	2018	16	10.3389/fncel.2018.00199
+217	All You Need Is Love	All you need is lovage: A rich and rewarding celebration of a meal	2018	0	
+218	All You Need Is Love	All you need is shape: Predicting shear banding in sand with LS-DEM	2018	301	10.1016/j.jmps.2017.10.003
+219	All You Need Is Love	All you need is control. Italian perspectives on acquisitive prescription of immovables	2018	2	
+220	All You Need Is Love	"All you need is science, or is it?: Exploring scientific, theological and other ""ways of knowing"""	2018	1	10.4324/9781315451954-2
+221	All You Need Is Love	All you need is not love: Are we really hard-wired to feel other people' s pain?	2018	1	
+222	All You Need Is Love	All you need is beyond a good init: Exploring better solution for training extremely deep convolutional neural networks with orthonormality and modulation	2017	115	10.1109/CVPR.2017.539
+223	All You Need Is Love	All You Need Is Time? Discrepancies between the European Court of Human Rights Case Law and Liberal Normative Theory on Long-Term Migrants	2017	2	10.1017/S0021223717000152
+224	All You Need Is Love	All you need is facebook friends? Associations between online and face-to-face friendships and health	2017	27	10.3389/fpsyg.2017.00068
+225	All You Need Is Love	All You Need Is Sleep	2016	5	10.1016/j.ebiom.2016.10.003
+226	All You Need Is Love	All you need is log - Mathematics and models: Logarithms and exponential as tools to interpret real phenomena	2016	0	
+227	All You Need Is Love	All You Need Is Mentorship	2016	0	10.1016/j.cell.2016.02.055
+228	All You Need Is Love	All you need is a good init	2016	132	
+229	All You Need Is Love	Positioning the cleavage furrow: All you need is Rho	2016	4	10.1083/jcb.201606010
+230	All You Need Is Love	All you need is a dollar and a dream: Explaining the inverse relationship between socio-economic position and lottery play	2016	2	10.4324/9781315603599-18
+231	All You Need Is Love	Restoring stem cells-all you need is NAD+	2016	17	10.1038/cr.2016.80
+232	All You Need Is Love	All you need is export? Moroccan farmers juggling global and local markets	2015	3	10.4337/9780857939838.00024
+233	All You Need Is Love	From system services freezing to system server shutdown in android: All you need is a loop in an app	2015	50	10.1145/2810103.2813606
+234	All You Need Is Love	All you need is trust? An examination of inter-organizational supply chain projects	2015	141	10.1111/poms.12234
+235	All You Need Is Love	All you need is trust - an analysis of trust measures communicated by cloud providers	2015	7	10.1007/978-3-319-26148-5_38
+236	All You Need Is Love	'You don't need influence . . . all you need is your first opportunity!': The early broadcast talent show and the BBC	2014	5	10.7227/CST.9.1.3
+237	All You Need Is Love	All you need is a red shirt and cap, And you are Sokol!	2014	0	
+238	All You Need Is Love	Love is not all you need: A revolutionary approach to parental abuse	2014	3	10.1002/anzf.1069
+239	All You Need Is Love	All you need is Darcy's equation to determine EOR success or failure	2013	10	
+240	All You Need Is Love	All you need is .. resources: The effects of justice and support on burnout and turnover	2013	112	10.1177/0018726712462614
+241	All You Need Is Love	Initiation of clathrin-mediated endocytosis: All you need is two?	2013	8	10.1002/bies.201200129
+242	All You Need Is Love	All you need is health: Liberal and communitarian views on the allocation of health care resources	2013	1	10.4324/9780203010389-8
+243	All You Need Is Love	All you need is trust? A critical review of the trust and entrepreneurship literature	2012	242	10.1177/0266242612439588
+244	All You Need Is Love	Targeting sirtuin 1 to improve metabolism: All you need is NAD +?	2012	341	10.1124/pr.110.003905
+245	All You Need Is Love	All you need is trust? A critical review of the trust and entrepreneurship literature	2012	1	10.4337/9781788119474.00018
+246	All You Need Is Love	Burned out and fed up? Maybe all you need is a break	2011	0	
+247	All You Need Is Love	All you need is a potato: The culinary performances of Grushenka Abramova	2011	0	10.1080/0740770X.2011.628455
+248	All You Need Is Love	All You Need is Holt-Is the Socio-cultural Phenomenon a Problem for a Neorealist Ecological Psychology?	2011	1	10.1007/s12124-011-9161-z
+249	All You Need Is Love	All you need is light, antimicrobial photoinactivation as an evolving and emerging discovery strategy against infectious disease	2011	216	10.4161/viru.2.6.17889
+250	All You Need Is Love	Want to be a mentor? All you need is mentee	2010	0	
+251	All You Need Is Love	All you need is time solar dyeing with natural dyes	2010	0	
+252	All You Need Is Love	Solving the futures challenge - all you need is a 3LA	2010	6	10.1016/j.futures.2009.09.010
+253	All You Need Is Love	All You Need Is a Mir-acle: The Role of Nontranslated RNAs in the Suppression of B Cell Chronic Lymphocytic Leukemia	2010	11	10.1016/j.ccr.2009.12.029
+254	All You Need Is Love	All you need is flow!	2010	6	10.1016/j.resuscitation.2010.02.010
+255	All You Need Is Love	Although It Helps, Love Is Not All You Need: How Caryl Rusbult Made Me Discover What Relationships Are All About	2010	1	10.1111/j.1475-6811.2010.01264.x
+256	All You Need Is Love	When all you need is a dot	2009	0	
+257	All You Need Is Love	All you need is N: Baryon spectroscopy in two large N limits	2009	29	10.1103/PhysRevD.80.036002
+258	All You Need Is Love	If you need love, get a Puppy: A case study on professional skepticism and auditor independence	2009	7	10.2308/iace.2009.24.2.237
+259	All You Need Is Love	NEMS: All you need is feedback	2008	4	10.1038/nnano.2008.142
+260	All You Need Is Love	'All you need is an idea!': The impact of values-based participation on pupils' attitudes towards social activism and enterprise	2008	5	10.1177/1365480207086751
+261	All You Need Is Love	All you need is compassion	2008	17	10.1007/978-3-540-78163-9_21
+262	All You Need Is Love	All you need is sound	2007	2	10.1021/ac071966x
+263	All You Need Is Love	Transgenic Wnt/TCF pathway reporters: All you need is Lef?	2006	134	10.1038/sj.onc.1210057
+264	All You Need Is Love	Reviving the killers: All you need is IL-2	2006	0	10.1182/blood-2006-02-001198
+265	All You Need Is Love	III.7 simplified approach for crossing total occlusions: Forget the new gadgets; all you need is a catheter and a wire	2005	0	
+266	All You Need Is Love	All you need is One!	2004	0	
+267	All You Need Is Love	All you need is vision	2003	0	
+268	All You Need Is Love	"To control temperature, all you need is a ""cool"" line"	2002	2	10.1097/00003246-200211000-00036
+269	All You Need Is Love	All you need is cognitive behaviour therapy? [1] (multiple letters)	2002	1	
+270	All You Need Is Love	All you need is cognitive behaviour therapy?	2002	85	
+271	All You Need Is Love	All you need is cognitive behaviour therapy? Critical appraisal of evidence base must be understood and respected.	2002	0	10.1136/bmj.324.7352.1522
+272	All You Need Is Love	All you need is cognitive behaviour therapy? Integrated biopsychosocial approach will be treatment of choice.	2002	0	
+273	All You Need Is Love	All you need is cognitive behaviour therapy? Political range of psychotherapies has emerged.	2002	0	
+274	All You Need Is Love	Mental health. All you need is help.	2001	0	
+275	All You Need Is Love	All you need is a little respect.	2000	0	
+276	All You Need Is Love	Texas nameplate company: All you need is trust	1998	1	
+277	All You Need Is Love	All you need is RNA	1998	8	10.1126/science.281.5377.658
+278	All You Need Is Love	All you need is theory? The Beatles' 'Sgt. Pepper'	1998	4	10.1093/ml/79.4.577
+279	All You Need Is Love	Transmitting voice and data: all you need is one phone line	1995	0	
+280	All You Need Is Love	Psychiatry: all you need is drugs?	1992	0	
+281	All You Need Is Love	Primary nursing. All you need is thought.	1988	1	
+282	All You Need Is Love	All you need is a typewriter	1983	0	10.1080/03064228308533514
+283	With a Little Help from My Friends	Getting by with a little help from my antiracist White friends: Can White antiracism counteract the demobilizing effect of positive contact?	2025	0	10.1177/13684302241286442
+284	With a Little Help from My Friends	 With a Little Help from My (LLM) Friends: Enhancing Static Analysis with LLMs to Detect Software Vulnerabilities	2025	0	10.1109/LLM4Code66737.2025.00008
+285	With a Little Help from My Friends	Getting by with a little help from friends and family: mediation model between loneliness and depressive symptoms amongst Portuguese students	2025	5	10.1108/JARHE-11-2023-0547
+286	With a Little Help from My Friends	With a little help from my retailer: Shopper acceptance of nutritional decision aids supporting healthy grocery shopping	2025	0	10.1016/j.appet.2025.107972
+287	With a Little Help from My Friends	With a little help from my family and friends: social class and contextual variations in the role of personal networks in students' higher education plans	2024	3	10.1080/01425692.2023.2266574
+288	With a Little Help from My Friends	With a Little Help from my (Linguistic) Friends: Topic Segmentation of Multi-party Casual Conversations	2024	0	
+289	With a Little Help from My Friends	With a little help from my (neighbouring) friends. 'Border region patient mobility' in the European Union: A policy analysis	2024	3	10.1016/j.healthpol.2024.105114
+290	With a Little Help from My Friends	'With a little help from my educated friends': revisiting the role of social capital for immigrants' labour market integration in Germany	2024	1	10.1186/s40878-024-00366-3
+291	With a Little Help from My Friends	STILL DOING IT THEMSELVES, WITH A LITTLE HELP FROM FRIENDS: Independent Filmmaking in Malaysia Two Decades Hence	2024	0	10.4324/9781003266952-44
+292	With a Little Help from My Friends	With a little help from my T friends: T cells increase efficacy of KRAS (G12D) inhibitors	2023	3	10.1016/j.xcrm.2023.100950
+293	With a Little Help from My Friends	With(Out) a Little Help From My Friends? Reconciling Incongruous Findings on Stakeholder Management, Innovation, and Firm Performance	2023	20	10.1177/10422587211024497
+294	With a Little Help from My Friends	With a little help from friends	2023	0	10.1007/978-3-031-31462-9_14
+295	With a Little Help from My Friends	With a Little Help from Friends: Teaching About, with, and Through Social Media	2023	0	10.1007/978-3-031-10865-5_8
+296	With a Little Help from My Friends	I Get by With a Little Help From My Bots: Implications of Machine Agents in the Context of Social Support	2022	8	10.30658/hmc.4.8
+297	With a Little Help from My Friends	With a Little Help from My Cell Wall: Structural Modifications in Pectin May Play a Role to Overcome Both Dehydration Stress and Fungal Pathogens	2022	15	10.3390/plants11030385
+298	With a Little Help from My Friends	With a Little Help From My Empathic Friends: The Role of Peers in the Development of Empathy in Adolescence	2022	23	10.1037/dev0001347
+299	With a Little Help from My Friends	I Get by With a Little Help From My Peers: Mindfulness and Peer Support for Doctor of Nursing Practice Students	2022	4	10.1097/01.NEP.0000000000001010
+300	With a Little Help from My Friends	With a Little Help from My Peer Clique: Mitigating the Intergenerational Transmission of Poverty	2022	2	10.1093/esr/jcac020
+301	With a Little Help from My Friends	Getting by with a Little Help from Friends: A Qualitative Case Study of Students' Strategies for Coping with Failure in an Undergraduate Biology Laboratory Course	2022	3	10.1187/CBE.20-07-0155
+302	With a Little Help from My Friends	Find a little help from my (microbial) friends	2022	0	10.1016/j.chom.2022.03.024
+303	With a Little Help from My Friends	With a Little Help from my Temporal Context: Multimodal Egocentric Action Recognition	2021	19	
+304	With a Little Help from My Friends	With a little help from my conversational agent: Towards a voice assistant for improved patient compliance and medication therapy safety	2021	0	
+305	With a Little Help from My Friends	Improving ICI outcomes with a little help from my microbial friends	2021	4	10.1016/j.chom.2021.01.012
+306	With a Little Help from My Friends	With a little help from my (her) friends: The role of friend support on the negative effects of work engagement for married couples	2021	9	10.1016/j.jvb.2021.103539
+307	With a Little Help from My Friends	With a little help from my website. Firm survival and web presence in times of COVID-19 - Evidence from 10 European countries	2021	10	
+308	With a Little Help from My Friends	With(out) a little help from my friends: insecure attachment in adolescence, support-seeking, and adult negativity and hostility	2021	19	10.1080/14616734.2020.1821722
+309	With a Little Help from My Friends	Sex pheromones: Made with a little help from my (bacterial) friends	2021	2	10.1016/j.cub.2021.03.074
+310	With a Little Help from My Friends	With a little help from my peers	2020	21	10.1145/3377325.3377518
+311	With a Little Help from My Friends	Singing synthesis: With a little help from my attention	2020	8	10.21437/Interspeech.2020-1399
+312	With a Little Help from My Friends	With a little help from my best friend... : Exploring the social functioning of students with moderate learning difficulties in inclusive educational settings	2020	3	10.1016/j.ijer.2020.101640
+313	With a Little Help from My Friends	With a little help from my (Canadian) friends: Health differences between minimal and maximal religiosity/spirituality are partially mediated by social support	2020	13	10.1016/j.socscimed.2020.113387
+314	With a Little Help from My Friends	With a little help from my (Psittacidae) friends	2020	1	10.3758/s13420-020-00439-0
+315	With a Little Help from My Friends	Building strong neighborhoods in the lung with a little help from my mesenchymal stem cells	2019	3	10.1164/rccm.201811-2153ED
+316	With a Little Help from My Friends	With a little help from my boss: The impact of workplace mental health training on leader behaviors and employee resource utilization	2019	103	10.1037/ocp0000126
+317	With a Little Help from My Friends	With a Little Help from My Government - A User Perspective on State Support for Electric Vehicles	2019	5	10.1007/978-3-319-93885-1_35
+318	With a Little Help from My Friends	With a little help from my peers: Professional development of higher education teachers to teach critical thinking	2019	8	10.24140/issn.1645-7250.rle44.09
+319	With a Little Help from My Friends	With a little help from my customers: The influence of customer empowerment on consumers' perceptions of well-established brands	2019	0	10.1142/9781786346490_0014
+320	With a Little Help from My Friends	"Tubule repair: with a little help from my ""unexpected"" friends"	2019	4	10.1016/j.kint.2018.11.019
+321	With a Little Help from My Friends	Noninvasive ventilation in unplanned endotracheal extubation: Just a little help from my friend?	2019	0	10.4187/respcare.06886
+322	With a Little Help from My Friends	With a little help from my fans: the transformative role of the consumer in music co-production	2018	4	10.1080/09537287.2018.1478148
+323	With a Little Help from My Friends	With a little help from my colleagues: Notes on emotional support in a qualitative longitudinal research project	2018	14	10.1108/S1042-319220180000016003
+324	With a Little Help from My Friends	With a little help from my child: A dyad approach to immigrant mothers' and adolescents' socio-cultural adaptation	2018	20	10.1016/j.adolescence.2017.04.005
+325	With a Little Help from My Friends	I get by with a little help from my 750-dollar-per-tablet friends: A model act for states to prevent dramatic pharmaceutical price increases	2018	1	
+326	With a Little Help from My Friends	Monitoring servers, with a little help from my bots	2017	7	10.1145/3123458.3123461
+327	With a Little Help from My Friends	With a little help from my trainers: Training students to become job application trainers for refugees	2017	0	10.1007/s11612-017-0370-x
+328	With a Little Help from My Friends	WITH A LITTLE HELP from MY CUSTOMERS: The INFLUENCE of CUSTOMER EMPOWERMENT on CONSUMERS' PERCEPTIONS of WELL-ESTABLISHED BRANDS	2017	13	10.1142/S1363919617500487
+329	With a Little Help from My Friends	I get by with a little help from my PEEPS: Learning from an NSF S-STEM cohort scholarship program	2017	4	
+330	With a Little Help from My Friends	Social surrogate use in those exposed to trauma: I get by with a little help from my (fictional) friends	2017	26	10.1521/jscp.2017.36.1.41
+331	With a Little Help from My Friends	With a little help from my (online?) friends - A comparison of support seeking, receiving and providing support in online and offline communities	2017	0	
+332	With a Little Help from My Friends	With a little help from my family: A mixed-method study on the outcomes of family support and workload	2016	19	10.5964/ejop.v12i4.1159
+333	With a Little Help from My Friends	With a Little Help from my Neighbors: Person Name Linking Using the Wikipedia Social Network	2016	6	10.1145/2872518.2891109
+334	With a Little Help from My Friends	With a little help from my wheel: Wheel-coiled pottery in protogeometric Greece	2016	13	10.2972/hesperia.85.2.0297
+335	With a Little Help from My Friends	Getting by with a little help from friends and colleagues: Testing how residents' social support networks affect loneliness and burnout	2016	56	
+336	With a Little Help from My Friends	With a Little Help From My Competitors: Peer Networking Among Artisan Entrepreneurs	2015	151	10.1111/etap.12053
+337	With a Little Help from My Friends	Commentary: With a little help from my enteric microbial friends	2015	1	10.3389/fmicb.2015.01029
+338	With a Little Help from My Friends	With a little help from my enteric microbial friends	2015	8	10.3389/fmed.2015.00030
+339	With a Little Help from My Friends	With a little help from friends: Pierre-Louis-Antoine Cordier (1777-1861): 50 years of experimental work on basalt	2015	2	10.17704/1944-6187-34.2.204
+340	With a Little Help from My Friends	Tumor biology: With a little help from my dying friends	2015	21	10.1016/j.cub.2015.01.040
+341	With a Little Help from My Friends	With a little help from my neighbours: A spatial analysis ofthe impact of local campaigns at the 2010 British general election	2014	12	10.1016/j.electstud.2013.12.001
+342	With a Little Help from My Friends	With a little help from my old T cell: Memory follicular T helper cells driving autoimmunity?	2014	4	10.1002/eji.201445101
+343	With a Little Help from My Friends	I get by with a little help from my supervisor: Creative-idea generation, idea implementation, and perceived supervisor support	2014	116	10.1016/j.leaqua.2014.05.003
+344	With a Little Help from My Friends	With a little help from my assistant: Buffering the negative effects of emotional dissonance on dentist performance	2013	9	10.1111/cdoe.12038
+345	With a Little Help from My Friends	Metagenomics: With a little help from my phage friends.	2013	0	10.1038/nrg3532
+346	With a Little Help from My Friends	With(out) a little help from my friends: An IL-12/CD40L-mediated feed-forward loop between CD8<sup>+</sup> T cells and DCs	2013	0	10.1002/eji.201343644
+347	With a Little Help from My Friends	Microbiome: With a little help from my phage friends	2013	3	10.1038/nrmicro3070
+348	With a Little Help from My Friends	With a little help from my (random) friends: Success and failure in post-business school entrepreneurship	2013	148	10.1093/rfs/hht024
+349	With a Little Help from My Friends	With a little help from my colleagues: A social embeddedness approach to perceived organizational support	2012	128	10.1002/job.755
+350	With a Little Help from My Friends	With a little help from my kin: Barn swallow nestlings modulate solicitation of parental care according to nestmates' need	2012	22	10.1111/j.1420-9101.2012.02571.x
+351	With a Little Help from My Friends	Lives saved, with a little help from friends	2012	0	10.1353/nib.2012.0047
+352	With a Little Help from My Friends	TailGate: Handling long-tail content with a little help from friends	2012	45	10.1145/2187836.2187858
+353	With a Little Help from My Friends	With a little help from my spouse: Does spousal collaboration compensate for the effects of cognitive aging?	2011	31	10.1159/000317335
+354	With a Little Help from My Friends	Bacterial Virulence: With a little help from my enemies	2011	0	10.1038/nrmicro2561
+355	With a Little Help from My Friends	With a little help from my colleagues: Strengthening the stereotype inoculation model with insights from fellow psychologists	2011	4	10.1080/1047840X.2011.631872
+356	With a Little Help from My Friends	Getting by better with help from my friends -social capital and its contribution to lives of Irish people with intellectual disabilities	2010	0	
+357	With a Little Help from My Friends	With a little help from my goals: Integrating intergoal facilitation with the theory of planned behaviour to predict physical activity	2010	34	10.1348/135910710X494105
+358	With a Little Help from My Friends	Getting by with a Little Help from My Hunter: Riding to Hounds in English Foxhound Packs	2010	4	10.1002/9781444327694.ch7
+359	With a Little Help from My Friends	With a little help from my enemy: Comparative advertising as a signal of quality	2009	26	10.1111/j.1530-9134.2009.00238.x
+360	With a Little Help from My Friends	With a little help from my f(X)riends!: The basis of Ad5-mediated transduction of the liver revealed	2008	5	10.1038/mt.2008.80
+361	With a Little Help from My Friends	With a Little Help From My Cross-Group Friend: Reducing Anxiety in Intergroup Contexts Through Cross-Group Friendship	2008	426	10.1037/0022-3514.95.5.1080
+362	With a Little Help from My Friends	'A little help from my friend?' Analysis of network links on the meso level in Uzbekistan	2006	15	10.1080/02634930600903106
+363	With a Little Help from My Friends	Importing with a little help from friends	2005	2	
+364	With a Little Help from My Friends	Without a little help from 'my' friends: Direct insertion of proteins into chloroplast membranes?	2001	71	10.1016/S0167-4889(01)00152-5
+365	With a Little Help from My Friends	With a little help from my fans - Extending models of pro-social behaviour to explain supporters' intentions to buy soccer club shares	2000	71	10.1016/S0167-4870(00)00010-6
+366	With a Little Help from My Friends	'With a little help from my academic friend': Mentoring change agents	2000	21	10.1080/713685507
+367	With a Little Help from My Friends	The role of derivational morphology in vocabulary acquisition: Get by with a little help from my morpheme friends	2000	70	10.1111/1467-9450.00201
+368	With a Little Help from My Friends	I get by with a little help from my cyber-friends: Sharing stories of good and bad times on the Web	1999	4	
+369	With a Little Help from My Friends	Teaching on the web: With a little help from my pedagogical friends	1999	38	10.1007/BF02940840
+370	With a Little Help from My Friends	I get by with a little help from my cyber-friends: Sharing stories of good and bad times on the web	1999	22	10.1111/j.1083-6101.1999.tb00102.x
+371	With a Little Help from My Friends	Oral rehydration at home - With a little help from friends	1997	2	
+372	With a Little Help from My Friends	I get by with a little help from my family and friends: Adolescents' support for diabetes care	1995	315	10.1093/jpepsy/20.4.449
+373	With a Little Help from My Friends	Health care decision making by the elderly: I get by with a little help from my family	1991	50	10.1093/geront/31.5.619
+374	The Long and Winding Road	The Lung and Winding Road: Inflammation-Driven Platelet Reactivity in Long COVID	2025	0	10.1016/j.jacbts.2024.11.013
+375	The Long and Winding Road	Temporality and the Brain: The Long and Winding Emergence of Time in Cognitive Neuroscience	2025	0	10.1007/s42087-025-00497-8
+376	The Long and Winding Road	Biologics in COPD: The Road is Still Long and Winding	2025	1	10.1080/15412555.2025.2467657
+377	The Long and Winding Road	The future of renewable energy systems-a long and winding transition pathway?	2025	0	10.1088/978-0-7503-6179-8ch1
+378	The Long and Winding Road	The PREVENT trial: The road to treating vulnerable plaques is still long and winding	2024	0	10.1714/4282.42631
+379	The Long and Winding Road	A long and winding but exciting road: Biodiversity, phylogenetic, and biogeographic relationships of ascidians in the Southwest Atlantic	2023	0	10.1002/dvg.23551
+380	The Long and Winding Road	Kashmir: a long winding road to freedom: An interview with Iffat Fatima	2023	0	10.1080/17503280.2021.2005456
+381	The Long and Winding Road	Wind and winding roads: Friendship amid indefnite confnement	2022	0	10.4324/9781003214441-5
+382	The Long and Winding Road	From GSR to Heart Rate Variability: A Long and Winding (Actually, Wiggly) Road	2022	3	10.1007/s10484-022-09540-8
+383	The Long and Winding Road	The long winding road to the safer glucocorticoid receptor (GR) targeting therapies	2022	30	10.18632/ONCOTARGET.28191
+384	The Long and Winding Road	The social and winding road between inflammation and PTSD	2021	3	10.1038/s41386-021-00979-7
+385	The Long and Winding Road	The long and winding path to nuclear fusion: The ultimate energy source	2021	3	10.1557/s43577-021-00200-6
+386	The Long and Winding Road	The long and winding career path: lessons learned	2021	0	10.1007/s00247-020-04799-7
+387	The Long and Winding Road	VanPatten (1990)'s long and winding story and the nature of replication studies	2021	4	10.1075/sibil.62.05san
+388	The Long and Winding Road	The Long Winding Road to Liberation: The Tales of Two Iranian Immigrants	2021	1	10.1080/07351690.2021.1865765
+389	The Long and Winding Road	A unifying theory of driver perception and steering control on straight and winding roads	2020	11	10.1109/THMS.2019.2947551
+390	The Long and Winding Road	The long and winding boundaries: quantifying interfaces between residential, natural and agricultural land uses	2020	4	10.1080/1747423X.2020.1769212
+391	The Long and Winding Road	The long and winding path to secure implementation of globalplatform SCP10	2020	1	10.13154/tches.v2020.i3.196-218
+392	The Long and Winding Road	The Long and Winding Railway: Domestic Politics and the Realization of China-Initiated High-Speed Railway Projects in Thailand	2019	23	10.1007/s41111-019-00124-2
+393	The Long and Winding Road	Oncology trajectories of elderly patients in a palliative situation: The long and winding road	2018	1	
+394	The Long and Winding Road	Harmonization of laboratory hematology: A long and winding journey	2018	19	10.1515/cclm-2018-0161
+395	The Long and Winding Road	The Long and Winding Triage Road	2018	3	10.1016/j.annemergmed.2018.03.021
+396	The Long and Winding Road	The long and winding route	2018	0	10.1016/j.jtcvs.2017.12.059
+397	The Long and Winding Road	Extracardiac imaging in amyloidosis: A long and winding (but possible) road	2018	1	10.1016/j.ijcard.2017.11.089
+398	The Long and Winding Road	The fast and winding roads that lead to the doors: Generating heterogeneous music playlists	2017	2	10.1145/3126858.3126891
+399	The Long and Winding Road	Secondary hypertension post bone marrow transplant: A long winding road	2017	0	10.1097/MPH.0000000000000687
+400	The Long and Winding Road	The Long Winding Road to Transplant: How Sarcopenia and Debility Impact Morbidity and Mortality on the Waitlist	2017	55	10.1016/j.cgh.2017.04.004
+401	The Long and Winding Road	BCL-2: Long and winding path from discovery to therapeutic target	2017	69	10.1016/j.bbrc.2016.10.100
+402	The Long and Winding Road	The long and winding path to understanding kidney structure in amphioxus - A review	2017	10	10.1387/ijdb.170196nh
+403	The Long and Winding Road	A long and winding sTORy	2017	5	10.1038/ncb3624
+404	The Long and Winding Road	The long winding road towards certification in neuroendovascular surgery	2016	1	10.1136/neurintsurg-2016-012360
+405	The Long and Winding Road	India faces a long and winding path to green climate solutions	2016	12	10.1073/pnas.1616121113
+406	The Long and Winding Road	Revisiting the long and winding (less travelled) road: The road to chaos in marketin	2016	0	10.1007/978-981-10-0464-3_9
+407	The Long and Winding Road	Rails and Roads Between Competition and Interdependency: A Long and Winding Relationship with Many Innovations That Failed	2016	0	10.4324/9781315583495-3
+408	The Long and Winding Road	The green (and winding) road. It's been a year since Colorado and Washington legalized recreational marijuana, and not all that was predicted has come to pass--with some surprises along the way	2015	0	
+409	The Long and Winding Road	The long & winding road the process safety journey: Where are we and where are we headed?	2015	0	10.4043/25737-ms
+410	The Long and Winding Road	Editorial: The lung and winding road: Twists and turns on the way to personalized nsclc therapy	2014	1	10.2174/13816128113196660766
+411	The Long and Winding Road	The lung and winding road	2014	1	10.1016/S2213-2600(14)70082-7
+412	The Long and Winding Road	Along and winding road	2014	0	
+413	The Long and Winding Road	C hydrogen atom transfer in post-cleavage radical-cation complexes: Short and steep versus long winding road	2014	5	10.1021/jp507865h
+414	The Long and Winding Road	A dark and winding road	2013	0	
+415	The Long and Winding Road	The long & winding road to collaborative observational practice	2013	0	
+416	The Long and Winding Road	The two-way mixed model: A long and winding controversy	2013	4	10.7334/psicothema2012.15
+417	The Long and Winding Road	Formation of long and winding nuclear F-actin bundles by nuclear c-Abl tyrosine kinase	2013	20	10.1016/j.yexcr.2013.09.003
+418	The Long and Winding Road	Ghrelin and motilin receptor agonists: A long and winding misconception	2013	0	10.1111/nmo.12244
+419	The Long and Winding Road	Ghrelin and motilin receptor agonists: A long and winding misconception	2013	3	10.1111/nmo.12241
+420	The Long and Winding Road	Conjugated polymers: Long and winding polymeric roads	2013	45	10.1038/nmat3790
+421	The Long and Winding Road	A long and winding path: Requirements for critical thinking in project work	2013	2	10.1016/j.lcsi.2012.11.001
+422	The Long and Winding Road	The Necessity of Origin: A Long and Winding Route	2013	9	10.1007/s10670-011-9354-3
+423	The Long and Winding Road	The long and winding helix	2013	0	10.1038/embor.2013.31
+424	The Long and Winding Road	The long, winding road: One university's quest for minority health care professionals and services	2012	17	10.1097/ACM.0b013e31826c97bd
+425	The Long and Winding Road	The long and winding regulatory road for laboratory- developed tests	2012	22	10.1309/AJCP6OAULC3CMFEJ
+426	The Long and Winding Road	Anatomical basis of variation in mesophyll resistance in eastern Australian sclerophylls: News of a long and winding path	2012	150	10.1093/jxb/ers171
+427	The Long and Winding Road	The long and winding TRAIL to weight loss	2012	0	10.1042/CS20120356
+428	The Long and Winding Road	Short and winding road: Software in car navigation systems	2011	10	10.1109/MS.2011.83
+429	The Long and Winding Road	The long winding road toward understanding the molecular mechanisms for B-cell suppression by 2,3,7,8-tetrachlorodibenzo-p-dioxin	2011	67	10.1093/toxsci/kfq324
+430	The Long and Winding Road	The 'long winding road' to adulthood: A risk-filled journey for young people in stockholm's marginalized periphery	2011	10	10.1177/110330881101900302
+431	The Long and Winding Road	Participative democracy and the diffusion of organizational innovations: The long, winding road from a plant level 'field experiment' to regional economic development	2010	5	10.1057/9780230304154_10
+432	The Long and Winding Road	A long, winding road	2010	5	10.1109/MMM.2010.937734
+433	The Long and Winding Road	Fabrication of mesoporous carbons with rod and winding road like morphology using NbSBA-15 templates	2010	14	10.1166/jnn.2010.1526
+434	The Long and Winding Road	Retrograde approach to a totally occluded right coronary artery via a septal perforator artery: The tale of a long and winding wire	2010	6	
+435	The Long and Winding Road	Revisiting individual choices in group settings: The long and winding (less traveled) road?	2010	20	10.1086/644750
+436	The Long and Winding Road	Erratum: A long, winding road to ignition (Science (2009) 324 (327))	2009	1	
+437	The Long and Winding Road	The long and winding journey of Outsider Art. An historical perspective	2007	7	10.1017/S1121189X00004759
+438	The Long and Winding Road	Risk Assessment of GM Crops - Does the Road Ahead Need to be Long and Winding?	2007	2	10.1002/9780470988497.ch10
+439	The Long and Winding Road	Confessions of an intellectual (property): Danger Mouse, Mickey Mouse, Sonny Bono, and my long and winding path as a copyright activist-academic	2005	45	10.1080/0300776042000300981
+440	The Long and Winding Road	Optimizing digoxin dosage: The long winding road	2003	2	10.1046/j.0269-4727.2003.00509.x
+441	The Long and Winding Road	Long and winding	2003	0	
+442	The Long and Winding Road	Lasers show that protein folding is a long and winding path	2002	0	
+443	The Long and Winding Road	Free energy calculations. The long and winding gilded road	2002	89	10.1080/08927020211974
+444	The Long and Winding Road	Corporate governance in microfinance organizations: Along and winding road	2001	56	10.1108/00251740110391466
+445	The Long and Winding Road	The long and winding (and frequently bumpy) road to successful client engagement: One team's journey	2001	7	10.1002/sdr.214
+446	The Long and Winding Road	The long, winding road of RU-486.	2000	0	
+447	The Long and Winding Road	The road to the production of IgE is long and winding	2000	10	10.1164/ajrccm.162.supplement_2.ras-3
+448	The Long and Winding Road	Perspectives. The long, winding road to integration of alternative and conventional medicine.	1999	0	
+449	The Long and Winding Road	Navigating the long and winding path of post-tenure review: The Arizona story	1999	0	10.1023/B:IHIE.0000008143.07570.1b
+450	The Long and Winding Road	The long and winding code	1999	0	
+451	The Long and Winding Road	Myocyte hypertrophy: The long and winding RhoA'd	1999	18	10.1172/JCI7459
+452	The Long and Winding Road	A long, winding road	1998	0	
+453	The Long and Winding Road	Bank computerization and organizational innovations: the long winding road to the bank of the future	1992	5	10.1111/j.1468-005X.1992.tb00020.x
+454	Here, There and Everywhere	Here, There, and In-Between: The Poetic Narratives of a Transnational Family's Translingual, Multiliterate, and Trans-Geographic Reality	2025	0	10.1002/rrq.70002
+455	Here, There and Everywhere	"Corrigendum to ""here-, there-, and every where-: Exploring the role of pronominal adverbs in legal language"" [Applied Corpus Linguistics Volume 4, Issue 1 (2024) 100087](S2666799124000042)(10.1016/j.acorp.2024.100087)"	2024	0	10.1016/j.acorp.2024.100112
+456	Here, There and Everywhere	here-, there-, and every where-: Exploring the role of pronominal adverbs in legal language	2024	3	10.1016/j.acorp.2024.100087
+457	Here, There and Everywhere	AI Is Officially Here, There, Everywhere, and Nowhere Districts playing catch-up can still adopt sound policies for artificial intelligence	2024	1	
+458	Here, There and Everywhere	Neuromonitoring - Here, There, and to Every Critically Ill Patient	2023	1	10.1097/CCM.0000000000005926
+459	Here, There and Everywhere	Visiting here, there, and somewhere: Multi-locality and the geographies of transnational family visiting	2023	2	10.1111/glob.12419
+460	Here, There and Everywhere	Introduction: 'Then, There and Everywhere' - Situating Disrupted Knowledge	2023	0	10.1163/9789004536418_002
+461	Here, There and Everywhere	Hair, there and everywhere: A comparison of bat wing sensory hair distribution	2023	7	10.1002/ar.25176
+462	Here, There and Everywhere	HERE, THERE, AND BACK AGAIN	2023	0	
+463	Here, There and Everywhere	Here, there, everywhere: The relational geographies of chemsex	2023	14	10.1111/tran.12603
+464	Here, There and Everywhere	Here, there, everywhere: Situating contemporary multimodal poetry	2023	1	10.1515/9783111299334-002
+465	Here, There and Everywhere	Hair, there, and everywhere: Peritonsillar abscess formation initiated by pet hair ingestion	2022	0	10.1016/j.xocr.2022.100470
+466	Here, There and Everywhere	Materials Nanoarchitectonics Here, There, Everywhere: Looking Back and Leaping Forward	2022	1	10.1039/9781788019613-00546
+467	Here, There and Everywhere	Here, There, and Elsewhere: The Making of Immigrant Identities in a Globalized World	2022	0	10.1080/14442213.2022.2049067
+468	Here, There and Everywhere	Here, there, & everywhere: Development and validation of a cross-culturally representative measure of subjective career success	2021	51	10.1016/j.jvb.2021.103612
+469	Here, There and Everywhere	Here/There/Everywhere: Quantum Models for Decolonizing Canadian State Onto-Epistemology: In a Situation of Oppression, Epistemic Relations are Screwed Up. (Medina, 2013)	2021	6	10.1007/s10699-019-09610-x
+470	Here, There and Everywhere	The digital void of voluntourism: Here, there and new currencies of care	2021	11	10.1016/j.geoforum.2021.05.016
+471	Here, There and Everywhere	Colour here, there, and in-between-Placemaking and wayfinding in mental health environments	2021	10	10.1002/col.22570
+472	Here, There and Everywhere	Here, there, and back again: The southern diaspora and the transcultural music of muddy waters	2021	3	10.1353/sgo.2021.0004
+473	Here, There and Everywhere	Here, there and nowhere in provincial outskirts and haunted houses1	2021	0	10.4324/9781003103646-12
+474	Here, There and Everywhere	Here. There. Everywhere?	2020	0	10.1016/S0262-4079(20)30864-2
+475	Here, There and Everywhere	Here, there, and anywhere	2019	1	10.1163/15700682-12341462
+476	Here, There and Everywhere	Here, There, and Back Again with the Social Foundations of Education: Tracing Conocimientos In/Toward Coalitional Journeys	2018	1	10.1080/00131946.2017.1406857
+477	Here, There and Everywhere	Of Here and Everywhere: Dynamic Spatial Perspectives in Twelfth Night	2017	0	10.1080/17450918.2017.1298664
+478	Here, There and Everywhere	Miro in Parkinson's disease: Here, there, everywhere!	2017	1	10.1002/mds.26975
+479	Here, There and Everywhere	Here, there, and anywhere? Arguments for and against the physical plasma cell survival niche	2017	50	10.4049/jimmunol.1700461
+480	Here, There and Everywhere	The view from here, there and nowhere? Situating the observer in the planetarium and in the solar system	2017	5	10.1080/17460654.2017.1323409
+481	Here, There and Everywhere	Here, There, and In-Between: On the interplay of multilocal living, space, and inequality	2016	0	
+482	Here, There and Everywhere	Here, There and Nowhere: Following Adult Survivors of Childhood Cancer A Case Report of Recurrent Osteosarcoma in a Young Adult	2016	0	
+483	Here, There and Everywhere	Editors' Introduction to the Special Issue - Bion: Here, There, and In Between	2016	0	10.1080/15240657.2016.1199922
+484	Here, There and Everywhere	Here, there, and now: Deictics and the transposition of orality to image in colonial imagery	2015	3	10.2752/175613115X14235644692310
+485	Here, There and Everywhere	Here, there and nowhere: Ageing, gender and celebrity studies	2015	5	10.1057/9781137495129.0006
+486	Here, There and Everywhere	Here, There and Nowhere: Ageing, Gender and Celebrity Studies	2015	0	10.1057/9781137495129_2
+487	Here, There and Everywhere	Mrs. Dalloway here, there, everywhere	2014	2	10.1215/00138282-52.1.133
+488	Here, There and Everywhere	Here, there, everywhere: mRNA localization in budding yeast	2014	25	10.4161/rna.29945
+489	Here, There and Everywhere	Not here and everywhere: The non-production of scientific knowledge	2014	30	
+490	Here, There and Everywhere	Here, there and in-between: Transitional space in Hong Kong movies	2014	0	
+491	Here, There and Everywhere	PTEN, here, there, everywhere	2013	11	10.1038/cdd.2013.127
+492	Here, There and Everywhere	Huntingtin: Here, there, everywhere!	2013	53	10.3233/JHD-130082
+493	Here, There and Everywhere	Here, there, everywhere: Further reflections on Antipodean experience and geography	2013	3	10.1177/2043820613493068
+494	Here, There and Everywhere	Is the secure base phenomenon evident here, there, and anywhere? A cross-cultural study of child behavior and experts' definitions	2013	40	10.1111/cdev.12084
+495	Here, There and Everywhere	Analyzing the view from here, there and nowhere: Discursive approaches to journalistic stance	2012	7	10.1016/j.dcm.2012.10.003
+496	Here, There and Everywhere	Here, there, and in-between: Lifestyle migrants from Japan	2012	6	
+497	Here, There and Everywhere	Pathogenic C difficile is here (and everywhere) to stay	2011	10	10.1016/S0140-6736(10)61885-5
+498	Here, There and Everywhere	Introduction: Queer, there and everywhere	2011	8	10.1080/0950236X.2011.586773
+499	Here, There and Everywhere	Here, there and in-between rehearsing over Skype	2011	8	10.1080/13528165.2011.606036
+500	Here, There and Everywhere	here, there, everywhere, or is it truly partial epilepsy?	2010	0	10.1017/S0317167100051374
+501	Here, There and Everywhere	Here, there, and in-between: On the interplay of multilocal living, space, and inequality	2009	19	
+502	Here, There and Everywhere	Cancer stem cells: Here, there, everywhere?	2008	85	10.1038/456581a
+503	Here, There and Everywhere	Pharmaceutical care: Here, there and now	2008	1	
+504	Here, There and Everywhere	Women in theatre: Here, there, everywhere, and nowhere	2006	2	10.3138/tric.27.1.56
+505	Here, There and Everywhere	Here, there, everywhere: Antibiotic-resistant foodborne pathogens	2004	3	
+506	Here, There and Everywhere	Glutamatergic Chemical Transmission: Look! Here, There, and Anywhere	2004	73	10.1093/jb/mvh018
+507	Here, There and Everywhere	Inflammation and asthma: Here, there, everywhere	2002	2	10.1016/S1081-1206(10)62032-7
+508	Here, There and Everywhere	Here, there, everywhere.	2000	0	
+509	Here, There and Everywhere	Changes: here and everywhere.	1997	1	
+510	Here, There and Everywhere	MiniRapid Microbiology Workshops  Here, There, Everywhere!	1993	0	10.1111/j.1745-4581.1993.tb00330.x
+511	Here, There and Everywhere	The center out there, in here, and everywhere else: The nature of pilgrimage to the shrine of saint jude, 1929-1965	1991	17	10.1353/jsh/25.2.213
+512	Here, There and Everywhere	Here, there, and nowhere: Once Upon a Time ...	1975	0	10.1177/009385487500200402
+513	When I'm Sixty-Four	When I'm 64: functional shift of aging platelets	2025	0	10.1182/blood.2024027996
+514	When I'm Sixty-Four	Tanizaki's The Key in Translation: Will You Still Need Me, Will You Still Read Me, When I'm (Over) Sixty-Four?	2023	0	
+515	When I'm Sixty-Four	When I'm 64: Age-Related Variability in over 40,000 Online Cognitive Test Takers	2022	36	10.1093/geronb/gbab143
+516	When I'm Sixty-Four	Erratum: When I'm 64: Age-Related Variability in over 40,000 Online Cognitive Test Takers (The Journals of Gerontology: Series B DOI: 10.1093/geronb/gbab143)	2022	4	10.1093/geronb/gbab207
+517	When I'm Sixty-Four	When I'm 54: Working longer starts younger than we think	2022	4	10.1093/oso/9780197512067.003.0002
+518	When I'm Sixty-Four	'When I'm 65': On the Age-negotiated Duty to Work	2021	6	10.1177/0950017019885797
+519	When I'm Sixty-Four	When Im 84: What Should Life Look Like in Old Age?	2020	1	10.1111/jgs.16408
+520	When I'm Sixty-Four	When I'm 75: College Students' Self Perceptions of the Challenges of Aging	2020	7	10.1177/0091415020912930
+521	When I'm Sixty-Four	When I'm 64 (Slices) - Prognostication in Geriatric Trauma	2019	0	10.1001/jamasurg.2019.1011
+522	When I'm Sixty-Four	When I'm 64: A review of instrumental music-making and brain health in later life	2019	3	10.1016/j.exger.2019.05.006
+523	When I'm Sixty-Four	When I'm 64: Effects of an interdisciplinary gerontology course on first-year undergraduates' perceptions of aging	2018	29	10.1080/02701960.2016.1144600
+524	When I'm Sixty-Four	Will you still need me, will you still feed me when I'm 64? The health impact of caregiving to one's spouse	2017	64	10.1002/hec.3542
+525	When I'm Sixty-Four	Will You Still Need Me When I'm 64, or 84, or 104? the Importance of Speech-Language Pathologists in Promoting the Quality of Life of Aging Adults in the United States into the Future	2016	14	10.1055/s-0036-1583544
+526	When I'm Sixty-Four	Will you still treat me when i'm 64? Care of the older adult with hiv infection	2015	3	
+527	When I'm Sixty-Four	"Kaons - A micro-physics laboratory - ""Will you still need me when I'm 64?"" (the beatles)"	2012	0	10.1143/ptps.197.128
+528	When I'm Sixty-Four	Will you still fit me when I'm seventy-four?	2012	0	10.1038/nrclinonc.2012.151
+529	When I'm Sixty-Four	When I'm 64.	2011	0	10.1136/bmj.d5808
+530	When I'm Sixty-Four	When I'm 64: Psychological contract breach, work motivation and the moderating roles of future time perspective and regulatory focus	2011	70	10.1080/02678373.2011.632610
+531	When I'm Sixty-Four	Demographic changes: When I'm 84...	2011	0	
+532	When I'm Sixty-Four	How Will You Need Me, How Will You Read Me, When I'm 64 (or More!)?: Volume Computed Tomographic Scanning and Information Overload in the Emergency Department	2010	1	10.1067/j.cpradiol.2009.07.007
+533	When I'm Sixty-Four	When I'm 66	2010	0	
+534	When I'm Sixty-Four	Will you still need me: When i'm 64?	2009	30	10.1007/s10645-009-9132-7
+535	When I'm Sixty-Four	Will you still love me when I'M 64? The boomers at work	2009	2	
+536	When I'm Sixty-Four	WILL YOU STILL NEED ME, WILL YOU STILL FEED ME, WHEN I'M 64? AN ETHICAL PROBLEM FOR THE MODERN, COSMOPOLITAN ACADEMIC	2009	0	10.1163/9789042027404_014
+537	When I'm Sixty-Four	When I'm 64.	2008	1	10.1503/cmaj.081090
+538	When I'm Sixty-Four	When I'm 104: The Determinants of Healthy Longevity Among the Oldest-Old in China	2008	0	10.1007/978-1-4020-6752-5_8
+539	When I'm Sixty-Four	The aging workplace - It's not just ergonomics or will you still need me, will you still love me, when I'm 64?	2008	0	
+540	When I'm Sixty-Four	Will you still need me ... when I'm 64?1 the future of CMS	2008	18	10.1177/1350508408095823
+541	When I'm Sixty-Four	When I'm 64	2006	41	10.17226/11474
+542	When I'm Sixty-Four	Will you still need me, will you still feed me, when I'm 64?	2006	0	
+543	When I'm Sixty-Four	When I'm 64 [4]	2006	0	
+544	When I'm Sixty-Four	When I'm 64 [2]	2006	0	
+545	When I'm Sixty-Four	When I'm 64 [1]	2006	0	
+546	When I'm Sixty-Four	When I'm 64 [3]	2006	0	
+547	When I'm Sixty-Four	"LINDEMAN'S TROPHIC-DYNAMIC ASPECT OF ECOLOGY: ""WILL YOU STILL NEED ME WHEN I'M 64?"""	2005	12	10.1002/lob.200514353
+548	When I'm Sixty-Four	When I'm sixty five. A public sector pension has always been an attractive benefit for nurses. But, as Sue Ward reports, a review of the NHS scheme could change all that.	2004	0	10.7748/ns.18.46.21.s33
+549	When I'm Sixty-Four	When I'm 64: Health choices	2004	2	10.1111/j.1369-7625.2004.00269.x
+550	When I'm Sixty-Four	When I'm 64 ... will you still need me? Epidemiology in country practice: W H Pickles 1939	2004	2	10.1136/jech.2003.015230
+551	When I'm Sixty-Four	Perceptions of Older Adult Eyewitnesses: Will You Believe Me When I'm 64?	2003	40	10.1023/A:1025486006769
+552	When I'm Sixty-Four	When I'm 64...!	2002	0	10.1054/joon.2001.0223
+553	When I'm Sixty-Four	Will you still list me when I'm 64? Apologies to Lennon/McCartney	2002	8	10.1046/j.1532-5415.2002.50029.x
+554	When I'm Sixty-Four	When I'm sixty five.	1997	0	10.7748/ns.11.51.16.s27
+555	When I'm Sixty-Four	Will you still need me, will you still screen me, when I'm past 64?: Breast screening policy is based on ageism	1997	18	10.1136/bmj.315.7115.1032
+556	When I'm Sixty-Four	When I'm 64 technology and telecommunications beyond 2025	1995	1	
+557	When I'm Sixty-Four	When I'm 64. Experiential sensitivity program helps employees treat older people with patience and understanding. Santa Monica Hospital Medical Center, CA.	1994	0	
+558	When I'm Sixty-Four	Will you still need me, will you still feed me, when I'm eighty-four?	1990	0	
+559	Can't Buy Me Love	Money can buy me love: Gifts are a more effective form of acute social support than conversations	2025	0	10.1002/jcpy.1438
+560	Can't Buy Me Love	Can't Buy Me Health-Care Access: Qualitative Experiences of U.S.-Born Latinx Adults' Health Insurance Coverage and Health-Care Use Post ACA	2024	3	10.7758/RSF.2024.10.4.08
+561	Can't Buy Me Love	Can't buy me meaning? Lay theories impede people from deriving meaning and well-being from consumption	2022	7	10.1016/j.copsyc.2022.101332
+562	Can't Buy Me Love	Incentives Can't Buy Me Knowledge: The Missing Effects of Appreciation and Aligned Performance Appraisals on Knowledge Sharing of Public Employees	2022	23	10.1177/0734371X20986839
+563	Can't Buy Me Love	Can't buy me acceptance? Financial benefits for wind energy projects in Germany	2022	30	10.1016/j.enpol.2022.112924
+564	Can't Buy Me Love	Can't buy me votes? Campaign spending and the outcome of direct democratic votes	2022	7	10.1080/01402382.2020.1852374
+565	Can't Buy Me Love	Buy me love: entanglements of citizenship, income and emotions in regulating marriage migration	2021	27	10.1080/1369183X.2019.1625141
+566	Can't Buy Me Love	Money can't buy love but can it buy peace? Evidence from the EU Programme for Peace and Reconciliation (PEACE II)	2020	3	10.1177/0738894218766865
+567	Can't Buy Me Love	Money Can't Buy Me Trust: Evidence of Exogenous Influences Crowding out Process-based Trust in Alliances	2017	3	10.1111/1467-8551.12189
+568	Can't Buy Me Love	Can't Buy Me Green? A Review of Consumer Perceptions of and Behavior Toward the Price of Organic Food	2017	358	10.1111/joca.12092
+569	Can't Buy Me Love	'Can't buy me legitimacy': The elusive stability of Mideast rentier regimes	2017	21	10.1057/jird.2014.32
+570	Can't Buy Me Love	Can't buy me laughter - Humour in organisational change	2016	6	10.1007/s11612-016-0341-7
+571	Can't Buy Me Love	Money can't buy me land: Foreign land ownership regime and public opinion in a transition society	2016	13	10.1016/j.landusepol.2016.03.032
+572	Can't Buy Me Love	Can't buy me friendship? Peer rejection and adolescent materialism: Implicit self-esteem as a mediator	2015	78	10.1016/j.jesp.2015.01.001
+573	Can't Buy Me Love	Can't buy me soft power	2013	0	
+574	Can't Buy Me Love	Can buy me love: The effect of child welfare expenditures on maltreatment outcomes	2012	4	10.1080/00036846.2011.581214
+575	Can't Buy Me Love	Can buy me love: Mate attraction goals lead to perceptual readiness for status products	2011	64	10.1016/j.jesp.2010.08.009
+576	Can't Buy Me Love	Can't buy me health: Financial constraints and health-seeking behaviour in rural households in Central Togo	2011	0	
+577	Can't Buy Me Love	Money can't buy me hygge Danish middle-class consumption, egalitarianism, and the sanctity of inner space	2011	72	10.3167/sa.2011.550202
+578	Can't Buy Me Love	Money can't buy love: Private-equity firms battle to keep their tax perks	2010	0	
+579	Can't Buy Me Love	Can't buy me growth: On foreign aid and economic change	2010	4	
+580	Can't Buy Me Love	Money can't buy love: Asymmetric beliefs about gift price and feelings of appreciation	2009	106	10.1016/j.jesp.2008.11.003
+581	Can't Buy Me Love	Can't buy me whiteness: New Lessons from the Titanic on Race, Ethnicity, and Health	2008	102	10.1017/S1742058X0808003X
+582	Can't Buy Me Love	Can't buy me democracy [5] (multiple letters)	2003	0	10.2307/3183508
+583	Can't Buy Me Love	Beauvoir on Sex, Love and Money: Money Can't Buy Love, but It Sure Makes for Better Sex	1996	1	10.1163/25897616-01301007
+584	Hello, Goodbye	Say hello and wave goodbye	2025	0	10.1080/02723638.2025.2468451
+585	Hello, Goodbye	Etomidate and its derivatives: time to say goodbye? You say goodbye and I say hello. Response to Br J Anaesth 2025; 134: 11-3	2025	0	10.1016/j.bja.2025.02.016
+586	Hello, Goodbye	Goodbye Dr. Google, hello Dr. ChatGPT: Advancing a new frontier for ENT medical information online	2025	0	10.1016/j.amjoto.2025.104618
+587	Hello, Goodbye	They say goodbye, we say hello: understanding the relational phases of equity-minded STEMM graduate-undergraduate mentorship	2024	4	10.1080/13611267.2024.2323476
+588	Hello, Goodbye	Goodbye Substantial Factor, Hello Doull v. Foster!	2023	0	10.1515/jtl-2023-0018
+589	Hello, Goodbye	Say hello, wave goodbye	2023	0	10.1242/jcs.261519
+590	Hello, Goodbye	You Have to Say Hello Before You Can Say Goodbye	2023	0	
+591	Hello, Goodbye	It's hello from her and goodbye from him	2022	0	
+592	Hello, Goodbye	"You say, ""goodbye,"" and i Say, ""hello, Hello, Hello"""	2020	0	10.1097/01.REO.0000000000000195
+593	Hello, Goodbye	Goodbye Adhesives, Hello Thermal Direct Joining	2019	0	
+594	Hello, Goodbye	"It's ""Goodbye"" from me and ""Hello"" from him"	2017	0	10.1042/bio03906003
+595	Hello, Goodbye	I don't know why you say goodbye, i say hello	2015	0	10.1515/9780271075747-045
+596	Hello, Goodbye	I don't know why you say goodbye, i say hello (on taking both the visual and the political seriously)	2015	0	10.1515/9780271075747-040
+597	Hello, Goodbye	You Say Goodbye and I Say Hello	2013	0	10.1111/1552-6909.12202
+598	Hello, Goodbye	You say goodbye, and I say hello!	2012	5	10.1183/09059180.00006112
+599	Hello, Goodbye	You say goodbye, I say hello	2012	1	10.5860/rusq.52n1.15
+600	Hello, Goodbye	"You say ""yes,"" i say ""no,"" you say ""goodbye,"" and i say ""hello"""	2011	1	
+601	Hello, Goodbye	You say goodbye and I say hello	2009	1	10.1093/rheumatology/ken444
+602	Let It Be	Let it Bee: Thoughts for My Friend julie ezelle patton	2024	0	
+603	Let It Be	Julie patton's Let it Bee Garden and Poet Tree Mitigation Program: Selected Correspondence	2024	0	
+604	Let It Be	Author Response: Let It Breathe: Mastering Spontaneous Breathing Trials	2024	0	10.4187/respcare.12426
+605	Let It Be	Let It Breathe: Mastering Spontaneous Breathing Trials	2024	0	10.4187/respcare.12331
+606	Let It Be	Let It BEE: Natural Language Classification of Arthropod Specimens Based on Their Spanish Description	2023	0	10.1007/978-3-031-42935-4_10
+607	Let It Be	Brief Announcement: Let It TEE: Asynchronous Byzantine Atomic Broadcast with n  2f + 1	2023	2	10.4230/LIPIcs.DISC.2023.43
+608	Let It Be	Let It Beat: How Lifestyle and Psychosocial Factors Affect the Risk of Sudden Cardiac Death-A 10-Year Follow-Up Study	2022	4	10.3390/ijerph19052627
+609	Let It Be	Let it Bee: A Case Study of Applying Triadic Game Design for Designing Virtual Reality Training Games for Beekeepers	2021	2	10.1145/3472538.3472558
+610	Let It Be	"Let it ""B""? The role of hepatitis B universal vaccination among Italian problematic drug users"	2015	5	10.3390/ijerph120403979
+611	Let It Be	Let it bee - Towards NMF-inspired audio mosaicing	2015	19	
+612	Let It Be	There will be an answer; let it bleed	2014	0	10.2310/8000.2013.131026
+613	Let It Be	Particle physics: Let it B	2013	0	10.1038/499290a
+614	Let It Be	Aortic arch repair: Let it beat!	2012	17	10.1055/s-0030-1271042
+615	Let It Be	Robert Glasper: Let it blur	2012	0	
+616	Let It Be	Let it B in viral hepatitis?	2011	7	10.1016/j.jhep.2010.12.027
+617	Let It Be	Let it bubble - Paul Nizon and the literary Paris	2010	0	10.3917/eger.257.0069
+618	Let It Be	"Technical topics - ""Let it rust!"""	2007	0	
+619	Let It Be	Let it breathe	1987	0	
+620	Ticket to Ride	Game to Ride: Gamification to Salvage Carbon Footprints for Sustainable Development	2023	0	10.1007/978-981-99-0835-6_50
+621	Ticket to Ride	TICKET TO DEBT: CITY OF CHICAGO V. FULTON AND THE TWO-TRACK CONSUMER BANKRUPTCY SYSTEM	2023	0	
+622	Ticket to Ride	Ticket to rate: antecedents to turnover intention among teachers	2023	1	10.1080/13603124.2023.2218107
+623	Ticket to Ride	Ride-hail to ride rail: Learning to balance supply and demand in ride-hailing services with intermodal mobility options	2022	4	10.1016/j.trc.2022.103887
+624	Ticket to Ride	Ticket to divide: m6A reader YTHDC1 drives acute myeloid leukemia proliferation	2021	5	10.1182/blood.2021013185
+625	Ticket to Ride	Ticket to a bubble ride: Cargo sorting into exosomes and extracellular vesicles	2019	206	10.1016/j.bbapap.2019.02.005
+626	Ticket to Ride	Ticket to talk: Supporting conversation between young people and people with dementia through digital media	2018	74	10.1145/3173574.3173949
+627	Ticket to Ride	Ticket to success	2017	1	
+628	Ticket to Ride	Ticket to done: High-end operators are having guests prepay for meals, and experts say it's just the beginning	2014	0	
+629	Ticket to Ride	Right to Ride: African American citizenship and protest in the Era of Plessy v. Ferguson	2007	3	
+630	Ticket to Ride	Ticket to a smoother ride	2006	0	
+631	Ticket to Ride	You've got a ticket to deride	2005	0	
+632	A Hard Day's Night	A hard day's write: Beatles fanfic and the quantum of creativity	2021	2	10.1093/oso/9780190917852.003.0008
+633	A Hard Day's Night	It Has Been a Hard Day's Year	2021	0	10.1159/000521805
+634	A Hard Day's Night	A hard day's Fortnite: The latest video-game fad shows off a DIY ethic	2018	0	
+635	A Hard Day's Night	It's been a hard day's night...But it was worth every minute	2018	1	10.1016/j.pulmoe.2018.09.002
+636	A Hard Day's Night	Restorying a hard day's work	2013	8	10.1108/S1479-3555(2013)0000011013
+637	A Hard Day's Night	A hard day's work--and getting paid for it.	2007	0	
+638	A Hard Day's Night	Hard day's work: A boon for performance but a bane for satisfaction?	2006	1	10.5465/AMP.2006.23270312
+639	A Hard Day's Night	A hard day's work	1997	0	10.1017/S0008197300017694
+640	A Hard Day's Night	A hard day's work: Measuring women's work in anthropological research	1996	1	10.1177/1525822X960080020201
+641	A Hard Day's Night	A hard day's knight. Zinc phosphide poisoning.	1989	2	
+642	A Hard Day's Night	Professionalism committee does a hard day's work for ACS	1972	0	10.1021/cen-v050n011.p025
+643	Magical Mystery Tour	A mathematical mystery tour: Higher-thinking math tasks (grades 5-12)	2023	0	10.4324/9781003419396
+644	Magical Mystery Tour	Adolescents and cancer clinical trials: A MaGIC mystery tour	2019	0	10.1200/JOP.19.00416
+645	Magical Mystery Tour	Francis Underwood's Magical Political Mystery Tour Is Dying to Take You Away; Dying to Take You Away, Take You Today	2015	0	10.1002/9781119092834.ch22
+646	Magical Mystery Tour	Skeptical mystery tour	2014	0	10.4324/9780203123522-7
+647	Magical Mystery Tour	Skeptical mystery tour	2014	2	10.4324/9780203123522
+648	Magical Mystery Tour	The concept of Sebestoimost' in Russian farm accounting: A very unmagical mystery tour	2001	9	10.1111/1471-0366.00003
+649	Magical Mystery Tour	Magic happens: A new age metaphysical mystery tour	1999	3	10.1080/14443059909387505
+650	Magical Mystery Tour	Mycological mystery tour	1995	3	10.1038/375276a0
+651	Magical Mystery Tour	Alcohol Intoxication and Physical Dependence: a molecular mystery tour	1989	20	10.1111/j.1360-0443.1989.tb03459.x
+652	Magical Mystery Tour	This mystery tour is not magical--it's downright tragic.	1987	0	
+653	Magical Mystery Tour	PSROs: a magical medical mystery tour.	1979	0	
+654	Lucy in the Sky with Diamonds	In the sky with diamonds: Hedonic motivations in experiential luxury buying after a crisis	2023	6	10.1002/cb.2028
+655	Lucy in the Sky with Diamonds	Lucy in the sky with Trojan asteroids	2021	3	10.1038/s41550-021-01534-6
+656	Lucy in the Sky with Diamonds	Lucy in the Sky with Crystals	2019	0	10.1038/scientificamerican1119-4
+657	Lucy in the Sky with Diamonds	Sulfur in the Sky with Diamonds: An Inquiry into the Feasibility of Solar Geoengineering	2019	3	10.1111/1758-5899.12646
+658	Lucy in the Sky with Diamonds	Lucy in the sky with ketamine: Psychoactive drugs have potential for a major breakthrough in treating depression	2018	0	10.15252/embr.201847118
+659	Lucy in the Sky with Diamonds	Rubies in the sky with diamonds: Prices are up, thanks to extravagant Asians and edgy Westerners	2011	0	
+660	Lucy in the Sky with Diamonds	Lucy in the sky without diamonds: Stealing confidential data in the cloud	2011	120	10.1109/DSNW.2011.5958798
+661	Lucy in the Sky with Diamonds	Leucine in the sky with diamonds	2003	4	10.1016/j.str.2003.09.009
+662	Lucy in the Sky with Diamonds	Discourse in the sky with diamonds	2001	0	
+663	Lucy in the Sky with Diamonds	Luce in the sky with diamonds	1973	0	10.1080/00332927308408831
+664	Strawberry Fields Forever	"Strawberry Fields (Not) Forever? ""Iceberg Reflections"" on PerformingGreenland"	2024	0	
+665	Strawberry Fields Forever	Phenomenal Fields Forever: Instructed Action and Perception's Work	2023	0	10.4324/9781003279235-6
+666	Strawberry Fields Forever	Chrysanthemum fields forever: The labor exchange band, taiwanese folk rock, and the LP form	2019	0	10.4324/9781351119146-10
+667	Strawberry Fields Forever	Sound Fields Forever: Mapping sound fields via position-aware smartphones	2017	1	
+668	Strawberry Fields Forever	Editorial: Conference Special Issue - Marketing Fields Forever 2011	2011	1	10.1080/0267257X.2011.624696
+669	Strawberry Fields Forever	Northala fields forever	2009	1	
+670	Strawberry Fields Forever	Plutonium fields forever	2003	4	10.1126/science.300.5623.1220
+671	Strawberry Fields Forever	Hot spots, avatars, and narrative fields forever: Bunuel's legacy for new digital media and interactive database narrative	2002	79	10.1525/fq.2002.55.4.2
+672	Happiness Is a Warm Gun	Happiness is a warm theorem	2009	0	10.1007/s00283-009-9043-0
+673	Happiness Is a Warm Gun	Happiness is a warm hug. Research suggests keeping employees happy is a great wellness program.	2008	0	
+674	Happiness Is a Warm Gun	Happiness is a warm workplace.	2008	0	
+675	Happiness Is a Warm Gun	Happiness is a warm abstract thought: Self-construal abstractness and subjective well-being	2007	32	10.1080/17439760601069150
+676	Happiness Is a Warm Gun	Happiness is a warm iPod	2006	0	
+677	Happiness Is a Warm Gun	Happiness is a warm... customer	2005	0	
+678	Happiness Is a Warm Gun	Happiness is a Warm Blanket: Chris Norris on the eternal comforts of Dustin Hoffman	2005	0	
+679	Everybody's Got Something to Hide Except Me and My Monkey	Everybody's Got Something To Hide Except Me and My NFT's Monkey - An Analysis of the European Commission's DAC8 Proposal on Automatic Exchange of Cryptoasset Information	2023	1	10.59403/16edte1
+680	Everybody's Got Something to Hide Except Me and My Monkey	Everybody's got something to hide except me and my patented monkey: patentability of cloned organisms.	1998	0	
+681	While My Guitar Gently Weeps	Still my guitar gently weeps. Questions for an ockhamized metaphysics of the event sources of sound	2013	1	10.1515/krt-2013-012704
+682	While My Guitar Gently Weeps	While my guitar gently reaps	2005	0	
+683	Do You Want to Know a Secret	Do You Want to Know a Trade Secret? How Article 2B Will Make Licensing Trade Secrets Easier (But Innovation More Difficult)	1999	5	10.2307/3481007
+684	I Me Mine	"I, me, me, mine!: Autobiographical fiction and the ""I"""	2005	7	10.1080/10131750485310111
+685	I'll Follow the Sun	I'll follow the fun: The extended investment model of social media influencers	2022	38	10.1016/j.tele.2022.101881
+686	I've Just Seen a Face	'i have just seen a face of old africa' the depiction of black africa in national geographic magazine	1997	1	10.1080/02500169708537815
+687	Love Me Do	From experiencer verbs to Agree-and-Move: a review of Bind Me Tender, Bind Me Do!	2023	0	10.1515/psicl-2022-1075
+688	Maxwell's Silver Hammer	Grenville's silver hammer: The problem of money in the Stamp Act crisis	2017	6	10.1093/jahist/jax172
+689	Norwegian Wood (This Bird Has Flown)	Bird flu has flown	2017	0	10.1002/cind.812_9.x
+690	Nowhere Man	The nowhere (wo)man: An example of the defensive use of emptiness in a patient with a schizoid disorder of the self	1996	4	10.1007/BF02189729
+691	Please Please Me	Please, Please, Just Tell Me: The Linguistic Features of Humorous Deception	2020	6	10.5210/dad.2020.205
+692	Revolution 9	Rated X: Apple's new operating system aims to score a perfect 10, but for some, revolution no. 9 was change enough	2001	0	
+693	We Can Work It Out	Can Wii work it out?	2011	5	10.7790/tja.v61i3.231

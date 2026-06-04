@@ -2,11 +2,11 @@
 Export the four shareable reference datasets that back the paper's results.
 
 For each retrieved reference file in data/, keep only the columns that are safe to
-publish (song_nr, song_name, title, year, cited_by, doi), keep every real Scopus
-record (drop only no-hit placeholders), order songs by descending reference count and
-rows within a song by descending year, and assign a fresh sequential paper_nr as an
-anonymous identifier. Scholar data and the raw author/venue/scopus_id columns are
-intentionally excluded; the article title is kept, matching the shared annotation set.
+publish (song_name, title, year, cited_by, doi), keep every real Scopus record (drop
+only no-hit placeholders), order songs by descending reference count and rows within a
+song by descending year, and assign a fresh sequential paper_nr as an anonymous
+identifier. The song is identified by song_name (the retrieval-time song_nr is dropped:
+it indexed a snapshot of the song list and is not stable across datasets).
 
 The four result datasets and their expected sizes (the paper's headline numbers):
 
@@ -33,7 +33,7 @@ import pandas as pd
 
 SELECTED_SONGS = "data/beatles_selected_songs.txt"
 
-SHARED_COLUMNS = ["song_nr", "song_name", "title", "year", "cited_by", "doi"]
+SHARED_COLUMNS = ["song_name", "title", "year", "cited_by", "doi"]
 
 
 def load_selected_songs(path: str = SELECTED_SONGS) -> set:
@@ -54,14 +54,13 @@ def prepare(fin: str, fout: str, selected: set | None = None,
         df = df[df["song_name"].isin(selected)]
 
     # Order songs by descending reference count, then rows within a song by descending
-    # year (blank years sort last). song_nr breaks ties between equally frequent songs.
+    # year (blank years sort last). song_name breaks ties between equally frequent songs.
     df = df.assign(
-        _count=df.groupby("song_nr")["song_nr"].transform("size"),
-        _song_nr=pd.to_numeric(df["song_nr"], errors="coerce"),
+        _count=df.groupby("song_name")["song_name"].transform("size"),
         _year=pd.to_numeric(df["year"], errors="coerce"),
     )
     df = df.sort_values(
-        by=["_count", "_song_nr", "_year"],
+        by=["_count", "song_name", "_year"],
         ascending=[False, True, False],
         kind="stable",
         na_position="last",
