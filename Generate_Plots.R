@@ -96,7 +96,6 @@ df_refs <- read_delim("data/scopus_song_refs.txt", delim = "\t",
 
 songs <- read_delim("data/beatles_songs.txt", delim = "\t",
                     escape_double = FALSE, trim_ws = TRUE)
-songs$song_nr <- seq(0, nrow(songs) - 1)
 names(songs)[names(songs) == "song"] <- "song_name"
 
 songs.selected <- read_delim("data/beatles_selected_songs.txt", delim = "\t",
@@ -133,17 +132,18 @@ write.table(df_refs, file = "output/scopus_song_refs_filtered.txt", sep = "\t")
 # --------------------------------------------------------------------------
 
 df_summary <- df_refs %>%
-  group_by(song_nr) %>%
+  group_by(song_name) %>%
   summarise(
-    song_name_check = head(song_name, 1),
     n_papers = n_distinct(cite_nr[cite_nr != -1]),
     total_citations = sum(cited_by, na.rm = TRUE),
     avg_citations = total_citations / n_papers
   )
 
+# Join on song_name (not a positional song_nr) so beatles_songs.txt can be edited
+# freely without re-indexing the retrieved data.
 df_summary <- songs %>%
-  select(song_nr, song_name) %>%
-  left_join(df_summary, by = "song_nr") %>%
+  select(song_name) %>%
+  left_join(df_summary, by = "song_name") %>%
   mutate(
     n_papers = replace_na(n_papers, 0),
     total_citations = replace_na(total_citations, 0),
@@ -356,9 +356,9 @@ toffice(p, "plots/papers_by_year.pptx",
 
 names(scholar)[names(scholar) == "paper_count"] <- "scholar"
 names(df_summary)[names(df_summary) == "n_papers"] <- "scopus"
-combined <- merge(df_summary[, c("song_nr", "song_name", "scopus")], scholar,
-                  id = c("song_nr", "song_name"))
-combined <- combined[order(combined$song_nr), ]
+combined <- merge(df_summary[, c("song_name", "scopus")], scholar,
+                  by = "song_name")
+combined <- combined[order(combined$song_name), ]
 plot.df <- combined[combined$scopus > 0 & combined$scholar > 0, ]
 
 # Log-binned mean of Scopus counts across Scholar counts (for the fit).

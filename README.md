@@ -195,7 +195,9 @@ The few-shot examples in `prompts/user_prompt.txt` cover both positive cases (ge
 
 ## Song curation
 
-The 112 songs in `data/beatles_selected_songs.txt` were selected from the full Beatles discography (`data/beatles_songs.txt`) by excluding:
+`data/beatles_songs.txt` is the full Beatles discography (215 songs + year, the core
+catalogue sourced from Wikipedia's *List of songs recorded by the Beatles*). The 112 songs
+in `data/beatles_selected_songs.txt` were selected from it by excluding:
 - Cover songs and songs not originally written by the Beatles
 - Titles too generic to yield reliable matches (e.g., *Get Back*, *Yesterday*)
 - Titles too obscure to plausibly appear as deliberate references
