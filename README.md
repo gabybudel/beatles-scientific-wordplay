@@ -35,7 +35,12 @@ The pipeline has three stages, all implemented in `wordplay_pipeline.ipynb`:
 │   ├── beatles_songs.txt          # full Beatles discography (search list)
 │   ├── beatles_lyrics.txt         # 36 characteristic Beatles lyric phrases
 │   ├── beatles_selected_songs.txt # 112 curated songs used in the published analysis
-│   └── shared/                    # minimal-column data for sharing (data availability)
+│   └── shared/                    # shareable data for data availability
+│       ├── titles_exact.txt              # 2048 exact song-title references
+│       ├── titles_wordplay.txt           #  694 song-title wordplay references
+│       ├── lyrics_exact.txt              #  258 exact lyric references
+│       ├── lyrics_wordplay.txt           #  553 lyric wordplay references
+│       ├── wordplay_candidates.txt       # approximate candidates seen by the classifier
 │       └── wordplay_annotation_sample.csv  # 300-title human validation set
 ├── prompts/
 │   ├── system_prompt.txt          # GPT-4o-mini system prompt for wordplay classification
@@ -152,7 +157,23 @@ It reads `data/beatles_songs.txt` and writes per-song hit counts (`beatles_scopu
 
 ### Data export
 
-The data export under `data/shared/` was generated as minimal-column copies of the retrieved references (`paper_nr`, `song_nr`, `song_name`, `year`, `cited_by`, `doi`), for data-availability purposes:
+`prepare_shared_data.py` exports the four result datasets that back the paper's tables,
+plus the approximate wordplay candidates, under `data/shared/`:
+
+| File | Rows | Contents |
+|---|---|---|
+| `titles_exact.txt` | 2048 | exact song-title references (selected songs) |
+| `titles_wordplay.txt` | 694 | song-title wordplay references (selected songs) |
+| `lyrics_exact.txt` | 258 | exact lyric references |
+| `lyrics_wordplay.txt` | 553 | lyric wordplay references |
+| `wordplay_candidates.txt` | — | approximate candidates the classifier saw, before filtering to wordplay |
+
+Each file keeps the columns `paper_nr`, `song_nr`, `song_name`, `title`, `year`,
+`cited_by`, `doi` — the article title is retained (matching the annotation set), while
+Scholar data and the raw author/venue/scopus_id columns are excluded. Rows are ordered
+by descending per-song reference count, then by descending year within each song. The
+title datasets are filtered to the 112 selected songs, which is what reduces the
+song-title wordplay set to 694 (four de-selected songs contributed one wordplay each).
 
 ```bash
 python prepare_shared_data.py

@@ -1,44 +1,77 @@
 """
-Export shareable, minimal-column copies of the Scopus reference data.
+Export the four shareable reference datasets that back the paper's results.
 
-For each raw reference file in data/, keep only the columns that are safe to publish
-(song_nr, song_name, year, cited_by, doi), drop no-hit placeholder rows, and assign a
-fresh sequential paper_nr as an anonymous identifier. Scholar data and the raw
-title/author/venue/scopus_id columns are intentionally excluded.
+For each retrieved reference file in data/, keep only the columns that are safe to
+publish (song_nr, song_name, title, year, cited_by, doi), keep every real Scopus
+record (drop only no-hit placeholders), order songs by descending reference count and
+rows within a song by descending year, and assign a fresh sequential paper_nr as an
+anonymous identifier. Scholar data and the raw author/venue/scopus_id columns are
+intentionally excluded; the article title is kept, matching the shared annotation set.
+
+The four result datasets and their expected sizes (the paper's headline numbers):
+
+    data/shared/titles_exact.txt     – exact song-title references            (2048)
+    data/shared/titles_wordplay.txt  – song-title wordplay references          (694)
+    data/shared/lyrics_exact.txt     – exact lyric references                  (258)
+    data/shared/lyrics_wordplay.txt  – lyric wordplay references               (553)
+
+    data/shared/wordplay_candidates.txt – approximate (pre-classification)
+        wordplay candidates the classifier saw, kept for transparency.
+
+Title-wordplay sources cover both selected and de-selected songs; passing the selected
+song list filters the title datasets to the 112 songs used in the published analysis
+(this is what reduces the title-wordplay set from 697 to 694).
 
 Usage
 -----
     python prepare_shared_data.py
-
-Output
-------
-    data/shared/song_refs.txt    – exact song-title references
-    data/shared/lyric_refs.txt   – exact lyric references
-    data/shared/approx_refs.txt  – approximate (wordplay-candidate) references
 """
 
 import os
 
 import pandas as pd
 
-SOURCES = {
-    "data/scopus_song_refs.txt": "data/shared/song_refs.txt",
-    "data/scopus_lyric_refs.txt": "data/shared/lyric_refs.txt",
-    "data/scopus_approx_refs.txt": "data/shared/approx_refs.txt",
-}
+SELECTED_SONGS = "data/beatles_selected_songs.txt"
 
-SHARED_COLUMNS = ["song_nr", "song_name", "year", "cited_by", "doi"]
+SHARED_COLUMNS = ["song_nr", "song_name", "title", "year", "cited_by", "doi"]
 
 
-def prepare(fin: str, fout: str) -> None:
+def load_selected_songs(path: str = SELECTED_SONGS) -> set:
+    songs = pd.read_csv(path, sep="\t", encoding="utf-8", dtype=str)
+    return set(songs["song"].str.strip())
+
+
+def prepare(fin: str, fout: str, selected: set | None = None,
+            expected: int | None = None) -> None:
     df = pd.read_csv(fin, sep="\t", encoding="utf-8", dtype=str)
 
-    # Drop no-hit placeholder rows (no Scopus record / no resolved year).
+    # Keep every real Scopus record; drop only no-hit placeholders. A returned record
+    # always has a scopus_id and a title, but year/doi may legitimately be blank.
     df = df[df["scopus_id"].notna() & (df["scopus_id"].str.strip() != "")]
-    df = df[df["year"].notna() & (df["year"].str.strip() != "")]
+    df = df[df["title"].notna() & (df["title"].str.strip() != "")]
+
+    if selected is not None:
+        df = df[df["song_name"].isin(selected)]
+
+    # Order songs by descending reference count, then rows within a song by descending
+    # year (blank years sort last). song_nr breaks ties between equally frequent songs.
+    df = df.assign(
+        _count=df.groupby("song_nr")["song_nr"].transform("size"),
+        _song_nr=pd.to_numeric(df["song_nr"], errors="coerce"),
+        _year=pd.to_numeric(df["year"], errors="coerce"),
+    )
+    df = df.sort_values(
+        by=["_count", "_song_nr", "_year"],
+        ascending=[False, True, False],
+        kind="stable",
+        na_position="last",
+    )
 
     shared = df[SHARED_COLUMNS].copy()
     shared.insert(0, "paper_nr", range(len(shared)))
+
+    if expected is not None and len(shared) != expected:
+        raise AssertionError(f"{fout}: expected {expected} rows, got {len(shared)}")
 
     os.makedirs(os.path.dirname(fout), exist_ok=True)
     shared.to_csv(fout, sep="\t", encoding="utf-8", index=False)
@@ -46,8 +79,20 @@ def prepare(fin: str, fout: str) -> None:
 
 
 def main() -> None:
-    for fin, fout in SOURCES.items():
-        prepare(fin, fout)
+    selected = load_selected_songs()
+
+    # Four result datasets (sizes asserted against the paper's reported counts).
+    prepare("data/scopus_song_refs.txt", "data/shared/titles_exact.txt",
+            selected=selected, expected=2048)
+    prepare("data/scopus_song_wordplay_refs.txt", "data/shared/titles_wordplay.txt",
+            selected=selected, expected=694)
+    prepare("data/scopus_lyric_refs.txt", "data/shared/lyrics_exact.txt",
+            expected=258)
+    prepare("data/scopus_lyric_wordplay_refs.txt", "data/shared/lyrics_wordplay.txt",
+            expected=553)
+
+    # Approximate wordplay candidates (pre-classification), kept for transparency.
+    prepare("data/scopus_approx_refs.txt", "data/shared/wordplay_candidates.txt")
 
 
 if __name__ == "__main__":
