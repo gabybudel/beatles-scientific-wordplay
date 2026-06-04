@@ -32,10 +32,10 @@ The pipeline has three stages, all implemented in `wordplay_pipeline.ipynb`:
 ```
 .
 ├── data/
-│   ├── beatles_songs.txt          # full Beatles discography (search list)
+│   ├── beatles_songs.txt          # full Beatles discography, 215 songs (search list)
 │   ├── beatles_lyrics.txt         # 36 characteristic Beatles lyric phrases
 │   ├── beatles_selected_songs.txt # 112 curated songs used in the published analysis
-│   └── shared/                    # shareable data for data availability
+│   └── shared/                    # reference datasets behind the paper's results
 │       ├── titles_exact.txt              # 2048 exact song-title references
 │       ├── titles_wordplay.txt           #  694 song-title wordplay references
 │       ├── lyrics_exact.txt              #  258 exact lyric references
@@ -48,7 +48,7 @@ The pipeline has three stages, all implemented in `wordplay_pipeline.ipynb`:
 ├── wordplay_pipeline.ipynb        # Full pipeline: exact + approximate retrieval + LLM tagging
 ├── annotation_validation.ipynb    # Human validation: precision/recall/F1 + inter-annotator agreement
 ├── scopus.py                      # Standalone CLI for the exact-retrieval stage
-├── prepare_shared_data.py         # Export minimal-column copies of the reference data
+├── prepare_shared_data.py         # Export the result datasets → data/shared/
 ├── Generate_Plots.R               # Reproduce the paper's figures and tables
 ├── requirements.txt
 ├── .env.example
@@ -155,25 +155,23 @@ python scopus.py            # writes beatles_scopus.txt + beatles_scopus_refs.tx
 
 It reads `data/beatles_songs.txt` and writes per-song hit counts (`beatles_scopus.txt`) and full bibliographic records (`beatles_scopus_refs.txt`). It includes a 0.5 s delay between requests.
 
-### Data export
+### Result datasets — `data/shared/`
 
-`prepare_shared_data.py` exports the four result datasets that back the paper's tables,
-plus the approximate wordplay candidates, under `data/shared/`:
+The reference datasets behind the paper's results, plus the approximate wordplay candidates:
 
 | File | Rows | Contents |
 |---|---|---|
-| `titles_exact.txt` | 2048 | exact song-title references (selected songs) |
-| `titles_wordplay.txt` | 694 | song-title wordplay references (selected songs) |
+| `titles_exact.txt` | 2048 | exact song-title references |
+| `titles_wordplay.txt` | 694 | song-title wordplay references |
 | `lyrics_exact.txt` | 258 | exact lyric references |
 | `lyrics_wordplay.txt` | 553 | lyric wordplay references |
-| `wordplay_candidates.txt` | — | approximate candidates the classifier saw, before filtering to wordplay |
+| `wordplay_candidates.txt` | — | approximate candidates before wordplay classification |
 
-Each file keeps the columns `paper_nr`, `song_nr`, `song_name`, `title`, `year`,
-`cited_by`, `doi` — the article title is retained (matching the annotation set), while
-Scholar data and the raw author/venue/scopus_id columns are excluded. Rows are ordered
-by descending per-song reference count, then by descending year within each song. The
-title datasets are filtered to the 112 selected songs, which is what reduces the
-song-title wordplay set to 694 (four de-selected songs contributed one wordplay each).
+Each row is one referencing article, with columns `paper_nr`, `song_nr`, `song_name`,
+`title`, `year`, `cited_by`, `doi`. Rows are ordered by descending per-song reference
+count, then newest first within each song; the song-title datasets cover the 112 selected songs.
+
+Regenerate them from the retrieved data with:
 
 ```bash
 python prepare_shared_data.py
