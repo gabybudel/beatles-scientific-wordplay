@@ -35,6 +35,7 @@ The pipeline has three stages, all implemented in `wordplay_pipeline.ipynb`:
 │   ├── beatles_songs.txt          # full Beatles discography, 215 songs (search list)
 │   ├── beatles_lyrics.txt         # 36 characteristic Beatles lyric phrases
 │   ├── beatles_selected_songs.txt # 112 curated songs used in the published analysis
+│   ├── subjects/                  # Scopus subject-area exports, one CSV per song (gitignored)
 │   └── shared/                    # reference datasets behind the paper's results
 │       ├── titles_exact.txt              # 2048 exact song-title references
 │       ├── titles_wordplay.txt           #  694 song-title wordplay references
@@ -49,11 +50,21 @@ The pipeline has three stages, all implemented in `wordplay_pipeline.ipynb`:
 ├── annotation_validation.ipynb    # Human validation: precision/recall/F1 + inter-annotator agreement
 ├── scopus.py                      # Standalone CLI for the exact-retrieval stage
 ├── prepare_shared_data.py         # Export the result datasets → data/shared/
-├── Generate_Plots.R               # Reproduce the paper's figures and tables
+├── Generate_Plots.R               # Main figures (counts, citations, years, Scholar vs Scopus) + tables
+├── Analyze.R                      # Subject-area (discipline) distribution figure
 ├── requirements.txt
 ├── .env.example
 └── .gitignore
 ```
+
+**Reproducing the paper's figures.** Two R scripts, both run from the repository root and
+both writing PowerPoint figures to `plots/` via `eoffice`:
+
+- `Generate_Plots.R` — the **main figures** (article counts, citations, references per year,
+  Google Scholar vs. Scopus) and the frequency **tables** (written to `output/`), from the
+  retrieved data in `data/`.
+- `Analyze.R` — the **subject-area (discipline) distribution** figure, from the Scopus
+  "Analyze by subject area" exports in `data/subjects/`.
 
 ---
 

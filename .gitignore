@@ -31,6 +31,7 @@ env/
 # R
 .Rhistory
 .RData
+Rplots.pdf
 
 # macOS
 .DS_Store
@@ -51,3 +52,4 @@ CLAUDE.md
 # beatles_selected_songs.txt) stay tracked.
 /data/scopus_*.txt
 /data/scholar_counts.txt
+/data/subjects/

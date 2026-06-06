@@ -1,6 +1,7 @@
 # How science gets by with a little help from the Beatles
 #
-# Generates the figures and tables for the paper from the Scopus/Scholar data.
+# Generates the main figures and tables for the paper from the Scopus/Scholar data.
+# (The subject-area / discipline distribution figure is produced by Analyze.R.)
 # Run with the repository root as the working directory:
 #   inputs are read from data/, results are written to output/ and plots/.
 
