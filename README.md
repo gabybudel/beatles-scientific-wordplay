@@ -5,7 +5,7 @@ Code for the paper:
 > **How science gets by with a little help from the Beatles: Detecting cultural wordplay in scientific literature using large language models**  
 > *Under review*
 
-This repository contains the data retrieval and wordplay detection pipeline used to identify Beatles song title and lyric references — including creative wordplay — in academic article titles retrieved from Scopus.
+This repository contains the retrieval and wordplay-detection pipeline used to find Beatles song-title and lyric references, including creative wordplay, in academic article titles from Scopus.
 
 ---
 
@@ -14,7 +14,7 @@ This repository contains the data retrieval and wordplay detection pipeline used
 The pipeline has three stages, all implemented in `wordplay_pipeline.ipynb`:
 
 1. **Exact retrieval** — queries the Elsevier Scopus API for titles that match a Beatles song or lyric verbatim (allowing a dropped article, a parenthetical part, or removed periods).
-2. **Approximate retrieval** — relaxed leave-one-out queries (each non-article word dropped in turn) that surface candidates for wordplay which omits or changes one word.
+2. **Approximate retrieval** — relaxed leave-one-out queries (each non-article word dropped in turn) that catch wordplay where one word is omitted or changed.
 3. **Wordplay detection** — GPT-4o-mini (via the OpenAI API) with few-shot prompting classifies each candidate as genuine Beatles wordplay or a coincidental match.
 
 `scopus.py` is a standalone command-line alternative for the exact retrieval stage (see *Download the Scopus data* below).
@@ -114,7 +114,7 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 
-Obtain API keys form the respective providers. Edit `.env` and fill in:
+Obtain API keys from the respective providers. Edit `.env` and fill in:
 
 | Variable | Where to get it |
 |---|---|
