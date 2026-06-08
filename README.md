@@ -221,30 +221,28 @@ Songs were matched from their release year onward. Queries are case- and punctua
 
 ## Citing this work
 
-The code and the result datasets are archived separately, each with its own DOI. If you
-use either, please cite the paper plus the relevant archive. (DOIs are minted when you
-archive — see the *Archiving* steps below — then dropped in here, replacing the
-`<…>` placeholders.)
+The code and the result datasets are archived separately on Zenodo, each with its own
+DOI. If you use either, please cite the paper alongside the relevant archive. The
+article DOI will be added here once the paper is published.
 
 **Paper**
 
 > Budel, G., Kooij, R. E., Tjepkema, M. How science gets by with a little help from the
 > Beatles: Detecting cultural wordplay in scientific literature using large language
-> models. Manuscript under review. doi:`<article DOI on publication>`
+> models. Manuscript under review.
 
 **Code** — this repository, archived on Zenodo
 
 > Budel, G., Kooij, R. E., Tjepkema, M. *Beatles Scientific Wordplay* (version v1.0.0)
 > [Software]. Zenodo. doi:[10.5281/zenodo.20599390](https://doi.org/10.5281/zenodo.20599390)
 
-**Data** — the result datasets in `data/shared/`, archived separately
+**Data** — the result datasets from `data/shared/`, archived on Zenodo
 
-> Budel, G., Kooij, R. E., Tjepkema, M. *Beatles Scientific Wordplay: result datasets* [Data set]. Dryad.
-> doi:`10.5061/dryad.<data record>`
+> Budel, G., Kooij, R. E., Tjepkema, M. *Beatles Scientific Wordplay: result datasets*
+> [Data set]. Zenodo. doi:[10.5281/zenodo.20599598](https://doi.org/10.5281/zenodo.20599598)
 
 A machine-readable [`CITATION.cff`](CITATION.cff) accompanies the repository; GitHub
-turns it into a **Cite this repository** button. Fill in the author names, version, and
-DOIs there too.
+turns it into a **Cite this repository** button.
 
 ---
 
