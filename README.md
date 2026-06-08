@@ -241,8 +241,8 @@ article DOI will be added here once the paper is published.
 > Budel, G., Kooij, R. E., Tjepkema, M. *Beatles Scientific Wordplay: result datasets*
 > [Data set]. Zenodo. doi:[10.5281/zenodo.20599598](https://doi.org/10.5281/zenodo.20599598)
 
-A machine-readable [`CITATION.cff`](CITATION.cff) accompanies the repository; GitHub
-turns it into a **Cite this repository** button.
+GitHub's *Cite this repository* button reads [`CITATION.cff`](CITATION.cff) if you want
+these pre-formatted.
 
 ---
 
