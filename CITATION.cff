@@ -1,6 +1,6 @@
 # Cite this repository. GitHub reads this file and shows a "Cite this repository" button.
-# TODO before publishing: fill in every <…> / TODO placeholder (authors, ORCIDs,
-# version, release date, and the two DOIs) once you have archived the code and data.
+# TODO before publishing: add ORCIDs, set version + release date, and fill in the two
+# DOIs (code + article) once you have archived the code and data.
 cff-version: 1.2.0
 message: "If you use this software, please cite both the software (this file) and the paper (see preferred-citation)."
 title: "Beatles Scientific Wordplay"
@@ -13,12 +13,17 @@ license: MIT
 # --- authors: verify order and full names; add ORCIDs ------------------------
 authors:
   - family-names: Budel
-    given-names: Gaby
+    given-names: Gabriel
+    affiliation: "Delft University of Technology, Delft, The Netherlands"
     # orcid: "https://orcid.org/0000-0000-0000-0000"   # TODO
-  - family-names: "TODO-2"        # TODO: second author family name
-    given-names: "TODO-2"         # TODO: second author given name(s)
-  - family-names: "TODO-3"        # TODO: third author family name
-    given-names: "TODO-3"         # TODO: third author given name(s)
+  - family-names: Kooij
+    given-names: "Robert E."
+    affiliation: "Delft University of Technology, Delft, The Netherlands"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # TODO (corresponding author)
+  - family-names: Tjepkema
+    given-names: Michiel
+    affiliation: "Radboud University Nijmegen, Nijmegen, The Netherlands"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # TODO
 # --- software release (the Zenodo code archive) -----------------------------
 version: "0.0.0"                   # TODO: set to the released tag, e.g. v1.0.0
 date-released: "2026-01-01"        # TODO: set to the release date (YYYY-MM-DD)
@@ -29,11 +34,11 @@ preferred-citation:
   title: "How science gets by with a little help from the Beatles: Detecting cultural wordplay in scientific literature using large language models"
   authors:
     - family-names: Budel
-      given-names: Gaby
-    - family-names: "TODO-2"
-      given-names: "TODO-2"
-    - family-names: "TODO-3"
-      given-names: "TODO-3"
+      given-names: Gabriel
+    - family-names: Kooij
+      given-names: "Robert E."
+    - family-names: Tjepkema
+      given-names: Michiel
   journal: "PLOS ONE"
   year: 2026                       # TODO: update on publication
   doi: "10.1371/journal.pone.XXXXXXX"   # TODO: article DOI on publication

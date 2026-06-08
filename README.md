@@ -228,18 +228,18 @@ archive — see the *Archiving* steps below — then dropped in here, replacing 
 
 **Paper**
 
-> Budel, G., \<author 2\>, \<author 3\>. How science gets by with a little help from the
+> Budel, G., Kooij, R. E., Tjepkema, M. How science gets by with a little help from the
 > Beatles: Detecting cultural wordplay in scientific literature using large language
 > models. *PLOS ONE* (under review). doi:`<article DOI on publication>`
 
 **Code** — this repository, archived on Zenodo
 
-> \<authors\>. *Beatles Scientific Wordplay* (version `<vX.Y.Z>`) [Software]. Zenodo.
+> Budel, G., Kooij, R. E., Tjepkema, M. *Beatles Scientific Wordplay* (version `<vX.Y.Z>`) [Software]. Zenodo.
 > doi:`10.5281/zenodo.<code record>`
 
 **Data** — the result datasets in `data/shared/`, archived separately
 
-> \<authors\>. *Beatles Scientific Wordplay: result datasets* [Data set]. Dryad.
+> Budel, G., Kooij, R. E., Tjepkema, M. *Beatles Scientific Wordplay: result datasets* [Data set]. Dryad.
 > doi:`10.5061/dryad.<data record>`
 
 A machine-readable [`CITATION.cff`](CITATION.cff) accompanies the repository; GitHub
