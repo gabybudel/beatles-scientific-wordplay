@@ -11,13 +11,22 @@ This repository contains the retrieval and wordplay-detection pipeline used to f
 
 ## Overview
 
-The pipeline has three stages, all implemented in `wordplay_pipeline.ipynb`:
+The whole pipeline lives in `wordplay_pipeline.ipynb`. It pulls candidate article
+titles from Scopus in two retrieval passes (1a and 1b), then classifies them (2):
 
-1. **Exact retrieval** — queries the Elsevier Scopus API for titles that match a Beatles song or lyric verbatim (allowing a dropped article, a parenthetical part, or removed periods).
-2. **Approximate retrieval** — relaxed leave-one-out queries (each non-article word dropped in turn) that catch wordplay where one word is omitted or changed.
-3. **Wordplay detection** — GPT-4o-mini (via the OpenAI API) with few-shot prompting classifies each candidate as genuine Beatles wordplay or a coincidental match.
+**1a. Exact retrieval.** Queries the Elsevier Scopus API for titles that match a
+Beatles song or lyric verbatim, allowing for a dropped article, a parenthetical part,
+or removed periods.
 
-`scopus.py` is a standalone command-line alternative for the exact retrieval stage (see *Download the Scopus data* below).
+**1b. Approximate retrieval.** Relaxed leave-one-out queries, with each non-article
+word dropped in turn, to catch wordplay where a single word is changed or missing.
+
+**2. Wordplay detection.** GPT-4o-mini (via the OpenAI API), prompted with a handful
+of annotated examples, labels each candidate as genuine Beatles wordplay or a
+coincidental match.
+
+`scopus.py` is a standalone command-line version of the exact-retrieval pass (see
+*Download the raw Scopus data* below).
 
 **Key numbers from the paper:**
 - 2,306 exact song title / lyric references identified
@@ -57,13 +66,13 @@ The pipeline has three stages, all implemented in `wordplay_pipeline.ipynb`:
 └── .gitignore
 ```
 
-**Reproducing the paper's figures.** Two R scripts, both run from the repository root and
+**Reproducing the paper's figures.** Two R scripts, both run from the repository root,
 both writing PowerPoint figures to `plots/` via `eoffice`:
 
-- `Generate_Plots.R` — the **main figures** (article counts, citations, references per year,
-  Google Scholar vs. Scopus) and the frequency **tables** (written to `output/`), from the
-  retrieved data in `data/`.
-- `Analyze.R` — the **subject-area (discipline) distribution** figure, from the Scopus
+- `Generate_Plots.R` builds the main figures (article counts, citations, references per
+  year, Google Scholar vs. Scopus) and the frequency tables (written to `output/`), from
+  the retrieved data in `data/`.
+- `Analyze.R` builds the subject-area (discipline) distribution figure, from the Scopus
   "Analyze by subject area" exports in `data/subjects/`.
 
 ---
@@ -71,7 +80,7 @@ both writing PowerPoint figures to `plots/` via `eoffice`:
 ## Validation of the wordplay classifier
 
 To validate the GPT-4o-mini classifier, all three authors independently annotated a stratified
-sample of 300 wordplay candidates (150 the model labelled as wordplay, 150 as not), blind to the
+sample of 300 wordplay candidates (150 the model labeled as wordplay, 150 as not), blind to the
 model's predictions and to one another's labels. Taking the majority human label as ground truth:
 
 - **LLM vs. human majority:** precision 0.46, NPV 0.91, recall 0.83, F1 0.59, Cohen's κ 0.37
