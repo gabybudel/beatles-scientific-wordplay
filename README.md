@@ -219,6 +219,35 @@ Songs were matched from their release year onward. Queries are case- and punctua
 
 ---
 
+## Citing this work
+
+The code and the result datasets are archived separately, each with its own DOI. If you
+use either, please cite the paper plus the relevant archive. (DOIs are minted when you
+archive — see the *Archiving* steps below — then dropped in here, replacing the
+`<…>` placeholders.)
+
+**Paper**
+
+> Budel, G., \<author 2\>, \<author 3\>. How science gets by with a little help from the
+> Beatles: Detecting cultural wordplay in scientific literature using large language
+> models. *PLOS ONE* (under review). doi:`<article DOI on publication>`
+
+**Code** — this repository, archived on Zenodo
+
+> \<authors\>. *Beatles Scientific Wordplay* (version `<vX.Y.Z>`) [Software]. Zenodo.
+> doi:`10.5281/zenodo.<code record>`
+
+**Data** — the result datasets in `data/shared/`, archived separately
+
+> \<authors\>. *Beatles Scientific Wordplay: result datasets* [Data set]. Dryad.
+> doi:`10.5061/dryad.<data record>`
+
+A machine-readable [`CITATION.cff`](CITATION.cff) accompanies the repository; GitHub
+turns it into a **Cite this repository** button. Fill in the author names, version, and
+DOIs there too.
+
+---
+
 ## License
 
 Code: [MIT License](LICENSE)
