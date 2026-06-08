@@ -1,6 +1,6 @@
 {
   "title": "Beatles Scientific Wordplay",
-  "description": "Retrieval and wordplay-detection pipeline for finding Beatles song-title and lyric references, including creative wordplay, in academic article titles from Scopus. Accompanies the paper \"How science gets by with a little help from the Beatles: Detecting cultural wordplay in scientific literature using large language models\" (Budel, Kooij & Tjepkema; PLOS ONE, under review).",
+  "description": "Retrieval and wordplay-detection pipeline for finding Beatles song-title and lyric references, including creative wordplay, in academic article titles from Scopus. Accompanies the paper \"How science gets by with a little help from the Beatles: Detecting cultural wordplay in scientific literature using large language models\" (Budel, Kooij & Tjepkema; under review).",
   "upload_type": "software",
   "access_right": "open",
   "license": "MIT",

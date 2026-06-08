@@ -38,6 +38,5 @@ preferred-citation:
       given-names: "Robert E."
     - family-names: Tjepkema
       given-names: Michiel
-  journal: "PLOS ONE"
   year: 2026                       # TODO: update on publication
-  doi: "10.1371/journal.pone.XXXXXXX"   # TODO: article DOI on publication
+  doi: "10.XXXX/XXXXXX"            # TODO: article DOI on publication

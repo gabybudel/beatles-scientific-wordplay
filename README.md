@@ -230,7 +230,7 @@ archive — see the *Archiving* steps below — then dropped in here, replacing 
 
 > Budel, G., Kooij, R. E., Tjepkema, M. How science gets by with a little help from the
 > Beatles: Detecting cultural wordplay in scientific literature using large language
-> models. *PLOS ONE* (under review). doi:`<article DOI on publication>`
+> models. Manuscript under review. doi:`<article DOI on publication>`
 
 **Code** — this repository, archived on Zenodo
 
