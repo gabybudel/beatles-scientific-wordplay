@@ -14,16 +14,11 @@ This repository contains the retrieval and wordplay-detection pipeline used to f
 The whole pipeline lives in `wordplay_pipeline.ipynb`. It pulls candidate article
 titles from Scopus in two retrieval passes (1a and 1b), then classifies them (2):
 
-**1a. Exact retrieval.** Queries the Elsevier Scopus API for titles that match a
-Beatles song or lyric verbatim, allowing for a dropped article, a parenthetical part,
-or removed periods.
-
-**1b. Approximate retrieval.** Relaxed leave-one-out queries, with each non-article
-word dropped in turn, to catch wordplay where a single word is changed or missing.
-
-**2. Wordplay detection.** GPT-4o-mini (via the OpenAI API), prompted with a handful
-of annotated examples, labels each candidate as genuine Beatles wordplay or a
-coincidental match.
+| Stage | What it does |
+|---|---|
+| **1a — Exact retrieval** | Queries the Elsevier Scopus API for titles that match a Beatles song or lyric verbatim, allowing for a dropped article, a parenthetical part, or removed periods. |
+| **1b — Approximate retrieval** | Relaxed leave-one-out queries, with each non-article word dropped in turn, to catch wordplay where a single word is changed or missing. |
+| **2 — Wordplay detection** | GPT-4o-mini (via the OpenAI API), prompted with a handful of annotated examples, labels each candidate as genuine Beatles wordplay or a coincidental match. |
 
 `scopus.py` is a standalone command-line version of the exact-retrieval pass (see
 *Download the raw Scopus data* below).
