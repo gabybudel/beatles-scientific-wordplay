@@ -1,6 +1,5 @@
 # Cite this repository. GitHub reads this file and shows a "Cite this repository" button.
-# TODO before publishing: set version + release date and fill in the two DOIs
-# (code + article) once you have archived the code and the paper is accepted.
+# TODO before publishing: fill in the article DOI and year once the paper is accepted.
 cff-version: 1.2.0
 message: "If you use this software, please cite both the software (this file) and the paper (see preferred-citation)."
 title: "Beatles Scientific Wordplay"
@@ -25,9 +24,9 @@ authors:
     affiliation: "Radboud University Nijmegen, Nijmegen, The Netherlands"
     orcid: "https://orcid.org/0009-0003-6029-2455"
 # --- software release (the Zenodo code archive) -----------------------------
-version: "0.0.0"                   # TODO: set to the released tag, e.g. v1.0.0
-date-released: "2026-01-01"        # TODO: set to the release date (YYYY-MM-DD)
-doi: "10.5281/zenodo.XXXXXXX"      # TODO: code-archive DOI from Zenodo
+version: "v1.0.0"
+date-released: "2026-06-08"
+doi: "10.5281/zenodo.20599390"
 # --- the paper to cite ------------------------------------------------------
 preferred-citation:
   type: article

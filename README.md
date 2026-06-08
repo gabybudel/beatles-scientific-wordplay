@@ -234,8 +234,8 @@ archive — see the *Archiving* steps below — then dropped in here, replacing 
 
 **Code** — this repository, archived on Zenodo
 
-> Budel, G., Kooij, R. E., Tjepkema, M. *Beatles Scientific Wordplay* (version `<vX.Y.Z>`) [Software]. Zenodo.
-> doi:`10.5281/zenodo.<code record>`
+> Budel, G., Kooij, R. E., Tjepkema, M. *Beatles Scientific Wordplay* (version v1.0.0)
+> [Software]. Zenodo. doi:[10.5281/zenodo.20599390](https://doi.org/10.5281/zenodo.20599390)
 
 **Data** — the result datasets in `data/shared/`, archived separately
 
