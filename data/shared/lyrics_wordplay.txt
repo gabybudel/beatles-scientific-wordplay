@@ -1,107 +1,408 @@
 paper_nr	song_name	title	year	cited_by	doi
-0	It's getting better all the time	Insect Sting Allergy: Getting Better All the Time	2025	0	10.1016/j.jaip.2024.09.022
-1	It's getting better all the time	'Getting better all the time': using professional human coach competencies to evaluate the quality of AI coaching agent performance	2025	0	10.1080/17521882.2025.2510643
-2	It's getting better all the time	Machine learning in mental health - getting better all the time	2025	0	10.1038/s44220-024-00383-2
-3	It's getting better all the time	Getting better all the time?	2024	0	10.4324/9781032691534-15
-4	It's getting better all the time	Getting better all the time - recent progress in the development of CRISPR/Cas-based tools for plant genome engineering	2023	21	10.1016/j.copbio.2022.102854
-5	It's getting better all the time	FFRCT: Getting better all the time (but not there yet)	2021	0	10.1002/ccd.29568
-6	It's getting better all the time	Getting Better All the Time: The Importance of Quality Improvement in Perioperative Echocardiography	2021	1	10.1053/j.jvca.2020.09.105
-7	It's getting better all the time	Getting better all the time? Facilitating accurate team self-assessments through simulation	2020	1	10.1136/bmjstel-2018-000411
-8	It's getting better all the time	Getting Better All the Time?	2019	7	10.1080/10481885.2019.1656981
-9	It's getting better all the time	Getting Better All the Time? An Illustrative Investigation of Multilevel Longitudinal Measurement Invariance Based on School Climate Surveys	2019	4	10.1111/emip.12281
-10	It's getting better all the time	Outcomes After Coronary Artery Bypass: Getting Better All the Time	2019	3	10.1016/j.jacc.2019.01.060
-11	It's getting better all the time	Books: Practice Matters: the Early Years of Modern General Practice Within the NHS: Getting Better all the Time	2017	0	10.3399/bjgp17X692897
-12	It's getting better all the time	Insulin analogues in type 1 diabetes mellitus: Getting better all the time	2017	187	10.1038/nrendo.2017.39
-13	It's getting better all the time	Getting better all the time? Selective attrition and compositional changes in longitudinal and life course studies	2017	14	10.14301/llcs.v8i1.350
-14	It's getting better all the time	It's getting bigger all the time: Estimating the Flynn effect from secular brain mass increases in Britain and Germany	2016	8	10.1016/j.lindif.2015.11.004
-15	It's getting better all the time	'A little better all the time (It can't get more worse)'	2015	0	
-16	It's getting better all the time	Getting better all the time	2012	0	
-17	It's getting better all the time	Quality improvement: Getting better all the time	2012	1	10.1097/01.NUMA.0000414859.46632.7c
-18	It's getting better all the time	Renal allograft survival: Getting better all the time	2011	12	10.1111/j.1600-6143.2010.03409.x
-19	It's getting better all the time	Getting better all the time?	2011	0	10.1511/2011.89.156
-20	It's getting better all the time	Getting better all the time	2010	0	
-21	It's getting better all the time	Getting better all the time	2010	0	
-22	It's getting better all the time	Brazil-U.S. relations: Getting better all the time	2010	4	10.4324/9780203850473
-23	It's getting better all the time	Lean Six Sigma - getting better all the time	2010	556	10.1108/20401461011033130
-24	It's getting better all the time	Survival in the sahel: It's getting harder all the time: Climatic extremes, from drought to flood, threaten survival	2010	0	
-25	It's getting better all the time	Getting better all the time: The future of business improvement methodology	2007	1	10.1504/IJSSCA.2007.017174
-26	It's getting better all the time	'Things are getting better all the time'?: Challenging the narrative of women's progress from a generational perspective	2007	44	10.1177/0038038507076615
-27	It's getting better all the time	Getting better all the time': The relationship between Thomas Mann and Oskar Maria Graf	2006	0	10.1179/007871906X108931
-28	It's getting better all the time	Getting better all the time	2006	3	
-29	It's getting better all the time	Getting better all the time	2006	0	10.1097/01.sla.0000217673.04165.ea
-30	It's getting better all the time	Brain evolution: Getting better all the time?	2005	28	10.1016/j.cub.2005.08.007
-31	It's getting better all the time	Getting better all the time	2005	0	
-32	It's getting better all the time	Editorial: The treatment of rheumatoid arthritis: Getting better all the time?	2005	7	10.1002/art.20942
-33	It's getting better all the time	Evidence for neuropsychological effects of PCBs in environmental studies: Getting better all the time	2004	2	10.1002/pits.20011
-34	It's getting better all the time	Distance education exchange: Revisiting distance education's symphonic legacy: Still crazy after all these years or getting better (all the time)	2004	0	10.1080/07377366.2004.10400276
-35	It's getting better all the time	Getting better all the time	2003	0	
-36	It's getting better all the time	Autobiographical memory and conceptions of self: Getting better all the time	2003	152	10.1111/1467-8721.01228
-37	It's getting better all the time	Getting better all the time. Innovations, technological gains in new lift-related medical equipment give caregivers and residents new life.	2003	0	
-38	It's getting better all the time	Ooze you lose, Part 2: Are we really getting better all the time?	2002	4	10.1002/ccd.10369
-39	It's getting better all the time	Getting better all the time.	2001	0	
-40	It's getting better all the time	Echocardiographic evaluation of valvular regurgitation and management strategies: Getting better all the time	2000	0	10.1111/j.1540-8175.2000.tb01137.x
-41	It's getting better all the time	Getting better all the time.	2000	1	
-42	It's getting better all the time	Getting better all the time: Improving preference scores reflect increases in the strength of filial imprinting	2000	26	10.1006/anbe.2000.1413
-43	It's getting better all the time	Russian industry is getting better all the time	1999	0	
-44	It's getting better all the time	Getting better all the time. Systems redefine outcomes and the quest for health care quality.	1998	0	
-45	It's getting better all the time	Getting better all the time	1997	0	
-46	It's getting better all the time	Public health. We're getting better all the time.	1996	0	
-47	It's getting better all the time	Getting better all the time.	1996	0	
-48	It's getting better all the time	COGENERATION MARKET: GETTING BETTER ALL THE TIME.	1985	0	
-49	Something in the way she moves	Commentary: Something in the way they move: Does gait speed predict postoperative events following elective proximal aortic surgery?	2022	0	10.1016/j.jtcvs.2020.04.046
-50	Something in the way she moves	'Something in the way you move': Infants are sensitive to emotions conveyed in action kinematics	2020	15	10.1111/desc.12873
-51	Something in the way she moves	Something in the way it moves and beeps: Exploring minimal nonverbal robot behavior for child-robot interaction	2017	4	10.1145/3029798.3034816
-52	Something in the way she moves	Early goal directed mobility in the ICU: 'Something in the way you move'	2016	4	10.21037/jtd.2016.05.96
-53	Something in the way she moves	Carcinoid Heart Disease: From Pathophysiology to Treatment - 'Something in the Way It Moves'	2015	144	10.1159/000381930
-54	Something in the way she moves	Something in the way people move: The benefit of facial movements in face identification	2015	6	10.3389/fpsyg.2015.01211
-55	Something in the way she moves	Something in the way he moves? Interpersonal judgments of acquaintance rapists	2012	1	10.1111/j.1475-6811.2010.01341.x
-56	Something in the way she moves	Something in the Way She Sings: Enhanced Memory for Vocal Melodies	2012	67	10.1177/0956797612442552
-57	Something in the way she moves	Something in the way we move: Motion dynamics, not perceived sex, influence head movements in conversation	2011	31	10.1037/a0021928
-58	Something in the way she moves	Something in the way you move: dispersal pathways affect invasion success	2009	680	10.1016/j.tree.2008.10.007
-59	Something in the way she moves	Something in the way he moves them	2007	0	
-60	Something in the way she moves	Clinical depression: Something in the way he moves	2007	0	
-61	Something in the way she moves	There's something in the way you move	2004	0	10.1088/2058-7058/17/11/29
-62	Something in the way she moves	Something in the way she walked?	2003	1	
-63	You say you want a revolution	You Say I Want a Revolution	2024	2	10.1093/monist/onad029
-64	You say you want a revolution	You say you want a data revolution? Taking on food systems accountability	2021	23	10.3390/agriculture11050422
-65	You say you want a revolution	You say you want a resolution (of fibrosis)	2020	19	10.1165/rcmb.2020-0182TR
-66	You say you want a revolution	You say you want a [data] revolution: Reflections one year on	2020	1	10.3233/SJI-200722
-67	You say you want a revolution	You say you want a (Rose) Revolution? The effects of Georgia's 2004 market reforms	2019	22	10.1111/ecot.12205
-68	You say you want a revolution	"""You say you want a [data] revolution"""": A proposal to use unofficial statistics for the SDG Global Indicator Framework"""	2019	34	10.3233/SJI-180486
-69	You say you want a revolution	Say you want a revolution: Suggestions for the impossible future of critical pedagogy (Luxembourg)	2017	1	10.4324/9781315092584
-70	You say you want a revolution	You say you want a (Food) revolution	2015	1	10.1016/j.explore.2014.12.010
-71	You say you want a revolution	You Say You Had a Revolution: Methodological Foundations of Closed-Loop Psychology	2009	38	10.1037/a0015106
-72	You say you want a revolution	You say you want a devolution? Lessons from the main street program	2008	3	10.1080/02690940801906668
-73	You say you want a revolution	You say you want a resolution?	2007	0	
-74	You say you want a revolution	Say, you want a revolution?	2006	0	
-75	You say you want a revolution	You say you want a resolution...	1999	0	
-76	You say you want a revolution	Say you want a revolution. suggestions for the impossible future of critical pedagogy	1998	156	10.1111/j.1741-5446.1998.00499.x
-77	Help! I need somebody	Help! AI need somebody	2025	0	
-78	Help! I need somebody	Help! I need a WNT antibody. Help! Not just any antibody	2023	0	10.1016/j.chembiol.2023.07.007
-79	Help! I need somebody	Help! I need some music!: Analysing music discourse & depression on Reddit	2023	5	10.1371/journal.pone.0287975
-80	Help! I need somebody	Help when dads need somebody? Follower reactions to leader work-family conflict	2020	1	10.5465/AMBPP.2020.27
-81	Help! I need somebody	HELLP-I need somebody	2019	0	10.1037/fsh0000418
-82	Help! I need somebody	"""HELLP syndrome: """"I need somebody HELLP, not just anybody..."""""""	2019	0	10.1007/978-3-030-22445-5_24
-83	Help! I need somebody	Help! I Need a Remote Guide in My Mixed Reality Collaborative Environment	2019	22	10.3389/frobt.2019.00106
-84	Help! I need somebody	Help, we need somebody	2013	0	10.1016/j.jchas.2013.06.001
-85	Help! I need somebody	Help, i need some body the effect of embodiment on playful learning	2012	34	10.1109/ROMAN.2012.6343836
-86	Help! I need somebody	Help, we need somebody.	1999	0	10.7748/ns.14.4.69.s54
-87	Help! I need somebody	Help! I need a MEDLINE search!	1998	1	10.1111/j.1552-6356.1998.tb01358.x
-88	Help! I need somebody	Help, I need to be QS-9000 registered: the BASF NPU implementation	1997	0	
-89	Help! I need somebody	Help I need someone: Care management and family carers of people with mental health problems	1995	3	10.1080/09503159508411617
-90	Love is all you need	Love Is Not All You Need: Understanding the Association Between Relationship Status and Relationship Dysfunction With Self-Directed Violence in Veterans	2024	0	10.1080/13811118.2023.2237097
-91	Love is all you need	Is love all you need? the effects of emotional culture, suppression, and work-family conflict on firefighter risk-taking and health	2017	123	10.5465/amj.2014.0952
-92	Love is all you need	Love is not all you need: A revolutionary approach to parental abuse	2014	3	10.1002/anzf.1069
-93	Love is all you need	Although It Helps, Love Is Not All You Need: How Caryl Rusbult Made Me Discover What Relationships Are All About	2010	1	10.1111/j.1475-6811.2010.01264.x
-94	Will you still need me, will you still feed me	Will you still need me, will you still read me...? Patron-driven acquisition books' circulation advantage long-term and post-pilot	2024	3	10.1016/j.acalib.2024.102919
-95	Will you still need me, will you still feed me	Tanizaki's The Key in Translation: Will You Still Need Me, Will You Still Read Me, When I'm (Over) Sixty-Four?	2023	0	
-96	Will you still need me, will you still feed me	The aging workplace - It's not just ergonomics or will you still need me, will you still love me, when I'm 64?	2008	0	
-97	Will you still need me, will you still feed me	Will you still need me, will you still screen me, when I'm past 64?: Breast screening policy is based on ageism	1997	18	10.1136/bmj.315.7115.1032
-98	Living is easy with eyes closed	Is Living Easier with Eyes Closed?	2024	0	10.1017/S1062798723000558
-99	Living is easy with eyes closed	Fieldwork is easy with eyes closed, misunderstanding all you see ... and other reflections: 3ie annual Howard White inaugural lecture	2015	6	10.1080/19439342.2015.1068359
-100	Speaking words of wisdom	Whisper words of wisdom: Asides and appositives in Kaplan's logic of demonstratives	2024	0	10.1111/theo.12545
-101	Speaking words of wisdom	John Launer: Hearing words of wisdom	2022	1	10.1136/bmj.o2570
-102	I read the news today oh boy	I Shared the News Today, oh Boy: News provision and interaction on Facebook	2018	40	10.1080/1461670X.2016.1154797
-103	Look at all the lonely people	Look (closely) at all the lonely people: Age and the social psychology of social support	2007	103	10.1177/0898264307301178
-104	We all live in a yellow submarine	We all live in a virtual submarine	2010	8	10.1109/MCG.2010.20
-105	You say yes, I say no	You Say 'PK' and I Say 'No Way!'; You Say 'Keo' and I Say 'Time to Go!': Pharmacokinetics for TIVA	2019	0	10.1017/9781316659069.004
+0	Love is all you need	Single Word Change Is All You Need: Using LLMs to Create Synthetic Training Examples for Text Classifiers	2025	0	10.1111/exsy.70079
+1	Love is all you need	Redundancy Is All You Need	2025	0	10.1145/3717823.3718212
+2	Love is all you need	Learning on Missing Tabular Data: Attention with Self-Supervision, Not Imputation, Is All You Need	2025	0	10.1145/3729241
+3	Love is all you need	Vanilla Convolutional Neural Network is all you Need for Online and Offline Signature Verification	2025	0	10.61822/amcs-2025-0025
+4	Love is all you need	Don't Do RAG: When Cache-Augmented Generation is All You Need for Knowledge Tasks	2025	0	10.1145/3701716.3715490
+5	Love is all you need	Constraint Is All You Need: Optimization-Based 3D Level Generation with LLMs	2025	0	10.1145/3723498.3723840
+6	Love is all you need	Kriging Is All You Need to Obtain Rock Mechanical Properties From Sparse Spatial Data	2025	0	10.2118/225430-PA
+7	Love is all you need	PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference	2025	2	10.1145/3676641.3716267
+8	Love is all you need	Database is All You Need: Serving LLMs with Relational Queries	2025	0	10.48786/edbt.2025.103
+9	Love is all you need	Improving MPCitH with Preprocessing: Mask Is All You Need	2025	0	10.46586/tches.v2025.i2.1-22
+10	Love is all you need	One point is all you need for weakly supervised object detection	2025	3	10.1016/j.patcog.2024.111087
+11	Love is all you need	Blending is all you need: Data-centric ensemble synthetic data	2025	4	10.1016/j.ins.2024.121610
+12	Love is all you need	Pixel shuffling is all you need: spatially aware convmixer for dense prediction tasks	2025	1	10.1016/j.patcog.2024.111068
+13	Love is all you need	Smooth slip is all you need: A singularity-free boundary element method for fault slip problems	2025	0	10.1016/j.cageo.2024.105820
+14	Love is all you need	A Good Feature Extractor Is All You Need for Weakly Supervised Pathology Slide Classification	2025	0	10.1007/978-3-031-91721-9_5
+15	Love is all you need	Preprocessing is All You Need: Boosting the Performance of Log Parsers with a General Preprocessing Framework	2025	0	10.1109/SANER64311.2025.00036
+16	Love is all you need	Intention Is All You Need to Create Your Own Hollywood Blockbuster MoviesRevolutionizing Filmmaking With Generative AI and Saga	2025	0	10.1109/MC.2025.3534263
+17	Love is all you need	Transferable-Guided Attention Is All You Need for Video Domain Adaptation	2025	0	10.1109/WACV61041.2025.00842
+18	Love is all you need	Context Is All You Need: A Hybrid Attention-Based Method for Detecting Code Design Patterns	2025	1	10.1109/ACCESS.2025.3525849
+19	Love is all you need	Lexicalization Is All You Need: Examining the Impact of Lexical Knowledge in a Compositional QALD System	2025	0	10.1007/978-3-031-77792-9_7
+20	Love is all you need	An iPhone Pro is All You Need: Mimicking Facial Expressions on an Android Robot Head	2025	0	10.1109/HRI61500.2025.10973965
+21	Love is all you need	Beta Sampling is All You Need: Efficient Image Generation Strategy for Diffusion Models Using Stepwise Spectral Analysis	2025	0	10.1109/WACV61041.2025.00414
+22	Love is all you need	Pixel is All You Need: Adversarial Spatio-Temporal Ensemble Active Learning for Salient Object Detection	2025	0	10.1109/TPAMI.2024.3476683
+23	Love is all you need	Camouflage Is All You Need: Evaluating and Enhancing Transformer Models Robustness Against Camouflage Adversarial Attacks	2025	0	10.1109/TETCI.2024.3440181
+24	Love is all you need	Timing is All You Need	2025	1	10.1007/978-3-031-73887-6_18
+25	Love is all you need	Resource Allocation is All You Need: The Routing and Scheduling Problem in 6TiSCH Networks	2025	0	10.1109/WCNC61545.2025.10978203
+26	Love is all you need	Synchronization Is All You Need: Exocentric-to-Egocentric Transfer for Temporal Action Segmentation with Unlabeled Synchronized Video Pairs	2025	2	10.1007/978-3-031-73220-1_15
+27	Love is all you need	Spin coupling is all you need: Encoding strong electron correlation in molecules on quantum computers	2025	0	10.1103/PhysRevResearch.7.013191
+28	Love is all you need	Mixed-Precision is All You Need for Efficient Document Image Classification	2025	0	10.1109/WACVW65960.2025.00142
+29	Love is all you need	Canonical Shape Projection Is All You Need for 3D Few-Shot Class Incremental Learning	2025	0	10.1007/978-3-031-72940-9_3
+30	Love is all you need	CEMSSL: Conditional Embodied Self-Supervised Learning is All You Need for High-precision Multi-solution Inverse Kinematics of Robot Arms	2025	0	10.1109/ICASSP49660.2025.10889209
+31	Love is all you need	A Random Dictator Is All You Need	2025	0	10.1257/mic.20230255
+32	Love is all you need	Experience is all you need: a large language model application of fine-tuned GPT-3.5 and RoBERTa for aspect-based sentiment analysis of college football stadium reviews	2025	3	10.1080/14413523.2024.2386467
+33	Love is all you need	Image Compositing Is all You Need for Data Augmentation	2025	0	10.5220/0013370300003912
+34	Love is all you need	Sparse attention is all you need for pre-training on tabular data	2025	0	10.1007/s00521-024-10698-x
+35	Love is all you need	Location is All You Need: Efficient Lithographic Hotspot Detection Using Only Polygon Locations	2025	0	10.23919/DATE64628.2025.10992827
+36	Love is all you need	Setting Targets is All You Need: Improved Order Competitive Ratio for Online Selection	2024	1	10.1145/3670865.3673487
+37	Love is all you need	Theory Is All You Need: AI, Human Cognition, and Causal Reasoning	2024	13	10.1287/stsc.2024.0189
+38	Love is all you need	Rank is all you need: development and analysis of robust causal networks	2024	0	10.1007/s41109-024-00648-w
+39	Love is all you need	A short trajectory is all you need: A transformer-based model for long-time dissipative quantum dynamics	2024	1	10.1063/5.0232871
+40	Love is all you need	Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework	2024	18	10.1145/3649329.3657356
+41	Love is all you need	Equivariant Transformer is all you need	2024	2	
+42	Love is all you need	Stay Focused is All You Need for Adversarial Robustness	2024	0	10.1145/3664647.3681676
+43	Love is all you need	Span Confusion is All You Need for Chinese Spelling Correction	2024	0	10.1145/3627673.3679996
+44	Love is all you need	M TN is all you need: Production of multiple semi-invisible resonances at hadron colliders	2024	0	10.1142/S021773232450144X
+45	Love is all you need	Erratum: A smile is all you need: predicting limiting activity coefficients from SMILES with natural language processing (Digital Discovery (2022) 1 (859-869) DOI: 10.1039/D2DD00058J)	2024	0	10.1039/d4dd90045f
+46	Love is all you need	For learners: AI agent is all you need	2024	1	
+47	Love is all you need	Attention (to Virtuosity) Is All You Need: Religious Studies Pedagogy and Generative AI	2024	1	10.3390/rel15091059
+48	Love is all you need	Eigen Is All You Need: Efficient Lidar-Inertial Continuous-Time Odometry with Internal Association	2024	6	10.1109/LRA.2024.3391049
+49	Love is all you need	Two Watts is all you need: enabling in-detector real-time machine learning for neutrino telescopes via edge computing	2024	1	10.1088/1475-7516/2024/06/026
+50	Love is all you need	Defending against membership inference attacks: RM Learning is all you need	2024	1	10.1016/j.ins.2024.120636
+51	Love is all you need	Domain Knowledge is All You Need: A Field Deployment of LLM-Powered Test Case Generation in FinTech Domain	2024	3	10.1145/3639478.3643087
+52	Love is all you need	Smart data augmentation: One equation is all you need	2024	2	10.1002/sam.11672
+53	Love is all you need	Bridging the Semantic Latent Space between Brain and Machine: Similarity Is All You Need	2024	3	10.1609/aaai.v38i10.29009
+54	Love is all you need	Confidence Is All You Need for MI Attacks	2024	0	10.1609/aaai.v38i21.30513
+55	Love is all you need	Vector Search with OpenAI Embeddings: Lucene Is All You Need	2024	15	10.1145/3616855.3635691
+56	Love is all you need	Aperiodicity is all you need: Aperiodic monotiles for high-performance composites	2024	15	10.1016/j.mattod.2023.12.015
+57	Love is all you need	Prompting Is All You Need: Automated Android Bug Replay with Large Language Models	2024	51	10.1145/3597503.3608137
+58	Love is all you need	One Style is All You Need to Generate a Video	2024	0	10.1109/WACV57701.2024.00496
+59	Love is all you need	"""XGBoost """"is All You Need"""": the Case of Forecasting Transmitted Heat Energy in District Heating Systems"""	2024	1	10.1007/978-3-031-71419-1_2
+60	Love is all you need	Positive Label Is All You Need for Multi-Label Classification	2024	4	10.1109/ICME57554.2024.10687587
+61	Love is all you need	Multi-Modality is All You Need for Transferable Recommender Systems	2024	8	10.1109/ICDE60146.2024.00380
+62	Love is all you need	A Line Is All You Need: Weak Supervision for 2.5D Cell Segmentation	2024	1	10.1007/978-3-031-66955-2_28
+63	Love is all you need	Dying Clusters Is All You Need - Deep Clustering With an Unknown Number of Clusters	2024	0	10.1109/ICDMW65004.2024.00100
+64	Love is all you need	Cross Entropy in Deep Learning of Classifiers Is Unnecessary-ISBE Error Is All You Need	2024	1	10.3390/e26010065
+65	Love is all you need	Synthetic Is All You Need: Removing the Auxiliary Data Assumption for Membership Inference Attacks Against Synthetic Data	2024	3	10.1007/978-3-031-54204-6_10
+66	Love is all you need	ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing	2024	0	
+67	Love is all you need	Zero Shot is All You Need at SemEval-2024 Task 9: A study of State of the Art LLMs on Lateral Thinking Puzzles	2024	1	
+68	Love is all you need	A SINGLE GRAPH CONVOLUTION IS ALL YOU NEED: EFFICIENT GRAYSCALE IMAGE CLASSIFICATION	2024	0	10.1109/ICIP51287.2024.10647347
+69	Love is all you need	Local Linearity is All You Need (in Data-Driven Teleoperation)	2024	0	10.1109/IROS58592.2024.10802052
+70	Love is all you need	MAXIMUM LIKELIHOOD ESTIMATION IS ALL YOU NEED FOR WELL-SPECIFIED COVARIATE SHIFT	2024	1	
+71	Love is all you need	Ensembling is all you need? Evaluating machine learning models on predicting the energy imbalance of prosumers	2024	1	10.1109/SPIN60856.2024.10511812
+72	Love is all you need	ATTENTION IS ALL YOU NEED FOR BLIND ROOM VOLUME ESTIMATION	2024	4	10.1109/ICASSP48485.2024.10447723
+73	Love is all you need	Quantum Multi-Agent Reinforcement Learning is All You Need: Coordinated Global Access in Integrated TN/NTN Cube-Satellite Networks	2024	8	10.1109/MCOM.010.2400001
+74	Love is all you need	Large GAN Is All You Need	2024	0	10.1007/978-3-031-50069-5_23
+75	Love is all you need	Greed is All You Need: An Evaluation of Tokenizer Inference Methods	2024	2	10.18653/v1/2024.acl-short.72
+76	Love is all you need	SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN	2024	1	
+77	Love is all you need	Context-Aware Cutmix is All You Need for Universal Organ and Cancer Segmentation	2024	0	10.1007/978-3-031-58776-4_3
+78	Love is all you need	Golden Gemini is All You Need: Finding the Sweet Spots for Speaker Verification	2024	10	10.1109/TASLP.2024.3385277
+79	Love is all you need	Rank Is All You Need: Robust Estimation of Complex Causal Networks	2024	0	10.1007/978-3-031-53472-0_39
+80	Love is all you need	Not Everything is All You Need: Toward Low-Redundant Optimization for Large Language Model Alignment	2024	0	10.18653/v1/2024.emnlp-main.857
+81	Love is all you need	Attention to Patterns is all you need for Insider threat detection	2024	0	10.1109/ICAMAC62387.2024.10828982
+82	Love is all you need	Eulerian at BioLaySumm: Preprocessing Over Abstract is All You Need	2024	0	
+83	Love is all you need	Text-Guided Attention is All You Need for Zero-Shot Robustness in Vision-Language Models	2024	0	
+84	Love is all you need	Virtual Compiler Is All You Need For Assembly Code Search	2024	0	10.18653/v1/2024.acl-long.167
+85	Love is all you need	Rethinking Multiple Instance Learning for Whole Slide Image Classification: A Good Instance Classifier Is All You Need	2024	16	10.1109/TCSVT.2024.3400876
+86	Love is all you need	Bounding Box Is All You Need: Learning to Segment Cells in 2D Microscopic Images via Box Annotations	2024	1	10.1007/978-3-031-66955-2_22
+87	Love is all you need	Smoothing Outlier Scores Is All You Need to Improve Outlier Detectors	2024	1	10.1109/TKDE.2023.3332757
+88	Love is all you need	Normalization is All You Need: Robust Full-Range Contactless SpO2 Estimation Across Users	2024	3	10.1109/ICASSP48485.2024.10446435
+89	Love is all you need	PKAD: Pretrained Knowledge is All You Need to Detect and Mitigate Textual Backdoor Attacks	2024	0	10.18653/v1/2024.findings-emnlp.335
+90	Love is all you need	Parameter Averaging Is All You Need To Prevent Forgetting	2024	0	10.1109/SLT61566.2024.10832275
+91	Love is all you need	Proprioception Is All You Need: Terrain Classification for Boreal Forests	2024	0	10.1109/IROS58592.2024.10801407
+92	Love is all you need	ASOS at KSAA-CAD 2024: One Embedding is All You Need for Your Dictionary	2024	2	
+93	Love is all you need	Answer is All You Need: Instruction-following Text Embedding via Answering the Question	2024	1	10.18653/v1/2024.acl-long.27
+94	Love is all you need	Video Instance Segmentation is All You Need for Linking Geographic Entities from Historical Maps	2024	0	10.1109/IGARSS53475.2024.10642447
+95	Love is all you need	Related Work is All you Need	2024	0	
+96	Love is all you need	Attention is all you need: utilizing attention in AI-enabled drug discovery	2024	62	10.1093/bib/bbad467
+97	Love is all you need	Overlapping word removal is all you need: revisiting data imbalance in hope speech detection	2024	3	10.1080/0952813X.2023.2166130
+98	Love is all you need	COCO is 'ALL' You Need for Visual Instruction Fine-tuning	2024	1	10.1109/ICME57554.2024.10687511
+99	Love is all you need	Bounding Weakly Correlated Products from Below: Supermodularity is All You Need	2024	0	10.1109/ISIT57864.2024.10619261
+100	Love is all you need	Cross attention is all you need: relational remote sensing change detection with transformer	2024	12	10.1080/15481603.2024.2380126
+101	Love is all you need	PCNEXT: Convolution is All You Need for Semantic Segmentation for Remote Sensing Images	2024	0	10.1109/IGARSS53475.2024.10641011
+102	Love is all you need	CONFORMER IS ALL YOU NEED FOR VISUAL SPEECH RECOGNITION	2024	16	10.1109/ICASSP48485.2024.10446532
+103	Love is all you need	A Washing Machine is All You Need? on the Feasibility of Machine Data for Self-Supervised Human Activity Recognition	2024	1	10.1109/ABC61795.2024.10651688
+104	Love is all you need	An Efficient and Effective Network Is All You Need	2024	0	10.1109/ICCIT64611.2024.11022584
+105	Love is all you need	Code Search Is All You Need? Improving Code Suggestions with Code Search	2024	8	10.1145/3597503.3639085
+106	Love is all you need	SynthDST: Synthetic Data is All You Need for Few-Shot Dialog State Tracking	2024	2	
+107	Love is all you need	The Root Element of Human Poses is Radian: MCPRL is All You Need	2024	0	10.1109/ICME57554.2024.10687728
+108	Love is all you need	CONFORM: Contrast is All You Need for High-Fidelity Text-to-Image Diffusion Models	2024	4	10.1109/CVPR52733.2024.00860
+109	Love is all you need	Multimodal Attention is all you need	2024	0	
+110	Love is all you need	5G Specifications Formal Verification with Over-the-Air Validation: Prompting is All You Need	2024	0	10.1109/MILCOM61039.2024.10773849
+111	Love is all you need	Motion Is All You Need	2024	0	10.1109/ICMSP64464.2024.10867018
+112	Love is all you need	Positional Knowledge is All You Need: Position-induced Transformer (PiT) for Operator Learning	2024	0	
+113	Love is all you need	CNN-LSTM is all you need for efficient resource allocation in cloud computing	2024	1	10.4028/p-O4CrN9
+114	Love is all you need	Lexicalization Is All You Need: Examining the Impact of Lexical Knowledge in a Compositional QALD System	2024	0	
+115	Love is all you need	chrF-S: Semantics is All You Need	2024	3	
+116	Love is all you need	CACHE Challenge #1: Docking with GNINA Is All You Need	2024	2	10.1021/acs.jcim.4c01429
+117	Love is all you need	One Masked Model is All You Need for Sensor Fault Detection, Isolation and Accommodation	2024	0	10.1109/IJCNN60899.2024.10649953
+118	Love is all you need	Machine Learning is All You Need: A Simple Token-Based Approach for Effective Code Clone Detection	2024	7	10.1145/3597503.3639114
+119	Love is all you need	CLICKING IS ALL YOU NEED: IMPLEMENTING WAVE FUNCTION COLLAPSE IN EARLY-STAGE DESIGN FOR MANUFACTURING AND ASSEMBLY PROJECTS	2024	0	10.52842/conf.caadria.2022.1.303
+120	Love is all you need	MambaTree: Tree Topology is All You Need in State Space Model	2024	0	
+121	Love is all you need	More Agents Is All You Need	2024	0	
+122	Love is all you need	A Single-Step, Sharpness-Aware Minimization is All You Need to Achieve Efficient and Accurate Sparse Training	2024	1	
+123	Love is all you need	Accelerating Look-ahead in Bayesian Optimization: Multilevel Monte Carlo is All You Need	2024	0	
+124	Love is all you need	OCR is All you need: Importing Multi-Modality into Image-based Defect Classification System	2024	0	10.1109/APCCAS62602.2024.10808400
+125	Love is all you need	Distraction is All You Need: Memory-Efficient Image Immunization against Diffusion-Based Image Editing	2024	3	10.1109/CVPR52733.2024.02309
+126	Love is all you need	Low-Cost Real-Time Fire Detection in Smart Cities: Logistic Regression Is All You Need	2024	0	10.1109/MSCC62288.2024.10697062
+127	Love is all you need	One Model is All You Need: ByT5-Sanskrit, a Unified Model for Sanskrit NLP Tasks	2024	1	10.18653/v1/2024.findings-emnlp.805
+128	Love is all you need	Automated Bias and Indoctrination at Scale... Is All You Need	2024	0	10.1007/978-3-031-50381-8_10
+129	Love is all you need	Love Is Not All You Need: Understanding the Association Between Relationship Status and Relationship Dysfunction With Self-Directed Violence in Veterans	2024	0	10.1080/13811118.2023.2237097
+130	Love is all you need	One label is all you need: Interpretable AI-enhanced histopathology for oncology	2023	12	10.1016/j.semcancer.2023.09.006
+131	Love is all you need	Attention is all you need: An interpretable transformer-based asset allocation approach	2023	22	10.1016/j.irfa.2023.102876
+132	Love is all you need	Propagation is All You Need: A New Framework for Representation Learning and Classifier Training on Graphs	2023	4	10.1145/3581783.3612196
+133	Love is all you need	Parsing is All You Need for Accurate Gait Recognition in the Wild	2023	16	10.1145/3581783.3612052
+134	Love is all you need	MLPST: MLP is All You Need for Spatio-Temporal Prediction	2023	20	10.1145/3583780.3614969
+135	Love is all you need	Retention Is All You Need	2023	16	10.1145/3583780.3615497
+136	Love is all you need	Decomposition Is All You Need: Single-Objective to Multi-Objective Optimization towards Artificial General Intelligence	2023	2	10.3390/math11204390
+137	Love is all you need	Text Is All You Need: Learning Language Representations for Sequential Recommendation	2023	84	10.1145/3580305.3599519
+138	Love is all you need	Randomization is all you need: A privacy-preserving federated learning framework for news recommendation	2023	11	10.1016/j.ins.2023.118943
+139	Love is all you need	MIMO Is All You Need: A Strong Multi-in-Multi-Out Baseline for Video Prediction	2023	25	10.1609/aaai.v37i2.25289
+140	Love is all you need	Pixel Is All You Need: Adversarial Trajectory-Ensemble Active Learning for Salient Object Detection	2023	8	10.1609/aaai.v37i3.25390
+141	Love is all you need	Store and Fetch Immediately: Everything Is All You Need for Space-Time Video Super-resolution	2023	12	10.1609/aaai.v37i1.25165
+142	Love is all you need	Effective control of two-dimensional Rayleigh-Benard convection: Invariant multi-agent reinforcement learning is all you need	2023	32	10.1063/5.0153181
+143	Love is all you need	Feedback is all you need: from ChatGPT to autonomous driving	2023	26	10.1007/s11432-023-3740-x
+144	Love is all you need	Probe microscopy is all you need	2023	14	10.1088/2632-2153/acccd5
+145	Love is all you need	Erratum: A smile is all you need: predicting limiting activity coefficients from SMILES with natural language processing (Digital Discovery (2022) DOI: 10.1039/d2dd00058j)	2023	0	10.1039/d2dd90027k
+146	Love is all you need	Late Breaking Results: Weight Decay is ALL You Need for Neural Network Sparsification	2023	1	10.1109/DAC56929.2023.10247950
+147	Love is all you need	Pretraining is All You Need: A Multi-Atlas Enhanced Transformer Framework for Autism Spectrum Disorder Classification	2023	14	10.1007/978-3-031-44858-4_12
+148	Love is all you need	WordNet Is All You Need: A Surprisingly Effective Unsupervised Method for Graded Lexical Entailment	2023	1	10.18653/v1/2023.findings-emnlp.615
+149	Love is all you need	Tibetan Punctuation is All You Need in Pretrained Language Model	2023	1	10.1109/IMSE61332.2023.00041
+150	Love is all you need	Text is all You Need: Personalizing ASR Models Using Controllable Speech Synthesis	2023	6	10.1109/ICASSP49357.2023.10096971
+151	Love is all you need	One Wide Feedforward is All You Need	2023	1	
+152	Love is all you need	Towards Realistic Long-Tailed Semi-Supervised Learning: Consistency is All You Need	2023	36	10.1109/CVPR52729.2023.00338
+153	Love is all you need	Imagination is All You Need! Curved Contrastive Learning for Abstract Sequence Modeling Utilized on Long Short-Term Dialogue Planning	2023	1	10.18653/v1/2023.findings-acl.319
+154	Love is all you need	Label Poisoning is All You Need	2023	17	
+155	Love is all you need	Speed Is All You Need: On-Device Acceleration of Large Diffusion Models via GPU-Aware Optimizations	2023	29	10.1109/CVPRW59228.2023.00490
+156	Love is all you need	Optimizing Apache Kafka Deployments - Configuration customization is all you need	2023	1	10.1109/ICCCNT56998.2023.10307242
+157	Love is all you need	Efficient Reference-based Video Super-Resolution (ERVSR): Single Reference Image Is All You Need	2023	7	10.1109/WACV56688.2023.00187
+158	Love is all you need	Seq2seq is All You Need for Coreference Resolution	2023	10	10.18653/v1/2023.emnlp-main.704
+159	Love is all you need	Attention in a Little Network is All You Need to Go Green	2023	1	10.1109/ISBI53787.2023.10230379
+160	Love is all you need	A Grasp Pose is All You Need: Learning Multi-Fingered Grasping with Deep Reinforcement Learning from Vision and Touch	2023	3	10.1109/IROS55552.2023.10341776
+161	Love is all you need	Personalized NLP: Context is All you Need	2023	0	
+162	Love is all you need	Extending nnU-Net Is All You Need	2023	21	10.1007/978-3-658-41657-7_7
+163	Love is all you need	PointNorm: Dual Normalization is All You Need for Point Cloud Analysis	2023	8	10.1109/IJCNN54540.2023.10191312
+164	Love is all you need	Simplicity Is All You Need: Out-of-the-Box nnUNet Followed by Binary-Weighted Radiomic Model for Segmentation and Outcome Prediction in Head and Neck PET/CT	2023	13	10.1007/978-3-031-27420-6_13
+165	Love is all you need	Improving Segmentation of Breast Arterial Calcifications from Digital Mammography: Good Annotation is All You Need	2023	3	10.1007/978-3-031-27066-6_10
+166	Love is all you need	Momentum is All You Need for Data-Driven Adaptive Optimization	2023	3	10.1109/ICDM58522.2023.00179
+167	Love is all you need	Depth Is All You Need for Monocular 3D Detection	2023	5	10.1109/ICRA48891.2023.10160483
+168	Love is all you need	Binary is All You Need: Ultra-Efficient Arrhythmia Detection with a Binary-Only Compressive System	2023	2	10.1109/AICAS57966.2023.10168576
+169	Love is all you need	Self-Supervision is All You Need for Solving Rubik's Cube	2023	0	
+170	Love is all you need	The NHS at 75: Love, and political consensus, is all you need	2023	1	10.1136/bmj.p1479
+171	Love is all you need	Characterizing and Verifying Scientific Claims: Qualitative Causal Structure is All You Need	2023	2	10.18653/v1/2023.emnlp-main.828
+172	Love is all you need	Consonant is all you need: a compact representation of English text for efficient NLP	2023	1	10.18653/v1/2023.findings-emnlp.775
+173	Love is all you need	COPY IS ALL YOU NEED	2023	17	
+174	Love is all you need	Equity-premium prediction: Attention is all you need	2023	10	10.1002/jae.2939
+175	Love is all you need	Dynamic Neural Network is All You Need: Understanding the Robustness of Dynamic Mechanisms in Neural Networks	2023	5	10.1109/ICCVW60793.2023.00163
+176	Love is all you need	Previous Opinions is All You Need-Legal Information Retrieval System	2023	1	10.1007/978-3-031-41774-0_5
+177	Love is all you need	Simple Methods is All You Need for Medical VQA: An ImageCLEF's Med-VQA Task Methods Review	2023	0	
+178	Love is all you need	Automation of Fast Configuration Error Diagnosis in Optical Transport Networks - Natural Language Processing is All You Need	2023	5	10.23919/OFC49934.2023.10117375
+179	Love is all you need	A Little Bit Attention Is All You Need for Person Re-Identification	2023	3	10.1109/ICRA48891.2023.10160304
+180	Love is all you need	One model is all you need: Multi-task learning enables simultaneous histology image segmentation and classification	2023	75	10.1016/j.media.2022.102685
+181	Love is all you need	PDP: Parameter-free Differentiable Pruning is All You Need	2023	3	
+182	Love is all you need	Lidar Annotation Is All You Need	2023	1	10.1109/ACCESS.2023.3337995
+183	Love is all you need	Neural Network Quantization is All You Need for Energy Efficient ISP	2023	0	10.1109/EDTM55494.2023.10103005
+184	Love is all you need	GMML is All You Need	2023	3	10.1109/ICIP49359.2023.10222150
+185	Love is all you need	YUSEG:Yolo and Unet is all you need for cell instance segmentation	2023	1	
+186	Love is all you need	Rotation is All You Need: Cross Dimensional Residual Interaction for Hyperspectral Image Classification	2023	9	10.1109/JSTARS.2023.3283342
+187	Love is all you need	Self-Similarity is all You Need for Fast and Light-Weight Generic Event Boundary Detection	2023	1	10.1109/ICASSP49357.2023.10096176
+188	Love is all you need	Polarity Is All You Need to Learn and Transfer Faster	2023	0	
+189	Love is all you need	Contrast Is All You Need	2023	0	
+190	Love is all you need	Contrastive Loss is All You Need to Recover Analogies as Parallel Lines	2023	0	
+191	Love is all you need	Temporal Interpolation is all You Need for Dynamic Neural Radiance Fields	2023	35	10.1109/CVPR52729.2023.00410
+192	Love is all you need	A ResNet is All You Need? Modeling A Strong Baseline for Detecting Referable Diabetic Retinopathy in Fundus Images	2023	2	10.1117/12.2669816
+193	Love is all you need	H2RBOX: HORIZONTAL BOX ANNOTATION IS ALL YOU NEED FOR ORIENTED OBJECT DETECTION	2023	22	
+194	Love is all you need	One-bit Flip is All You Need: When Bit-flip Attack Meets Model Training	2023	12	10.1109/ICCV51070.2023.00432
+195	Love is all you need	Preference Adaptation: user satisfaction is all you need!	2023	9	10.1109/SEAMS59076.2023.00027
+196	Love is all you need	PINK NOISE IS ALL YOU NEED: COLORED NOISE EXPLORATION IN DEEP REINFORCEMENT LEARNING	2023	17	
+197	Love is all you need	Metric-KNN is All You Need	2022	3	10.1145/3550082.3564198
+198	Love is all you need	 is all you need: Revisiting SVD in caputuring changes in matrices	2022	0	10.1145/3579654.3579773
+199	Love is all you need	Scalability and robustness of spectral embedding: landmark diffusion is all you need	2022	9	10.1093/imaiai/iaac013
+200	Love is all you need	A smile is all you need: predicting limiting activity coefficients from SMILES with natural language processing	2022	47	10.1039/d2dd00058j
+201	Love is all you need	Pose is all you need: the pose only group activity recognition system (POGARS)	2022	18	10.1007/s00138-022-01346-2
+202	Love is all you need	Sampling Is All You Need on Modeling Long-Term User Behaviors for CTR Prediction	2022	28	10.1145/3511808.3557082
+203	Love is all you need	One Clinician Is All You Need-Cardiac Magnetic Resonance Imaging Measurement Extraction: Deep Learning Algorithm Development	2022	8	10.2196/38178
+204	Love is all you need	Scanning reproducible brain-wide associations: Sample size is all you need?	2022	6	10.1093/psyrad/kkac010
+205	Love is all you need	Open-domain conversational search assistants: the Transformer is all you need	2022	5	10.1007/s10791-022-09403-0
+206	Love is all you need	Filter-enhanced MLP is All You Need for Sequential Recommendation	2022	245	10.1145/3485447.3512111
+207	Love is all you need	Lipschitzness is all you need to tame off-policy generative adversarial imitation learning	2022	12	10.1007/s10994-022-06144-5
+208	Love is all you need	Categorical representation learning: morphism is all you need	2022	5	10.1088/2632-2153/ac2c5d
+209	Love is all you need	Realizable Learning is All You Need	2022	12	
+210	Love is all you need	Multihead Causal Distilling Weighting Is All You Need for Uplift Modeling	2022	1	10.1109/HDIS56859.2022.9991731
+211	Love is all you need	TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization	2022	136	10.1109/CVPR52688.2022.00123
+212	Love is all you need	A for-loop is all you need. for solving the inverse problem in the case of personalized tumor growth modeling	2022	0	
+213	Love is all you need	Neural Vocoder is All You Need for Speech Super-resolution	2022	34	10.21437/Interspeech.2022-11017
+214	Love is all you need	A Faithful DoG is All you Need	2022	6	10.1109/ICCIT57492.2022.10055134
+215	Love is all you need	DEPTH IS ALL YOU NEED: SINGLE-STAGE WEAKLY SUPERVISED SEMANTIC SEGMENTATION FROM IMAGE-LEVEL SUPERVISION	2022	5	10.1109/ICIP46576.2022.9897161
+216	Love is all you need	One Voice is All You Need: A One-Shot Approach to Recognize Your Voice	2022	1	10.1109/CDMA54072.2022.00022
+217	Love is all you need	Rethinking Few-Shot Remote Sensing Scene Classification: A Good Embedding Is All You Need?	2022	10	10.1109/LGRS.2022.3198841
+218	Love is all you need	SPHEREFACE2: BINARY CLASSIFICATION IS ALL YOU NEED FOR DEEP FACE RECOGNITION	2022	18	
+219	Love is all you need	Attention Is All You Need to Tell: Transformer-Based Image Captioning	2022	3	10.1007/978-981-19-1018-0_52
+220	Love is all you need	Original Content Is All You Need! An Empirical Study on Leveraging Answer Summary for WikiHowQA Answer Selection Task	2022	0	
+221	Love is all you need	Wheel Speed Is All You Need: How to Efficiently Detect Automotive Damper Defects Using Frequency Analysis	2022	0	10.1109/IV51971.2022.9827269
+222	Love is all you need	A Third is All You Need: Extended Partial Key Exposure Attack on CRT-RSA with Additive Exponent Blinding	2022	3	10.1007/978-3-031-22972-5_18
+223	Love is all you need	A BF16 FMA is All You Need for DNN Training	2022	12	10.1109/TETC.2022.3187770
+224	Love is all you need	Volume is All You Need: Improving Multi-task Multiple Instance Learning for WMH Segmentation and Severity Estimation	2022	1	10.1007/978-3-031-17899-3_3
+225	Love is all you need	Paraphrasing Is All You Need for Novel Object Captioning	2022	3	
+226	Love is all you need	A CONFIGURABLE MULTILINGUAL MODEL IS ALL YOU NEED TO RECOGNIZE ALL LANGUAGES	2022	25	10.1109/ICASSP43922.2022.9747905
+227	Love is all you need	Local Control is All You Need: Decentralizing and Coordinating Reinforcement Learning for Large-Scale Process Control	2022	2	10.23919/SICE56594.2022.9905798
+228	Love is all you need	Long-Short History of Gradients Is All You Need: Detecting Malicious and Unreliable Clients in Federated Learning	2022	17	10.1007/978-3-031-17143-7_22
+229	Love is all you need	Universal Online Learning with Unbounded Losses: Memory Is All You Need	2022	6	
+230	Love is all you need	ITOWAVE: ITO STOCHASTIC DIFFERENTIAL EQUATION IS ALL YOU NEED FOR WAVE GENERATION	2022	8	10.1109/ICASSP43922.2022.9746153
+231	Love is all you need	OPEN-SET RECOGNITION: A GOOD CLOSED-SET CLASSIFIER IS ALL YOU NEED?	2022	197	
+232	Love is all you need	Attentional Transfer is All You Need: Technology-aware Layout Pattern Generation	2021	7	10.1109/DAC18074.2021.9586227
+233	Love is all you need	Video is all you need: Attacking PPG-based Biometric Authentication	2021	11	10.1145/3560830.3563722
+234	Love is all you need	"""Yes, """"attention Is All You Need"""", for Exemplar based Colorization"""	2021	30	10.1145/3474085.3475385
+235	Love is all you need	Mask is All You Need: Rethinking Mask R-CNN for Dense and Arbitrary-Shaped Scene Text Detection	2021	36	10.1145/3474085.3475178
+236	Love is all you need	Clinically relevant pretraining is all you need	2021	9	10.1093/jamia/ocab086
+237	Love is all you need	A Microcontroller is All You Need: Enabling Transformer Execution on Low-Power IoT Endnodes	2021	24	10.1109/COINS51742.2021.9524173
+238	Love is all you need	Value Function is All You Need: A Unified Learning Framework for Ride Hailing Platforms	2021	46	10.1145/3447548.3467096
+239	Love is all you need	Taming the Interaction Jungle: Embodiment is All You Need	2021	0	10.1145/3469595.3469612
+240	Love is all you need	Answer Complex Questions: Path Ranker Is All You Need	2021	10	10.1145/3404835.3462942
+241	Love is all you need	YoungSheldon at SemEval-2021 Task 7: Fine-tuning Is All You Need	2021	3	
+242	Love is all you need	ReZero is All You Need: Fast Convergence at Large Depth	2021	94	
+243	Love is all you need	Transformer-based Long-Term Viewport Prediction in 360 deg Video: Scanpath is All You Need	2021	39	10.1109/MMSP53017.2021.9733647
+244	Love is all you need	Node proximity is all you need: Unified structural and positional node and graph embedding	2021	16	
+245	Love is all you need	Hyperparameter Tuning is All You Need for LISTA	2021	20	
+246	Love is all you need	Degree-based Feature Is All You Need: Science4Cast Report	2021	0	10.1109/BigData52589.2021.9671530
+247	Love is all you need	Trust Is All You Need: From Belief Revision to Information Revision	2021	5	10.1007/978-3-030-75775-5_5
+248	Love is all you need	Bandwidth extension is all you need	2021	44	10.1109/ICASSP39728.2021.9413575
+249	Love is all you need	Cross-Attention is All You Need: Adapting Pretrained Transformers for Machine Translation	2021	48	10.18653/v1/2021.emnlp-main.132
+250	Love is all you need	ReZero is All You Need: Fast Convergence at Large Depth	2021	41	
+251	Love is all you need	Language model is all you need: Natural language understanding as Question answering	2021	29	10.1109/ICASSP39728.2021.9413810
+252	Love is all you need	HOPFIELD NETWORKS IS ALL YOU NEED	2021	78	
+253	Love is all you need	Alignment is all you need: Analyzing cross-lingual text similarity for domain-specific applications	2021	1	
+254	Love is all you need	A Transcription Is All You Need: Learning to Align Through Attention	2021	2	10.1007/978-3-030-86198-8_11
+255	Love is all you need	GAN vocoder: Multi-resolution discriminator is all you need	2021	7	10.21437/Interspeech.2021-41
+256	Love is all you need	IMAGE AUGMENTATION IS ALL YOU NEED: REGULARIZING DEEP REINFORCEMENT LEARNING FROM PIXELS	2021	255	
+257	Love is all you need	Attention is all you need in speech separation	2021	577	10.1109/ICASSP39728.2021.9413901
+258	Love is all you need	Re-Attention Is All You Need: Memory-Efficient Scene Text Detection via Re-Attention on Uncertain Regions	2021	5	10.1109/IROS51168.2021.9636510
+259	Love is all you need	Transcription is all you need: Learning to separate musical mixtures with score as supervision	2021	4	10.1109/ICASSP39728.2021.9413358
+260	Love is all you need	Few-shot segmentation without meta-learning: A good transductive inference is all you need?	2021	165	10.1109/CVPR46437.2021.01376
+261	Love is all you need	Against Membership Inference Attack: Pruning is All You Need	2021	25	10.24963/ijcai.2021/432
+262	Love is all you need	Crowd-Powered Hybrid Classification Services: Calibration is all you need	2021	3	10.1109/ICWS53863.2021.00019
+263	Love is all you need	Stanford MLab at SemEval-2021 Task 8: 48 Hours Is All You Need	2021	3	
+264	Love is all you need	A Lip Sync Expert Is All You Need for Speech to Lip Generation in the Wild	2020	579	10.1145/3394171.3413532
+265	Love is all you need	Adaptive Pooling Is All You Need: An Empirical Study on Hyperparameter-insensitive Human Action Recognition Using Wearable Sensors	2020	6	10.1109/IJCNN48605.2020.9207082
+266	Love is all you need	Ultrasonographic diagnosis of pancreatic diseases: this is all you need	2020	1	10.1007/s10396-020-01035-5
+267	Love is all you need	Ultrasonographic diagnosis of pancreatic diseases: this is all you need	2020	1	10.1007/s10396-020-01034-6
+268	Love is all you need	ASR is All You Need: Cross-Modal Distillation for Lip Reading	2020	120	10.1109/ICASSP40776.2020.9054253
+269	Love is all you need	Empathy Is All You Need: How a Conversational Agent Should Respond to Verbal Abuse	2020	73	10.1145/3313831.3376461
+270	Love is all you need	Proving the Lottery Ticket Hypothesis: Pruning is All You Need	2020	18	
+271	Love is all you need	A Robust Univariate Mean Estimator is All You Need	2020	16	
+272	Love is all you need	Rethinking Few-Shot Image Classification: A Good Embedding is All You Need?	2020	591	10.1007/978-3-030-58568-6_16
+273	Love is all you need	Channel attention is all you need for video frame interpolation	2020	279	
+274	Love is all you need	Logarithmic pruning is all you need	2020	63	
+275	Love is all you need	15 Keypoints Is All You Need	2020	43	10.1109/CVPR42600.2020.00677
+276	Love is all you need	3D Noise and Adversarial Supervision Is All You Need for Multi-modal Semantic Image Synthesis	2020	0	10.1007/978-3-030-65414-6_39
+277	Love is all you need	Attention is all you need for Chinese word segmentation	2020	18	10.18653/v1/2020.emnlp-main.317
+278	Love is all you need	Automatic Charge Identification from Facts: A Few Sentence-Level Charge Annotations is All You Need	2020	16	
+279	Love is all you need	Personalized page rank on knowledge graphs: Particle Filtering is all you need!	2020	3	10.5441/002/edbt.2020.54
+280	Love is all you need	One spark is all you need: Germain gets the hamilton treatment	2019	0	10.1090/noti1930
+281	Love is all you need	Whatever it takes is all you need: Monetary policy and debt fragility	2019	7	10.1257/mac.20170167
+282	Love is all you need	One spark is all you need: Germain gets the hamilton treatment	2019	0	10.1090/noti1930
+283	Love is all you need	Focus is all you need: Loss functions for event-based vision	2019	113	10.1109/CVPR.2019.01256
+284	Love is all you need	Gans-based clothes design: pattern maker is all you need to design clothing	2019	27	10.1145/3311823.3311863
+285	Love is all you need	One is all you need: intrahemispheric processing benefits nonverbal visual recognition	2019	1	10.1080/1357650X.2018.1500582
+286	Love is all you need	Diversity is all you need: Learning skills without a reward function	2019	304	
+287	Love is all you need	Measuring absolute poverty: Shame is all you need	2019	4	10.46692/9781447341291.005
+288	Love is all you need	Depthwise convolution is all you need for learning multiple visual domains	2019	138	10.1609/aaai.v33i01.33018368
+289	Love is all you need	Sex: The End Is All You Need	2018	1	10.1016/j.cub.2018.04.013
+290	Love is all you need	Cross-lingual argumentation mining: Machine translation (and a bit of projection) is all you need!	2018	41	
+291	Love is all you need	Attention is all you need	2017	89737	
+292	Love is all you need	Is love all you need? the effects of emotional culture, suppression, and work-family conflict on firefighter risk-taking and health	2017	123	10.5465/amj.2014.0952
+293	Love is all you need	Anti-Muellerian hormone is all you need: An assisted reproductive technology perspective in diagnosing polycystic ovary syndrome	2016	1	10.2217/whe-2016-0005
+294	Love is all you need	Harm is all you need? Best interests and disputes about parental decision-making	2016	63	10.1136/medethics-2015-102893
+295	Love is all you need	Knowledge is all you need	2015	13	10.1111/phis.12060
+296	Love is all you need	When virtual contact is all you need: Subtle reminders of Facebook preempt social-contact restoration after exclusion	2015	27	10.1002/ejsp.2035
+297	Love is all you need	A low-cost forward and reverse blood typing device - A blood sample is all you need to perform an assay	2015	17	10.1039/c4ay02739f
+298	Love is all you need	One lesson is all you need? Stability of instructional quality across lessons	2014	209	10.1016/j.learninstruc.2013.12.002
+299	Love is all you need	Love is not all you need: A revolutionary approach to parental abuse	2014	3	10.1002/anzf.1069
+300	Love is all you need	A little flexibility is all you need: On the asymptotic value of flexible capacity in parallel queuing systems	2012	49	10.1287/opre.1120.1107
+301	Love is all you need	Monitoring and maintaining MWFs A well-planned and structured program is all you need to keep them in good condition	2011	1	
+302	Love is all you need	Although It Helps, Love Is Not All You Need: How Caryl Rusbult Made Me Discover What Relationships Are All About	2010	1	10.1111/j.1475-6811.2010.01264.x
+303	Love is all you need	Three steps is all you need: Fast, accurate, automatic scaling decisions for distributed streaming dataflows	2007	90	
+304	Love is all you need	RNA is all you need	2001	7	10.1038/87527
+305	It's getting better all the time	Insect Sting Allergy: Getting Better All the Time	2025	0	10.1016/j.jaip.2024.09.022
+306	It's getting better all the time	'Getting better all the time': using professional human coach competencies to evaluate the quality of AI coaching agent performance	2025	0	10.1080/17521882.2025.2510643
+307	It's getting better all the time	Machine learning in mental health - getting better all the time	2025	0	10.1038/s44220-024-00383-2
+308	It's getting better all the time	Getting better all the time?	2024	0	10.4324/9781032691534-15
+309	It's getting better all the time	Getting better all the time - recent progress in the development of CRISPR/Cas-based tools for plant genome engineering	2023	21	10.1016/j.copbio.2022.102854
+310	It's getting better all the time	FFRCT: Getting better all the time (but not there yet)	2021	0	10.1002/ccd.29568
+311	It's getting better all the time	Getting Better All the Time: The Importance of Quality Improvement in Perioperative Echocardiography	2021	1	10.1053/j.jvca.2020.09.105
+312	It's getting better all the time	Getting better all the time? Facilitating accurate team self-assessments through simulation	2020	1	10.1136/bmjstel-2018-000411
+313	It's getting better all the time	Getting Better All the Time?	2019	7	10.1080/10481885.2019.1656981
+314	It's getting better all the time	Getting Better All the Time? An Illustrative Investigation of Multilevel Longitudinal Measurement Invariance Based on School Climate Surveys	2019	4	10.1111/emip.12281
+315	It's getting better all the time	Outcomes After Coronary Artery Bypass: Getting Better All the Time	2019	3	10.1016/j.jacc.2019.01.060
+316	It's getting better all the time	Books: Practice Matters: the Early Years of Modern General Practice Within the NHS: Getting Better all the Time	2017	0	10.3399/bjgp17X692897
+317	It's getting better all the time	Insulin analogues in type 1 diabetes mellitus: Getting better all the time	2017	187	10.1038/nrendo.2017.39
+318	It's getting better all the time	Getting better all the time? Selective attrition and compositional changes in longitudinal and life course studies	2017	14	10.14301/llcs.v8i1.350
+319	It's getting better all the time	It's getting bigger all the time: Estimating the Flynn effect from secular brain mass increases in Britain and Germany	2016	8	10.1016/j.lindif.2015.11.004
+320	It's getting better all the time	'A little better all the time (It can't get more worse)'	2015	0	
+321	It's getting better all the time	Getting better all the time	2012	0	
+322	It's getting better all the time	Quality improvement: Getting better all the time	2012	1	10.1097/01.NUMA.0000414859.46632.7c
+323	It's getting better all the time	Renal allograft survival: Getting better all the time	2011	12	10.1111/j.1600-6143.2010.03409.x
+324	It's getting better all the time	Getting better all the time?	2011	0	10.1511/2011.89.156
+325	It's getting better all the time	Getting better all the time	2010	0	
+326	It's getting better all the time	Getting better all the time	2010	0	
+327	It's getting better all the time	Brazil-U.S. relations: Getting better all the time	2010	4	10.4324/9780203850473
+328	It's getting better all the time	Lean Six Sigma - getting better all the time	2010	556	10.1108/20401461011033130
+329	It's getting better all the time	Survival in the sahel: It's getting harder all the time: Climatic extremes, from drought to flood, threaten survival	2010	0	
+330	It's getting better all the time	Getting better all the time: The future of business improvement methodology	2007	1	10.1504/IJSSCA.2007.017174
+331	It's getting better all the time	'Things are getting better all the time'?: Challenging the narrative of women's progress from a generational perspective	2007	44	10.1177/0038038507076615
+332	It's getting better all the time	Getting better all the time': The relationship between Thomas Mann and Oskar Maria Graf	2006	0	10.1179/007871906X108931
+333	It's getting better all the time	Getting better all the time	2006	3	
+334	It's getting better all the time	Getting better all the time	2006	0	10.1097/01.sla.0000217673.04165.ea
+335	It's getting better all the time	Brain evolution: Getting better all the time?	2005	28	10.1016/j.cub.2005.08.007
+336	It's getting better all the time	Getting better all the time	2005	0	
+337	It's getting better all the time	Editorial: The treatment of rheumatoid arthritis: Getting better all the time?	2005	7	10.1002/art.20942
+338	It's getting better all the time	Evidence for neuropsychological effects of PCBs in environmental studies: Getting better all the time	2004	2	10.1002/pits.20011
+339	It's getting better all the time	Distance education exchange: Revisiting distance education's symphonic legacy: Still crazy after all these years or getting better (all the time)	2004	0	10.1080/07377366.2004.10400276
+340	It's getting better all the time	Getting better all the time	2003	0	
+341	It's getting better all the time	Autobiographical memory and conceptions of self: Getting better all the time	2003	152	10.1111/1467-8721.01228
+342	It's getting better all the time	Getting better all the time. Innovations, technological gains in new lift-related medical equipment give caregivers and residents new life.	2003	0	
+343	It's getting better all the time	Ooze you lose, Part 2: Are we really getting better all the time?	2002	4	10.1002/ccd.10369
+344	It's getting better all the time	Getting better all the time.	2001	0	
+345	It's getting better all the time	Echocardiographic evaluation of valvular regurgitation and management strategies: Getting better all the time	2000	0	10.1111/j.1540-8175.2000.tb01137.x
+346	It's getting better all the time	Getting better all the time.	2000	1	
+347	It's getting better all the time	Getting better all the time: Improving preference scores reflect increases in the strength of filial imprinting	2000	26	10.1006/anbe.2000.1413
+348	It's getting better all the time	Russian industry is getting better all the time	1999	0	
+349	It's getting better all the time	Getting better all the time. Systems redefine outcomes and the quest for health care quality.	1998	0	
+350	It's getting better all the time	Getting better all the time	1997	0	
+351	It's getting better all the time	Public health. We're getting better all the time.	1996	0	
+352	It's getting better all the time	Getting better all the time.	1996	0	
+353	It's getting better all the time	COGENERATION MARKET: GETTING BETTER ALL THE TIME.	1985	0	
+354	Something in the way she moves	Commentary: Something in the way they move: Does gait speed predict postoperative events following elective proximal aortic surgery?	2022	0	10.1016/j.jtcvs.2020.04.046
+355	Something in the way she moves	'Something in the way you move': Infants are sensitive to emotions conveyed in action kinematics	2020	15	10.1111/desc.12873
+356	Something in the way she moves	Something in the way it moves and beeps: Exploring minimal nonverbal robot behavior for child-robot interaction	2017	4	10.1145/3029798.3034816
+357	Something in the way she moves	Early goal directed mobility in the ICU: 'Something in the way you move'	2016	4	10.21037/jtd.2016.05.96
+358	Something in the way she moves	Carcinoid Heart Disease: From Pathophysiology to Treatment - 'Something in the Way It Moves'	2015	144	10.1159/000381930
+359	Something in the way she moves	Something in the way people move: The benefit of facial movements in face identification	2015	6	10.3389/fpsyg.2015.01211
+360	Something in the way she moves	Something in the way he moves? Interpersonal judgments of acquaintance rapists	2012	1	10.1111/j.1475-6811.2010.01341.x
+361	Something in the way she moves	Something in the Way She Sings: Enhanced Memory for Vocal Melodies	2012	67	10.1177/0956797612442552
+362	Something in the way she moves	Something in the way we move: Motion dynamics, not perceived sex, influence head movements in conversation	2011	31	10.1037/a0021928
+363	Something in the way she moves	Something in the way you move: dispersal pathways affect invasion success	2009	680	10.1016/j.tree.2008.10.007
+364	Something in the way she moves	Something in the way he moves them	2007	0	
+365	Something in the way she moves	Clinical depression: Something in the way he moves	2007	0	
+366	Something in the way she moves	There's something in the way you move	2004	0	10.1088/2058-7058/17/11/29
+367	Something in the way she moves	Something in the way she walked?	2003	1	
+368	You say you want a revolution	You Say I Want a Revolution	2024	2	10.1093/monist/onad029
+369	You say you want a revolution	You say you want a data revolution? Taking on food systems accountability	2021	23	10.3390/agriculture11050422
+370	You say you want a revolution	You say you want a resolution (of fibrosis)	2020	19	10.1165/rcmb.2020-0182TR
+371	You say you want a revolution	You say you want a [data] revolution: Reflections one year on	2020	1	10.3233/SJI-200722
+372	You say you want a revolution	You say you want a (Rose) Revolution? The effects of Georgia's 2004 market reforms	2019	22	10.1111/ecot.12205
+373	You say you want a revolution	"""You say you want a [data] revolution"""": A proposal to use unofficial statistics for the SDG Global Indicator Framework"""	2019	34	10.3233/SJI-180486
+374	You say you want a revolution	Say you want a revolution: Suggestions for the impossible future of critical pedagogy (Luxembourg)	2017	1	10.4324/9781315092584
+375	You say you want a revolution	You say you want a (Food) revolution	2015	1	10.1016/j.explore.2014.12.010
+376	You say you want a revolution	You Say You Had a Revolution: Methodological Foundations of Closed-Loop Psychology	2009	38	10.1037/a0015106
+377	You say you want a revolution	You say you want a devolution? Lessons from the main street program	2008	3	10.1080/02690940801906668
+378	You say you want a revolution	You say you want a resolution?	2007	0	
+379	You say you want a revolution	Say, you want a revolution?	2006	0	
+380	You say you want a revolution	You say you want a resolution...	1999	0	
+381	You say you want a revolution	Say you want a revolution. suggestions for the impossible future of critical pedagogy	1998	156	10.1111/j.1741-5446.1998.00499.x
+382	Help! I need somebody	Help! AI need somebody	2025	0	
+383	Help! I need somebody	Help! I need a WNT antibody. Help! Not just any antibody	2023	0	10.1016/j.chembiol.2023.07.007
+384	Help! I need somebody	Help! I need some music!: Analysing music discourse & depression on Reddit	2023	5	10.1371/journal.pone.0287975
+385	Help! I need somebody	Help when dads need somebody? Follower reactions to leader work-family conflict	2020	1	10.5465/AMBPP.2020.27
+386	Help! I need somebody	HELLP-I need somebody	2019	0	10.1037/fsh0000418
+387	Help! I need somebody	"""HELLP syndrome: """"I need somebody HELLP, not just anybody..."""""""	2019	0	10.1007/978-3-030-22445-5_24
+388	Help! I need somebody	Help! I Need a Remote Guide in My Mixed Reality Collaborative Environment	2019	22	10.3389/frobt.2019.00106
+389	Help! I need somebody	Help, we need somebody	2013	0	10.1016/j.jchas.2013.06.001
+390	Help! I need somebody	Help, i need some body the effect of embodiment on playful learning	2012	34	10.1109/ROMAN.2012.6343836
+391	Help! I need somebody	Help, we need somebody.	1999	0	10.7748/ns.14.4.69.s54
+392	Help! I need somebody	Help! I need a MEDLINE search!	1998	1	10.1111/j.1552-6356.1998.tb01358.x
+393	Help! I need somebody	Help, I need to be QS-9000 registered: the BASF NPU implementation	1997	0	
+394	Help! I need somebody	Help I need someone: Care management and family carers of people with mental health problems	1995	3	10.1080/09503159508411617
+395	Will you still need me, will you still feed me	Will you still need me, will you still read me...? Patron-driven acquisition books' circulation advantage long-term and post-pilot	2024	3	10.1016/j.acalib.2024.102919
+396	Will you still need me, will you still feed me	Tanizaki's The Key in Translation: Will You Still Need Me, Will You Still Read Me, When I'm (Over) Sixty-Four?	2023	0	
+397	Will you still need me, will you still feed me	The aging workplace - It's not just ergonomics or will you still need me, will you still love me, when I'm 64?	2008	0	
+398	Will you still need me, will you still feed me	Will you still need me, will you still screen me, when I'm past 64?: Breast screening policy is based on ageism	1997	18	10.1136/bmj.315.7115.1032
+399	Living is easy with eyes closed	Is Living Easier with Eyes Closed?	2024	0	10.1017/S1062798723000558
+400	Living is easy with eyes closed	Fieldwork is easy with eyes closed, misunderstanding all you see ... and other reflections: 3ie annual Howard White inaugural lecture	2015	6	10.1080/19439342.2015.1068359
+401	Speaking words of wisdom	Whisper words of wisdom: Asides and appositives in Kaplan's logic of demonstratives	2024	0	10.1111/theo.12545
+402	Speaking words of wisdom	John Launer: Hearing words of wisdom	2022	1	10.1136/bmj.o2570
+403	I read the news today oh boy	I Shared the News Today, oh Boy: News provision and interaction on Facebook	2018	40	10.1080/1461670X.2016.1154797
+404	Look at all the lonely people	Look (closely) at all the lonely people: Age and the social psychology of social support	2007	103	10.1177/0898264307301178
+405	We all live in a yellow submarine	We all live in a virtual submarine	2010	8	10.1109/MCG.2010.20
+406	You say yes, I say no	You Say 'PK' and I Say 'No Way!'; You Say 'Keo' and I Say 'Time to Go!': Pharmacokinetics for TIVA	2019	0	10.1017/9781316659069.004

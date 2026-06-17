@@ -25,8 +25,10 @@ song list filters the title datasets to the 112 songs used in the published anal
 The two wordplay sets are then finalized by a two-annotator manual re-verification
 (recorded outside this repository): confirmed false positives are removed and one
 duplicate record is dropped, reducing the published data/shared/titles_wordplay.txt to
-554 rows and data/shared/lyrics_wordplay.txt to 106 rows — the wordplay counts reported
-in the paper. The expected sizes below describe the pre-verification export.
+554 rows and data/shared/lyrics_wordplay.txt to 407 rows — the wordplay counts reported
+in the paper. (The full "Love is all you need" group is kept: those titles play on
+"Attention is all you need", itself a play on the lyric.) The expected sizes below
+describe the pre-verification export.
 
 Usage
 -----
