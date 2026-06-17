@@ -12,7 +12,7 @@ The four result datasets and their expected sizes (the paper's headline numbers)
 
     data/shared/titles_exact.txt     – exact song-title references            (2048)
     data/shared/titles_wordplay.txt  – song-title wordplay references          (694)
-    data/shared/lyrics_exact.txt     – exact lyric references                  (258)
+    data/shared/lyrics_exact.txt     – exact lyric references                  (189)
     data/shared/lyrics_wordplay.txt  – lyric wordplay references               (553)
 
     data/shared/wordplay_candidates.txt – approximate (pre-classification)
@@ -25,7 +25,7 @@ song list filters the title datasets to the 112 songs used in the published anal
 The two wordplay sets are then finalized by a two-annotator manual re-verification
 (recorded outside this repository): confirmed false positives are removed and one
 duplicate record is dropped, reducing the published data/shared/titles_wordplay.txt to
-554 rows and data/shared/lyrics_wordplay.txt to 407 rows — the wordplay counts reported
+554 rows and data/shared/lyrics_wordplay.txt to 408 rows — the wordplay counts reported
 in the paper. (The full "Love is all you need" group is kept: those titles play on
 "Attention is all you need", itself a play on the lyric.) The expected sizes below
 describe the pre-verification export.
@@ -94,7 +94,7 @@ def main() -> None:
     prepare("data/scopus_song_wordplay_refs.txt", "data/shared/titles_wordplay.txt",
             selected=selected, expected=694)
     prepare("data/scopus_lyric_refs.txt", "data/shared/lyrics_exact.txt",
-            expected=258)
+            expected=189)
     prepare("data/scopus_lyric_wordplay_refs.txt", "data/shared/lyrics_wordplay.txt",
             expected=553)
 

@@ -24,10 +24,10 @@ titles from Scopus in two retrieval passes (1a and 1b), then classifies them (2)
 *Download the raw Scopus data* below).
 
 **Key numbers from the paper:**
-- 2,306 exact song title / lyric references identified
-- 961 instances of creative wordplay detected
+- 2,237 exact song title / lyric references identified
+- 962 instances of creative wordplay detected
 - 112 curated Beatles songs used in the published analysis (see `data/beatles_selected_songs.txt`)
-- 36 characteristic lyric phrases (see `data/beatles_lyrics.txt`)
+- 34 characteristic lyric phrases (see `data/beatles_lyrics.txt`)
 
 ---
 
@@ -37,14 +37,14 @@ titles from Scopus in two retrieval passes (1a and 1b), then classifies them (2)
 .
 ├── data/
 │   ├── beatles_songs.txt          # full Beatles discography, 215 songs (search list)
-│   ├── beatles_lyrics.txt         # 36 characteristic Beatles lyric phrases
+│   ├── beatles_lyrics.txt         # 34 characteristic Beatles lyric phrases
 │   ├── beatles_selected_songs.txt # 112 curated songs used in the published analysis
 │   ├── subjects/                  # Scopus subject-area exports, one CSV per song (gitignored)
 │   └── shared/                    # reference datasets behind the paper's results
 │       ├── titles_exact.txt              # 2048 exact song-title references
 │       ├── titles_wordplay.txt           #  554 song-title wordplay references
-│       ├── lyrics_exact.txt              #  258 exact lyric references
-│       ├── lyrics_wordplay.txt           #  407 lyric wordplay references
+│       ├── lyrics_exact.txt              #  189 exact lyric references
+│       ├── lyrics_wordplay.txt           #  408 lyric wordplay references
 │       ├── wordplay_candidates.txt       # approximate candidates seen by the classifier
 │       └── wordplay_annotation_sample.csv  # 300-title human validation set
 ├── prompts/
@@ -178,8 +178,8 @@ The reference datasets behind the paper's results, plus the approximate wordplay
 |---|---|---|
 | `titles_exact.txt` | 2048 | exact song-title references |
 | `titles_wordplay.txt` | 554 | song-title wordplay references |
-| `lyrics_exact.txt` | 258 | exact lyric references |
-| `lyrics_wordplay.txt` | 407 | lyric wordplay references |
+| `lyrics_exact.txt` | 189 | exact lyric references |
+| `lyrics_wordplay.txt` | 408 | lyric wordplay references |
 | `wordplay_candidates.txt` | — | approximate candidates before wordplay classification |
 
 Each row is one referencing article, with columns `paper_nr`, `song_name`, `title`,

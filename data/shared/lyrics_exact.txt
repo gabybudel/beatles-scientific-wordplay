@@ -1,259 +1,190 @@
 paper_nr	song_name	title	year	cited_by	doi
-0	Life goes on	Over 80% of health spending in final year of life goes on hospital care, data show	2025	1	10.1136/bmj.r254
-1	Life goes on	Life goes on: Perspectives on the will to live from residents of Swiss long-term care facilities	2024	1	10.1017/S1478951523000044
-2	Life goes on	Life goes on	2024	0	10.32735/s0718-22012024000583575
-3	Life goes on	But life goes on: drama classes, Ukrainian refugees, and Icelandic language learning	2024	2	10.1111/lit.12366
-4	Life goes on	Life goes on	2024	0	10.1111/acem.14841
-5	Life goes on	Life goes on: Spatial heterogeneity promotes biodiversity in an urbanized coastal marine ecosystem	2024	1	10.1111/gcb.17248
-6	Life goes on	Life Goes on: Tupac Shakur's Influence on Angie Thomas' The Hate U Give and African American Sneaker Culture	2024	0	10.1080/10646175.2024.2357312
-7	Life goes on	And what happens after the exam? Life goes on. Reflections on curricular reform	2024	0	10.1080/02643944.2024.2425543
-8	Life goes on	Ob-La-Di, Oc-to-Pus (Life Goes on): a Modern Metis Fire Bag (2021)	2024	0	10.1080/14759756.2023.2227395
-9	Life goes on	A PAINFUL PAST AND A PEACEFUL PRESENT? LIFE STORIES OF GERMAN AND POLISH WOMEN FROM SILESIA IN THE DOCUMENTARY ABER DAS LEBEN GEHT WEITER [BUT LIFE GOES ON]	2023	0	10.33993/drl.2023.10.219.238
-10	Life goes on	Life goes on in a violent way: a reading of Marti Rossello's Anna K	2023	0	
-11	Life goes on	Life Goes on, Defying Common Sense: On Translating Russian Emigre Poetry	2023	0	10.1007/978-3-031-30784-3_26
-12	Life goes on	Boundaries and borders gone! But life goes on	2022	0	10.1017/S0140525X22000152
-13	Life goes on	Impact of the COVID-19 Pandemic on Individuals with Low Vision: Life Goes on	2022	2	10.1097/TGR.0000000000000369
-14	Life goes on	Life Goes On: Health Care Systems, Complex Medical Conditions, and Newer Trends in Health Care: Post Pandemic	2021	0	10.1016/j.yapd.2021.05.016
-15	Life goes on	Taking the witness of those who preceded us, and preparing the way for those who will succeed us: Life goes on	2021	2	10.1016/j.regg.2021.04.008
-16	Life goes on	Editorial: [ab]normal life goes on	2021	1	10.18552/IJPBLHSC.V9I1.758
-17	Life goes on	Life goes on: The influence of the perceived quality of social relations on older women's mental health after the loss of a partner in Europe	2021	12	10.1080/13607863.2019.1675141
-18	Life goes on	Women of an elegant age: Life goes on!	2021	0	10.18565/aig.2021.10.191-193
-19	Life goes on	Life goes on	2021	0	
-20	Life goes on	The New Normal as Life Goes on Under COVID-19	2020	1	10.1177/1089253220969248
-21	Life goes on	Life Goes On	2020	0	10.1007/s11673-020-09986-7
-22	Life goes on	Living in one's own world, while life goes on: Patients' experiences prior to a kidney transplantation with a living donor	2020	3	10.1111/jocn.15117
-23	Life goes on	Life goes on after occupation: Czechoslovak beatles cover versions after the Prague spring, 1968-72	2020	1	10.5325/intelitestud.22.1-2.0160
-24	Life goes on	The meaning of acceptance (Thum-jai) in Thai people: Letting it go...so life goes on	2019	8	10.1111/inm.12587
-25	Life goes on	Romancing King Lear: Hobson's choice, life goes on and beyond	2019	3	10.1017/9781108589727.008
-26	Life goes on	Life Goes On. Everyday Tasks, Coping Self-Efficacy, and Independence: Exploring Older Adults' Recovery From Hip Fracture	2018	30	10.1177/1049732318755675
-27	Life goes on	Life goes on: Archaeobotanical investigations of diet and ritual at Angkor Thom, Cambodia (14th-15th centuries CE)	2018	21	10.1177/0959683617752841
-28	Life goes on	"Value and wealth: What do value and wealth do? ""life"" goes on, whatever ""life"" is"	2018	2	
-29	Life goes on	Practical theology '[re]entering vernacular culture?' new frontiers and challenges to doing theology as life goes on	2017	0	10.4102/hts.v73i4.4425
-30	Life goes on	Life goes on	2016	0	
-31	Life goes on	Tres semanas despues: Life goes on	2015	0	
-32	Life goes on	Life goes on: Are humans still evolving?	2015	1	10.1002/evan.21447
-33	Life goes on	Let the life go on	2015	0	10.1007/s13312-015-0618-x
-34	Life goes on	Family life goes on: Disability in contemporary families	2014	27	10.1111/fare.12053
-35	Life goes on	How does my life go on after a myocardial infarction? what can i do to take care of myself?	2013	0	10.7775/rac.es.v81.i4.2952
-36	Life goes on	Life goes on: The experiences of wives of multiply-deployed national guard soldiers	2013	3	10.3109/01612840.2012.732192
-37	Life goes on	Cripping Safe Sex: Life Goes On's Queer/Disabled Alliances	2012	12	10.1007/s11673-012-9379-6
-38	Life goes on	Life goes on without me	2012	0	
-39	Life goes on	Life goes on for patients with cancer, as they desire	2012	0	10.1136/bmj.e155
-40	Life goes on	"The modeling of energy transport for life goes on. Comment on ""The theory of bio-energy transport in the protein molecules and its properties"" by Xiao-feng Pang"	2011	1	10.1016/j.plrev.2011.07.012
-41	Life goes on	Life goes on: Delayed hatching, extended incubation, and heterokairy in development of embryonic California grunion, leuresthes tenuis	2011	21	10.1643/CG-10-164
-42	Life goes on	Life goes on: Redundant women workers in Nanjing	2011	5	
-43	Life goes on	Wonderful life goes on	2010	0	
-44	Life goes on	Life goes on in dreams	2010	3	10.1093/sleep/33.1.15
-45	Life goes on	You do not have to join the army to experience army life: Go on and try out something new	2009	0	
-46	Life goes on	And life goes on	2008	0	
-47	Life goes on	Life goes on: A call to action	2008	0	10.1111/j.1469-8749.2008.03082.x
-48	Life goes on	Life goes on	2006	0	
-49	Life goes on	Nighttime but life goes on	2006	2	10.3917/gs.116.0119
-50	Life goes on	Pediatricians are crying, the medical officers ignore them, and life goes on ...	2005	4	
-51	Life goes on	'Life' goes on, but not yet at a fast pace	2005	0	
-52	Life goes on	Equitable Life goes on [3]	2004	0	
-53	Life goes on	Life goes on: Living with HIV and AIDS in Singapore	2004	1	10.1163/156853104323018307
-54	Life goes on	Life goes on	2002	0	
-55	Life goes on	Life goes on	2002	0	10.1016/S0735-1097(01)01787-9
-56	Life goes on	Life goes on: Endgame as Anti-Pastoral elegy	2002	3	10.3138/md.45.4.611
-57	Life goes on	Life goes on	2001	0	
-58	Life goes on	... and life goes on! The stoma and its care	1999	0	
-59	Life goes on	Life goes on	1998	0	
-60	Life goes on	Life goes on--with planning and help.	1998	0	
-61	Life goes on	Life goes on.	1994	0	10.1001/jama.272.17.1379
-62	Life goes on	Life goes on, and on...	1993	0	
-63	Life goes on	Peru:... and life goes on	1991	1	
-64	Life goes on	Everybody's scared-but life goes on: coping, defense and action in the face of nuclear threat	1989	6	10.1016/0140-1971(89)90086-9
-65	Life goes on	Life goes on	1988	0	
-66	Life goes on	Life goes on with chronic pain. A personal account.	1986	0	
-67	Life goes on	The time is out of joint, but life goes on: Hamlet or the ephesian matron	1983	1	10.1093/jaarel/LI.1.37
-68	Life goes on	Editorial: Anniversaries, goodbyes, and poisons-life goes on	1983	0	10.1097/00004714-198312000-00001
-69	You say you want a revolution	So, You Say You Want a Revolution? You Tell Me That It's Evolution: Associating Temporal Changes in Pediatric Acute Respiratory Distress Syndrome Plasma Biomarkers with Lung Injury Severity	2024	1	10.1097/PCC.0000000000003328
-70	You say you want a revolution	You say you want a revolution. Well... you know... we all want to change the world	2023	0	
-71	You say you want a revolution	You say you want a revolution! Could it finally be time to rethink scholarly communications?	2023	0	10.1629/uksg.632
-72	You say you want a revolution	You say you want a revolution: two notions of probabilistic independence	2021	1	10.1007/s11098-021-01603-6
-73	You say you want a revolution	2015- You say you want a revolution A contribution to the current debate on language policies in the domain of languages for students of other disciplines at university level	2021	0	10.4000/apliut.8413
-74	You say you want a revolution	Postscript: You say you want a revolution? Histories and futures of researching the digital, a view from the south	2020	3	10.1515/9783110670837-024
-75	You say you want a revolution	You say you want a revolution: On resistance, justice, and changing the world through critical inquiry and methodology	2020	1	
-76	You say you want a revolution	You Say You Want a Revolution?: RADICAL IDEALISM AND ITS TR AGIC CONSEQUENCES	2020	5	
-77	You say you want a revolution	You Say You Want a Revolution	2019	0	
-78	You say you want a revolution	You say you want a revolution: John lennon's contributions to the beatles	2019	0	
-79	You say you want a revolution	You say you want a revolution? Records and rebels, 1966-1970	2017	0	10.1162/DESI_r_00466
-80	You say you want a revolution	You say you want a revolution? Non-normative foundations of Transformation Design	2017	0	10.1080/14606925.2017.1352866
-81	You say you want a revolution	You say you want a revolution	2017	0	
-82	You say you want a revolution	You say you want a revolution: An empirical study of community-based participatory research with people with developmental disabilities	2016	63	10.1016/j.dhjo.2015.12.006
-83	You say you want a revolution	You say you want a revolution: Recovery, biomedicine and muddling through	2015	5	10.1177/0004867415610200
-84	You say you want a revolution	You Say You Want a Revolution? Drawing on Social Movement Theory to Motivate Transformative Change	2015	37	10.1177/1094670515582037
-85	You say you want a revolution	You say you want a revolution: Challenges of market primacy for the human rights project	2015	1	10.4324/9781315756035
-86	You say you want a revolution	You say you want a revolution: Reinventing the garden camellia	2015	2	10.17660/ActaHortic.2015.1085.83
-87	You say you want a revolution	You say you want a revolution A contribution to the current debate on language policies in the domain of languages for students of other disciplines at university level	2015	14	10.4000/apliut.5020
-88	You say you want a revolution	You Say You Want a Revolution? The Internet's Impact on Political Discussion, Activism, and Societal Transformation	2015	0	
-89	You say you want a revolution	You Say You Want a Revolution: the Arab Spring, Norm Diffusion, and the Human Rights Regime	2014	17	10.1007/s12142-014-0315-5
-90	You say you want a revolution	You say you want a revolution	2014	0	
-91	You say you want a revolution	You say you want a revolution	2014	0	
-92	You say you want a revolution	You Say You Want a Revolution: The New and Old Economics of the Family	2014	0	
-93	You say you want a revolution	You say you want a revolution	2014	0	
-94	You say you want a revolution	You say you want a revolution	2014	0	
-95	You say you want a revolution	You say you want a revolution	2014	0	
-96	You say you want a revolution	You say you want a revolution	2014	0	
-97	You say you want a revolution	"The time is now for gene-and genome-based bacterial diagnostics: ""You say you want a revolution"""	2013	14	10.1001/jamainternmed.2013.7042
-98	You say you want a revolution	You say you want a revolution? Transforming education and capacity building in response to global change	2013	104	10.1016/j.envsci.2012.11.011
-99	You say you want a revolution	You say you want a revolution?	2013	0	
-100	You say you want a revolution	You say you want a revolution: Cultural Memory, black nationalist didacticism, and Sonia Sanchez's it's a new day: Poems for young Brothas and Sistuhs	2013	1	10.4324/9780203761830
-101	You say you want a revolution	You Say You Want a Revolution: Cultural Memory, Black Nationalist Didacticism, and Sonia Sanchez's It's a New Day: Poems for Young Brothas and Sistuhs	2013	0	10.4324/9780203761830-7
-102	You say you want a revolution	You say you want a revolution?	2012	0	10.1017/S0140525X12001409
-103	You say you want a revolution	You say you want a revolution: Canada's original quality council reflects back on its first 10 years and looks ahead	2012	1	10.1016/j.hcmf.2012.09.009
-104	You say you want a revolution	Devops: So you say you want a revolution?	2011	17	
-105	You say you want a revolution	You say you want a revolution	2010	0	10.1109/MCSE.2010.52
-106	You say you want a revolution	You say you want a revolution in booker plus five, there's been rumbling but hardly rebelling	2010	0	
-107	You say you want a revolution	Training in Minimally Invasive Surgery - You Say You Want a Revolution	2009	6	10.1016/j.jmig.2009.01.001
-108	You say you want a revolution	You say you want a revolution: An interview with Pat Brown	2009	2	10.1371/journal.pgen.1000560
-109	You say you want a revolution	'You Say You Want a Revolution': Bills of Rights in the Age of Human Rights	2009	9	
-110	You say you want a revolution	You say you want a revolution (Science (664))	2008	0	
-111	You say you want a revolution	You say you want a revolution	2008	6	10.1126/science.322.5902.664
-112	You say you want a revolution	You say you want a revolution	2006	0	
-113	You say you want a revolution	You say you want a revolution...	2004	0	
-114	You say you want a revolution	You say you want a revolution	2003	3	
-115	You say you want a revolution	You say you want a revolution	2002	0	
-116	You say you want a revolution	You say you want a revolution	1999	0	
-117	You say you want a revolution	You say you want a revolution (in military affairs)?	1999	5	10.1080/01495939908403187
-118	You say you want a revolution	You say you want a revolution	1999	0	10.1080/03064229908536662
-119	You say you want a revolution	So you say you want a revolution: A game theoretic explanation of revolution in repressive regimes	1999	92	10.1177/0022002799043003002
-120	You say you want a revolution	You say you want a revolution.	1998	0	
-121	You say you want a revolution	'You say you want a revolution?' Toward a virtual community on aging	1997	1	
-122	Come together, right now	Come together, right now! ZCCHC3 orchestrates cytosolic nucleic acid sensing through phase condensation	2025	0	10.1016/j.molcel.2025.02.009
-123	Come together, right now	Come Together, Right Now? An Empirical Study of Collaborations in the Music Industry	2023	3	10.1287/mnsc.2023.4743
-124	Come together, right now	Come Together, Right Now: Storylines and Social Identities in Coalition Building in a Local Policy Subsystem	2021	7	10.1111/polp.12431
-125	Come together, right now	Circulating tumor cells: Come together, right now, over metastasis	2019	38	10.1158/2159-8290.CD-18-1285
-126	Come together, right now	Come together, right now: Why diversity matters	2018	0	
-127	Come together, right now	Dermoscopy and confocal microscopy: come together, right now?	2018	0	10.1111/bjd.16699
-128	Come together, right now	Come Together, Right Now/Over Me, over You, over Us	2017	0	10.1017/S0147547916000387
-129	Come together, right now	Come together, right now	2016	0	
-130	Come together, right now	Come together - Right now: Uniting the department	2016	0	
-131	Come together, right now	Come together, right now: Retweeting in the social model of protest mobilization	2015	3	10.3726/978-1-4539-1672-8
-132	Come together, right now	Dendritic cells and lymphoma cells: Come together right now	2015	0	10.1182/blood-2014-11-606608
-133	Come together, right now	Come Together, Right Now: Dynamic Overwriting of an Object's History through Common Fate	2014	42	10.1162/jocn_a_00584
-134	Come together, right now	Integrated care: Come together, right now.	2013	0	
-135	Come together, right now	Come together, right now!	2011	0	10.1089/gtmb.2011.1524
-136	Come together, right now	Come together, right now	2009	0	10.1038/nsmb1209-1201
-137	Come together, right now	Come together, right now.	2009	0	10.1097/01974520-200901000-00005
-138	Come together, right now	Come together - Right now	2008	0	10.1049/et:20082016
-139	Come together, right now	Come together, right now - How the songs of the beatles helped our product owners and teams live in harmony	2008	0	10.1109/Agile.2008.28
-140	Come together, right now	Come together, right now: The group therapist as clinician-researcher	2008	4	10.1521/ijgp.2008.58.4.575
-141	Come together, right now	Come together, right...now: Synchronization of rhythms in a mammalian circadian clock	2005	248	10.1016/j.neuron.2005.11.001
-142	Come together, right now	Come together, right now	2005	0	
-143	Come together, right now	Come Together, Right Now: Eclipse and Open Development Tools Integration	2003	0	
-144	Come together, right now	Come together, right now	2002	0	
-145	It's getting better all the time	It's Getting Better All the Time: Decreased Cumulative Incidence of Waitlist Mortality in Pediatric Candidates Following 2018 Heart Allocation Policy Change	2025	0	10.1111/petr.14904
-146	It's getting better all the time	It's Getting Better All The Time	2019	0	10.1080/14606925.2019.1634448
-147	It's getting better all the time	It's getting better all the time (can't get no worse): The why, how and when of environmental entrepreneurship	2018	12	10.1504/IJEV.2018.090982
-148	It's getting better all the time	It's getting better all the time	2017	0	10.1002/ccd.26919
-149	It's getting better all the time	SOLID-STATE SIGNAL SWITCHING: IT'S GETTING BETTER ALL THE TIME.	2015	0	
-150	It's getting better all the time	Ti1 mine yngre kolleger: It's getting better all the time!	2014	0	
-151	It's getting better all the time	It's getting better all the time? Using secular trends to understand the impact of neurocritical care	2013	1	10.1007/s00134-013-2995-8
-152	It's getting better all the time	It's getting better all the time..!	2013	0	10.4103/0972-124X.107463
-153	It's getting better all the time	It's Getting Better All the Time: Comparative Perspectives from Oceania and West Africa on Genetic Analysis and Archaeology	2012	13	10.1007/s10437-012-9122-z
-154	It's getting better all the time	It's getting better all the time	2012	0	
-155	It's getting better all the time	The hyphen as a segmentation cue in triconstituent compound processing: It's getting better all the time	2011	19	10.1111/j.1467-9450.2011.00914.x
-156	It's getting better all the time	Editorial: It's getting better all the time	2009	0	
-157	It's getting better all the time	Editorial: It's getting better all the time	2009	0	
-158	It's getting better all the time	Regulation - It's getting better all the time	2007	0	10.12968/bjhc.2007.13.11.27707
-159	It's getting better all the time	It's getting better all the time	2005	0	10.1001/virtualmentor.2005.7.10.jdsc1-0510
-160	It's getting better all the time	Surveillance for Surgical-Site Infections: It's Getting Better All the Time	2003	0	10.1086/502119
-161	It's getting better all the time	Awards competition evolves it's getting better all the time!	2003	0	
-162	It's getting better all the time	It's getting better all the time	2000	0	
-163	It's getting better all the time	It's getting better all the time	1998	8	10.1016/s0140-6736(98)90266-5
-164	It's getting better all the time	It's getting better all the time	1989	0	10.1016/0891-5849(89)90001-4
-165	It's getting better all the time	Is it getting better all the time?	1984	1	10.1038/312206a0
-166	Help! I need somebody	Help, I need somebody! Business and technology advisors in emerging science-based ventures at American universities	2024	0	10.1007/s10961-024-10125-2
-167	Help! I need somebody	Help! I Need Somebody: Help-Seeking Among Workers with Self-Reported Work-Related Mental Disorders	2024	3	10.1007/s10926-023-10123-5
-168	Help! I need somebody	Help! I need somebody. A Mapping Study about Expert Identification in Software Development	2023	1	10.1145/3613372.3613389
-169	Help! I need somebody	HELP - I NEED SOMEBODY? COMPARING GROUPS' AND INDIVIDUALS' SEARCH BEHAVIOR ACROSS PROBLEM COMPLEXITY	2023	0	10.5465/AMPROC.2023.191bp
-170	Help! I need somebody	Help, I need somebody!: Exploring who founds new nonprofits	2022	2	10.1002/nml.21494
-171	Help! I need somebody	Help! I Need Somebody: Music as a Global Resource for Obtaining Wellbeing Goals in Times of Crisis	2021	67	10.3389/fpsyg.2021.648013
-172	Help! I need somebody	Help, I need somebody: Examining the antecedents of social support seeking among cybercrime victims	2020	19	10.1016/j.chb.2020.106310
-173	Help! I need somebody	'Help! I need somebody': getting timely assistance in clinical practice	2016	5	10.1111/anae.13497
-174	Help! I need somebody	"Help! I need somebody (or do i?): A discussion of community caretaking and ""assistance seizures"" under Iowa law"	2014	0	
-175	Help! I need somebody	Help! I need somebody... Help! Not just anybody: Applying recommender system techniques in peer help systems	2014	1	
-176	Help! I need somebody	Help! I Need Somebody	2011	0	10.1021/op2002722
-177	Help! I need somebody	Help, I need somebody. A collaborative approach to nurses helping nurses	2010	0	10.4037/ccn2010286
-178	Help! I need somebody	Help - I need somebody	2005	0	
-179	Help! I need somebody	Help, I need somebody: Automatic action and inaction	1998	208	10.1521/soco.1998.16.4.400
-180	Help! I need somebody	'Help. I need somebody': the value of psychiatric nursing training to the general nurse.	1966	0	
-181	Love is all you need	'LOVE' IS ALL YOU NEED: AN ATTEMPT AT CRITICAL CONCEPTUAL ACCOUNT	2023	1	10.34135/lartis.23.8.1.07
-182	Love is all you need	Love is all you need: User preferences of strategies for mediating intimate relationships through technology	2018	1	10.14236/ewic/HCI2018.28
-183	Love is all you need	Love Is All You Need: Why There Will Never Be Another Beatles	2014	1	
-184	Love is all you need	Love is all you need: Lusophone affective communities after Freyre	2014	7	10.1057/9781137340993_3
-185	Love is all you need	Love is all you need: A content analysis of romantic scenes in Chinese entertainment television	2013	9	10.1080/01292986.2012.729148
-186	Love is all you need	Love Is All You Need	2013	0	10.1016/S1470-2045(13)70201-8
-187	Love is all you need	Love is all you need: Freedom of thought versus freedom of action	2009	0	10.1017/CBO9780511576386.021
-188	Love is all you need	Love is all you need	2008	0	10.1111/j.1744-540X.2008.00525.x
-189	Love is all you need	"The new backlash: Popular culture's ""marriage"" with feminism, or love is all you need"	2007	23	10.3200/JPFT.34.4.160-169
-190	Love is all you need	Perhaps love is all you need [2]	2003	0	
-191	Love is all you need	Love is all you need? Student nurses' interest in working with children.	2000	7	10.1111/j.1744-6155.2000.tb00106.x
-192	Love is all you need	Love is all you need? Focusing on adolescents' life concerns from an ecological point of view	1999	58	10.1006/jado.1998.0200
-193	Love is all you need	Love is all you need.	1994	0	10.1136/bmj.309.6957.816
-194	Try to see it my way	Try to See it My Way: Humans Take the Level-1 Visual Perspective of Humanoid Robot Avatars	2025	4	10.1007/s12369-023-01036-7
-195	Try to see it my way	Try to see it my way - Examining the relationship between visual perspective taking and theory of mind in frontotemporal dementia	2022	3	10.1016/j.bandc.2021.105835
-196	Try to see it my way	Try to see it my way: exploring the co-design of visual presentations of wellbeing through a workshop process	2019	11	10.1177/1757913919835231
-197	Try to see it my way	Try to see it my way - How students view the use of lecture capture	2018	1	10.1007/978-3-319-95522-3_13
-198	Try to see it my way	Try to see it my way: What influences social perspective taking among college students?	2017	17	10.1353/csd.2017.0082
-199	Try to see it my way	Try to see it my way: Embodied perspective enhances self and friend-biases in perceptual matching	2016	28	10.1016/j.cognition.2016.04.015
-200	Try to see it my way	'Try to see it my way': Which theory of mind tests best distinguish bvFTD and AD?	2015	7	10.1136/jnnp-2015-310324
-201	Try to see it my way	'Try to see it my way!' Frame congruence between lobbyists and European Commission officials	2015	43	10.1080/13501763.2015.1008555
-202	Try to see it my way	Try to See It My Way 1: The Discursive Function of Idiosyncratic Mathematical Metaphor	2012	23	10.1080/10986065.2012.625076
-203	Try to see it my way	Try to see it my way: Modelling persuasion in legal discourse	2003	29	10.1023/B:ARTI.0000045997.45038.8f
-204	Try to see it my way	Try to See it My Way	1992	0	10.1001/jama.1992.03490190130049
-205	Will you still need me, will you still feed me	Microbial Mutualism: Will You Still Need Me, Will You Still Feed Me?	2020	4	10.1016/j.cub.2020.07.002
-206	Will you still need me, will you still feed me	"Planning for Retiring from Operating: ""will You Still Need Me, Will You Still Feed Me, When I'm Sixty-Four?"""	2019	1	10.1001/jamasurg.2019.1160
-207	Will you still need me, will you still feed me	Will you still need me, will you still feed me when I'm 64? The health impact of caregiving to one's spouse	2017	64	10.1002/hec.3542
-208	Will you still need me, will you still feed me	Gerontology: Will you still need me, will you still feed me?	2014	6	10.1038/514S14a
-209	Will you still need me, will you still feed me	"Lost in transition? thoughts on retirement-""will you still need me, will you still feed me, when I'm sixty-four?"""	2013	8	10.1634/theoncologist.2013-0173
-210	Will you still need me, will you still feed me	The Development of EU Case-Law on Age Discrimination in Employment: 'Will You Still Need Me? Will You Still Feed Me? When I'm Sixty-Four'	2013	14	10.1111/eulj.12042
-211	Will you still need me, will you still feed me	Will you still need me, will you still feed me...?	2013	0	
-212	Will you still need me, will you still feed me	WILL YOU STILL NEED ME, WILL YOU STILL FEED ME, WHEN I'M 64? AN ETHICAL PROBLEM FOR THE MODERN, COSMOPOLITAN ACADEMIC	2009	0	10.1163/9789042027404_014
-213	Will you still need me, will you still feed me	Will you still need me, will you still feed me, when I'm 64?	2006	0	
-214	Will you still need me, will you still feed me	Will you still need me, will you still feed me? - Paying for care in old age	1997	15	10.1111/1467-9515.00044
-215	Will you still need me, will you still feed me	Will you still need me, will you still feed me, when I'm eighty-four?	1990	0	
-216	I read the news today oh boy	'I read the news today . . . oh boy': Taking the pulse of UK popular music journalism	2024	0	
-217	I read the news today oh boy	I read the news today, oh boy: The effect of crime news coverage on crime perception	2020	11	10.1016/j.worlddev.2020.105111
-218	I read the news today oh boy	I Read the News Today, Oh Boy	2020	1	10.1007/s12671-020-01356-z
-219	I read the news today oh boy	I read the news today, oh boy: Making metaphors topical, timely and humorously personal	2017	5	10.1007/978-3-319-58697-7_52
-220	I read the news today oh boy	I read the news today, oh boy: The British press and the Beatles	2010	12	10.1080/03007761003694373
-221	I read the news today oh boy	'I Read the News Today, Oh Boy!': Newspaper publishing in the online world	2010	0	
-222	I read the news today oh boy	I read the news today, oh boy: The increasing centrality of constitutional design	2009	2	
-223	I read the news today oh boy	I read the news today... Oh boy	2008	0	
-224	I read the news today oh boy	I read the news today, oh boy: reading and attention in digital libraries	1997	42	
-225	Something in the way she moves	Something in the way she moves: biological motion, body shape, and attractiveness in women	2018	3	10.1080/13506285.2018.1471560
-226	Something in the way she moves	'Something in the way she moves': The functional significance of flexibility in the multiple roles of protein disulfide isomerase (PDI)	2017	35	10.1016/j.bbapap.2017.08.014
-227	Something in the way she moves	Something in the way she moves-movement trajectories reveal dynamics of self-control	2014	15	10.3758/s13423-013-0517-x
-228	Something in the way she moves	Something in the way she moves me: Morphology and motion of observed goal-directed and pantomimed actions	2012	2	10.3758/s13414-011-0228-1
-229	Something in the way she moves	Something in the way she moves: A fresh look at an old gap	2004	22	10.1093/oep/gpf039
-230	Something in the way she moves	Something in the way she moves	2004	10	10.1016/j.tics.2003.12.009
-231	Something in the way she moves	Something in the way she moves: Gallbladder motility and gallstones	1996	6	10.1053/gast.1996.v111.agast961110823
-232	Get back to where you once belonged	'Get back to where you once belonged'? Effects of skilled internal migration on Italian regional green growth	2024	4	10.1016/j.pirs.2024.100036
-233	Get back to where you once belonged	'Get back to where you once belonged!' the positive creative impact of a refresher course for 'baby-boomer' rock musicians	2012	7	10.1017/S0261143012000025
-234	Get back to where you once belonged	Get back to where you once belonged: Monitoring the AIDS pandemic in the 21st century	2008	4	10.1590/S1413-81232008000600007
-235	Get back to where you once belonged	Get Back to Where You Once Belonged: Identity, Citizenship, and Exclusion in Europe	1998	46	
-236	Living is easy with eyes closed	Living is Easy With Eyes Closed: Avoidance of Targeted Political Advertising in Response to Privacy Concerns, Perceived Personalization, and Overload	2024	11	10.1177/00936502221130840
-237	Living is easy with eyes closed	A journey through the Late Franco Period: Living is Easy with Eyes Closed	2016	0	
-238	Living is easy with eyes closed	Living is easy with eyes closed	2015	0	10.1016/j.fmc.2015.06.001
-239	Living is easy with eyes closed	Living is easy with eyes closed... on blinded RCTs and specific and non-specific effects of complex therapeutic interventions	2014	6	10.1016/j.eujim.2014.06.008
-240	Take a sad song and make it better	Take a sad song and make it better: Spousal activity limitations, caregiving, and depressive symptoms among couples	2021	7	10.1016/j.socscimed.2021.114081
-241	Take a sad song and make it better	Take a sad song and make it better: What makes an interpretation growth facilitating for the patient?	2020	9	10.1037/pst0000290
-242	Take a sad song and make it better	Trends in surgeon wellness (take a sad song and make it better): A comparison of surgical residents, fellows, and attendings	2019	25	
-243	You say yes, I say no	You say yes, I say no. Investigating the link between meaning and form in response particles	2023	1	10.16995/glossa.9185
-244	You say yes, I say no	You say yes, i say no: Capturing and measuring 'public opinion' through citizens' conversation online (on the russian-language livejornal blogging platform)	2013	4	10.1007/978-3-642-40346-0_12
-245	You say yes, I say no	"You say ""yes,"" i say ""no,"" you say ""goodbye,"" and i say ""hello"""	2011	1	
-246	I'd like to be under the sea	I'd like to be under the sea: Contextual cues in virtual environments influence the orientation of idea generation	2019	19	10.1016/j.chb.2018.08.001
-247	I'd like to be under the sea	I'D like to be under the sea: Modelling gender in Clara F Guernsey's The Merman and the Figure-Head	2018	1	10.21463/shima.12.2.15
-248	Look at all the lonely people	'Ah, look at all the lonely people..': loneliness and solitude in public mental health	2021	1	10.1177/17579139211018120
-249	Look at all the lonely people	Ah, look at all the lonely people (and resultant health problems thereof)	2018	1	
-250	Nothing's gonna change my world	Nothing's gonna change my world - Or do journalistic clarifications help against rumors?	2019	1	10.5771/2192-4007-2019-4-497
-251	Nothing's gonna change my world	Nothing's gonna change my world: Why?	2014	0	10.1007/s11739-014-1135-y
-252	Speaking words of wisdom	SPEAKING WORDS OF WISDOM: INTRODUCING 15 ORIGINAL SONGS TO TEACH PRINCIPLES OF MARKETING	2024	0	
-253	Speaking words of wisdom	Speaking words of WISDOM: Web intelligent search based on DOMain ontologies	2005	1	
-254	When I find myself in times of trouble	'When I find myself in times of trouble ...' : The conditional effect of international organisations on policy convergence	2013	12	10.1111/1475-6765.12006
-255	When I find myself in times of trouble	When I find myself in times of trouble...	2003	16	10.1163/157361203X00228
-256	Let me take you down	Let Me Take You Down	2004	0	
-257	Let me tell you how it will be	Let me tell you how it will be: Whoever wins the next election, taxes are likely to go up	2017	0	
+0	You say you want a revolution	So, You Say You Want a Revolution? You Tell Me That It's Evolution: Associating Temporal Changes in Pediatric Acute Respiratory Distress Syndrome Plasma Biomarkers with Lung Injury Severity	2024	1	10.1097/PCC.0000000000003328
+1	You say you want a revolution	You say you want a revolution. Well... you know... we all want to change the world	2023	0	
+2	You say you want a revolution	You say you want a revolution! Could it finally be time to rethink scholarly communications?	2023	0	10.1629/uksg.632
+3	You say you want a revolution	You say you want a revolution: two notions of probabilistic independence	2021	1	10.1007/s11098-021-01603-6
+4	You say you want a revolution	2015- You say you want a revolution A contribution to the current debate on language policies in the domain of languages for students of other disciplines at university level	2021	0	10.4000/apliut.8413
+5	You say you want a revolution	Postscript: You say you want a revolution? Histories and futures of researching the digital, a view from the south	2020	3	10.1515/9783110670837-024
+6	You say you want a revolution	You say you want a revolution: On resistance, justice, and changing the world through critical inquiry and methodology	2020	1	
+7	You say you want a revolution	You Say You Want a Revolution?: RADICAL IDEALISM AND ITS TR AGIC CONSEQUENCES	2020	5	
+8	You say you want a revolution	You Say You Want a Revolution	2019	0	
+9	You say you want a revolution	You say you want a revolution: John lennon's contributions to the beatles	2019	0	
+10	You say you want a revolution	You say you want a revolution? Records and rebels, 1966-1970	2017	0	10.1162/DESI_r_00466
+11	You say you want a revolution	You say you want a revolution? Non-normative foundations of Transformation Design	2017	0	10.1080/14606925.2017.1352866
+12	You say you want a revolution	You say you want a revolution	2017	0	
+13	You say you want a revolution	You say you want a revolution: An empirical study of community-based participatory research with people with developmental disabilities	2016	63	10.1016/j.dhjo.2015.12.006
+14	You say you want a revolution	You say you want a revolution: Recovery, biomedicine and muddling through	2015	5	10.1177/0004867415610200
+15	You say you want a revolution	You Say You Want a Revolution? Drawing on Social Movement Theory to Motivate Transformative Change	2015	37	10.1177/1094670515582037
+16	You say you want a revolution	You say you want a revolution: Challenges of market primacy for the human rights project	2015	1	10.4324/9781315756035
+17	You say you want a revolution	You say you want a revolution: Reinventing the garden camellia	2015	2	10.17660/ActaHortic.2015.1085.83
+18	You say you want a revolution	You say you want a revolution A contribution to the current debate on language policies in the domain of languages for students of other disciplines at university level	2015	14	10.4000/apliut.5020
+19	You say you want a revolution	You Say You Want a Revolution? The Internet's Impact on Political Discussion, Activism, and Societal Transformation	2015	0	
+20	You say you want a revolution	You Say You Want a Revolution: the Arab Spring, Norm Diffusion, and the Human Rights Regime	2014	17	10.1007/s12142-014-0315-5
+21	You say you want a revolution	You say you want a revolution	2014	0	
+22	You say you want a revolution	You say you want a revolution	2014	0	
+23	You say you want a revolution	You Say You Want a Revolution: The New and Old Economics of the Family	2014	0	
+24	You say you want a revolution	You say you want a revolution	2014	0	
+25	You say you want a revolution	You say you want a revolution	2014	0	
+26	You say you want a revolution	You say you want a revolution	2014	0	
+27	You say you want a revolution	You say you want a revolution	2014	0	
+28	You say you want a revolution	"The time is now for gene-and genome-based bacterial diagnostics: ""You say you want a revolution"""	2013	14	10.1001/jamainternmed.2013.7042
+29	You say you want a revolution	You say you want a revolution? Transforming education and capacity building in response to global change	2013	104	10.1016/j.envsci.2012.11.011
+30	You say you want a revolution	You say you want a revolution?	2013	0	
+31	You say you want a revolution	You say you want a revolution: Cultural Memory, black nationalist didacticism, and Sonia Sanchez's it's a new day: Poems for young Brothas and Sistuhs	2013	1	10.4324/9780203761830
+32	You say you want a revolution	You Say You Want a Revolution: Cultural Memory, Black Nationalist Didacticism, and Sonia Sanchez's It's a New Day: Poems for Young Brothas and Sistuhs	2013	0	10.4324/9780203761830-7
+33	You say you want a revolution	You say you want a revolution?	2012	0	10.1017/S0140525X12001409
+34	You say you want a revolution	You say you want a revolution: Canada's original quality council reflects back on its first 10 years and looks ahead	2012	1	10.1016/j.hcmf.2012.09.009
+35	You say you want a revolution	Devops: So you say you want a revolution?	2011	17	
+36	You say you want a revolution	You say you want a revolution	2010	0	10.1109/MCSE.2010.52
+37	You say you want a revolution	You say you want a revolution in booker plus five, there's been rumbling but hardly rebelling	2010	0	
+38	You say you want a revolution	Training in Minimally Invasive Surgery - You Say You Want a Revolution	2009	6	10.1016/j.jmig.2009.01.001
+39	You say you want a revolution	You say you want a revolution: An interview with Pat Brown	2009	2	10.1371/journal.pgen.1000560
+40	You say you want a revolution	'You Say You Want a Revolution': Bills of Rights in the Age of Human Rights	2009	9	
+41	You say you want a revolution	You say you want a revolution (Science (664))	2008	0	
+42	You say you want a revolution	You say you want a revolution	2008	6	10.1126/science.322.5902.664
+43	You say you want a revolution	You say you want a revolution	2006	0	
+44	You say you want a revolution	You say you want a revolution...	2004	0	
+45	You say you want a revolution	You say you want a revolution	2003	3	
+46	You say you want a revolution	You say you want a revolution	2002	0	
+47	You say you want a revolution	You say you want a revolution	1999	0	
+48	You say you want a revolution	You say you want a revolution (in military affairs)?	1999	5	10.1080/01495939908403187
+49	You say you want a revolution	You say you want a revolution	1999	0	10.1080/03064229908536662
+50	You say you want a revolution	So you say you want a revolution: A game theoretic explanation of revolution in repressive regimes	1999	92	10.1177/0022002799043003002
+51	You say you want a revolution	You say you want a revolution.	1998	0	
+52	You say you want a revolution	'You say you want a revolution?' Toward a virtual community on aging	1997	1	
+53	Come together, right now	Come together, right now! ZCCHC3 orchestrates cytosolic nucleic acid sensing through phase condensation	2025	0	10.1016/j.molcel.2025.02.009
+54	Come together, right now	Come Together, Right Now? An Empirical Study of Collaborations in the Music Industry	2023	3	10.1287/mnsc.2023.4743
+55	Come together, right now	Come Together, Right Now: Storylines and Social Identities in Coalition Building in a Local Policy Subsystem	2021	7	10.1111/polp.12431
+56	Come together, right now	Circulating tumor cells: Come together, right now, over metastasis	2019	38	10.1158/2159-8290.CD-18-1285
+57	Come together, right now	Come together, right now: Why diversity matters	2018	0	
+58	Come together, right now	Dermoscopy and confocal microscopy: come together, right now?	2018	0	10.1111/bjd.16699
+59	Come together, right now	Come Together, Right Now/Over Me, over You, over Us	2017	0	10.1017/S0147547916000387
+60	Come together, right now	Come together, right now	2016	0	
+61	Come together, right now	Come together - Right now: Uniting the department	2016	0	
+62	Come together, right now	Come together, right now: Retweeting in the social model of protest mobilization	2015	3	10.3726/978-1-4539-1672-8
+63	Come together, right now	Dendritic cells and lymphoma cells: Come together right now	2015	0	10.1182/blood-2014-11-606608
+64	Come together, right now	Come Together, Right Now: Dynamic Overwriting of an Object's History through Common Fate	2014	42	10.1162/jocn_a_00584
+65	Come together, right now	Integrated care: Come together, right now.	2013	0	
+66	Come together, right now	Come together, right now!	2011	0	10.1089/gtmb.2011.1524
+67	Come together, right now	Come together, right now	2009	0	10.1038/nsmb1209-1201
+68	Come together, right now	Come together, right now.	2009	0	10.1097/01974520-200901000-00005
+69	Come together, right now	Come together - Right now	2008	0	10.1049/et:20082016
+70	Come together, right now	Come together, right now - How the songs of the beatles helped our product owners and teams live in harmony	2008	0	10.1109/Agile.2008.28
+71	Come together, right now	Come together, right now: The group therapist as clinician-researcher	2008	4	10.1521/ijgp.2008.58.4.575
+72	Come together, right now	Come together, right...now: Synchronization of rhythms in a mammalian circadian clock	2005	248	10.1016/j.neuron.2005.11.001
+73	Come together, right now	Come together, right now	2005	0	
+74	Come together, right now	Come Together, Right Now: Eclipse and Open Development Tools Integration	2003	0	
+75	Come together, right now	Come together, right now	2002	0	
+76	It's getting better all the time	It's Getting Better All the Time: Decreased Cumulative Incidence of Waitlist Mortality in Pediatric Candidates Following 2018 Heart Allocation Policy Change	2025	0	10.1111/petr.14904
+77	It's getting better all the time	It's Getting Better All The Time	2019	0	10.1080/14606925.2019.1634448
+78	It's getting better all the time	It's getting better all the time (can't get no worse): The why, how and when of environmental entrepreneurship	2018	12	10.1504/IJEV.2018.090982
+79	It's getting better all the time	It's getting better all the time	2017	0	10.1002/ccd.26919
+80	It's getting better all the time	SOLID-STATE SIGNAL SWITCHING: IT'S GETTING BETTER ALL THE TIME.	2015	0	
+81	It's getting better all the time	Ti1 mine yngre kolleger: It's getting better all the time!	2014	0	
+82	It's getting better all the time	It's getting better all the time? Using secular trends to understand the impact of neurocritical care	2013	1	10.1007/s00134-013-2995-8
+83	It's getting better all the time	It's getting better all the time..!	2013	0	10.4103/0972-124X.107463
+84	It's getting better all the time	It's Getting Better All the Time: Comparative Perspectives from Oceania and West Africa on Genetic Analysis and Archaeology	2012	13	10.1007/s10437-012-9122-z
+85	It's getting better all the time	It's getting better all the time	2012	0	
+86	It's getting better all the time	The hyphen as a segmentation cue in triconstituent compound processing: It's getting better all the time	2011	19	10.1111/j.1467-9450.2011.00914.x
+87	It's getting better all the time	Editorial: It's getting better all the time	2009	0	
+88	It's getting better all the time	Editorial: It's getting better all the time	2009	0	
+89	It's getting better all the time	Regulation - It's getting better all the time	2007	0	10.12968/bjhc.2007.13.11.27707
+90	It's getting better all the time	It's getting better all the time	2005	0	10.1001/virtualmentor.2005.7.10.jdsc1-0510
+91	It's getting better all the time	Surveillance for Surgical-Site Infections: It's Getting Better All the Time	2003	0	10.1086/502119
+92	It's getting better all the time	Awards competition evolves it's getting better all the time!	2003	0	
+93	It's getting better all the time	It's getting better all the time	2000	0	
+94	It's getting better all the time	It's getting better all the time	1998	8	10.1016/s0140-6736(98)90266-5
+95	It's getting better all the time	It's getting better all the time	1989	0	10.1016/0891-5849(89)90001-4
+96	It's getting better all the time	Is it getting better all the time?	1984	1	10.1038/312206a0
+97	Help! I need somebody	Help, I need somebody! Business and technology advisors in emerging science-based ventures at American universities	2024	0	10.1007/s10961-024-10125-2
+98	Help! I need somebody	Help! I Need Somebody: Help-Seeking Among Workers with Self-Reported Work-Related Mental Disorders	2024	3	10.1007/s10926-023-10123-5
+99	Help! I need somebody	Help! I need somebody. A Mapping Study about Expert Identification in Software Development	2023	1	10.1145/3613372.3613389
+100	Help! I need somebody	HELP - I NEED SOMEBODY? COMPARING GROUPS' AND INDIVIDUALS' SEARCH BEHAVIOR ACROSS PROBLEM COMPLEXITY	2023	0	10.5465/AMPROC.2023.191bp
+101	Help! I need somebody	Help, I need somebody!: Exploring who founds new nonprofits	2022	2	10.1002/nml.21494
+102	Help! I need somebody	Help! I Need Somebody: Music as a Global Resource for Obtaining Wellbeing Goals in Times of Crisis	2021	67	10.3389/fpsyg.2021.648013
+103	Help! I need somebody	Help, I need somebody: Examining the antecedents of social support seeking among cybercrime victims	2020	19	10.1016/j.chb.2020.106310
+104	Help! I need somebody	'Help! I need somebody': getting timely assistance in clinical practice	2016	5	10.1111/anae.13497
+105	Help! I need somebody	"Help! I need somebody (or do i?): A discussion of community caretaking and ""assistance seizures"" under Iowa law"	2014	0	
+106	Help! I need somebody	Help! I need somebody... Help! Not just anybody: Applying recommender system techniques in peer help systems	2014	1	
+107	Help! I need somebody	Help! I Need Somebody	2011	0	10.1021/op2002722
+108	Help! I need somebody	Help, I need somebody. A collaborative approach to nurses helping nurses	2010	0	10.4037/ccn2010286
+109	Help! I need somebody	Help - I need somebody	2005	0	
+110	Help! I need somebody	Help, I need somebody: Automatic action and inaction	1998	208	10.1521/soco.1998.16.4.400
+111	Help! I need somebody	'Help. I need somebody': the value of psychiatric nursing training to the general nurse.	1966	0	
+112	Love is all you need	'LOVE' IS ALL YOU NEED: AN ATTEMPT AT CRITICAL CONCEPTUAL ACCOUNT	2023	1	10.34135/lartis.23.8.1.07
+113	Love is all you need	Love is all you need: User preferences of strategies for mediating intimate relationships through technology	2018	1	10.14236/ewic/HCI2018.28
+114	Love is all you need	Love Is All You Need: Why There Will Never Be Another Beatles	2014	1	
+115	Love is all you need	Love is all you need: Lusophone affective communities after Freyre	2014	7	10.1057/9781137340993_3
+116	Love is all you need	Love is all you need: A content analysis of romantic scenes in Chinese entertainment television	2013	9	10.1080/01292986.2012.729148
+117	Love is all you need	Love Is All You Need	2013	0	10.1016/S1470-2045(13)70201-8
+118	Love is all you need	Love is all you need: Freedom of thought versus freedom of action	2009	0	10.1017/CBO9780511576386.021
+119	Love is all you need	Love is all you need	2008	0	10.1111/j.1744-540X.2008.00525.x
+120	Love is all you need	"The new backlash: Popular culture's ""marriage"" with feminism, or love is all you need"	2007	23	10.3200/JPFT.34.4.160-169
+121	Love is all you need	Perhaps love is all you need [2]	2003	0	
+122	Love is all you need	Love is all you need? Student nurses' interest in working with children.	2000	7	10.1111/j.1744-6155.2000.tb00106.x
+123	Love is all you need	Love is all you need? Focusing on adolescents' life concerns from an ecological point of view	1999	58	10.1006/jado.1998.0200
+124	Love is all you need	Love is all you need.	1994	0	10.1136/bmj.309.6957.816
+125	Try to see it my way	Try to See it My Way: Humans Take the Level-1 Visual Perspective of Humanoid Robot Avatars	2025	4	10.1007/s12369-023-01036-7
+126	Try to see it my way	Try to see it my way - Examining the relationship between visual perspective taking and theory of mind in frontotemporal dementia	2022	3	10.1016/j.bandc.2021.105835
+127	Try to see it my way	Try to see it my way: exploring the co-design of visual presentations of wellbeing through a workshop process	2019	11	10.1177/1757913919835231
+128	Try to see it my way	Try to see it my way - How students view the use of lecture capture	2018	1	10.1007/978-3-319-95522-3_13
+129	Try to see it my way	Try to see it my way: What influences social perspective taking among college students?	2017	17	10.1353/csd.2017.0082
+130	Try to see it my way	Try to see it my way: Embodied perspective enhances self and friend-biases in perceptual matching	2016	28	10.1016/j.cognition.2016.04.015
+131	Try to see it my way	'Try to see it my way': Which theory of mind tests best distinguish bvFTD and AD?	2015	7	10.1136/jnnp-2015-310324
+132	Try to see it my way	'Try to see it my way!' Frame congruence between lobbyists and European Commission officials	2015	43	10.1080/13501763.2015.1008555
+133	Try to see it my way	Try to See It My Way 1: The Discursive Function of Idiosyncratic Mathematical Metaphor	2012	23	10.1080/10986065.2012.625076
+134	Try to see it my way	Try to see it my way: Modelling persuasion in legal discourse	2003	29	10.1023/B:ARTI.0000045997.45038.8f
+135	Try to see it my way	Try to See it My Way	1992	0	10.1001/jama.1992.03490190130049
+136	Will you still need me, will you still feed me	Microbial Mutualism: Will You Still Need Me, Will You Still Feed Me?	2020	4	10.1016/j.cub.2020.07.002
+137	Will you still need me, will you still feed me	"Planning for Retiring from Operating: ""will You Still Need Me, Will You Still Feed Me, When I'm Sixty-Four?"""	2019	1	10.1001/jamasurg.2019.1160
+138	Will you still need me, will you still feed me	Will you still need me, will you still feed me when I'm 64? The health impact of caregiving to one's spouse	2017	64	10.1002/hec.3542
+139	Will you still need me, will you still feed me	Gerontology: Will you still need me, will you still feed me?	2014	6	10.1038/514S14a
+140	Will you still need me, will you still feed me	"Lost in transition? thoughts on retirement-""will you still need me, will you still feed me, when I'm sixty-four?"""	2013	8	10.1634/theoncologist.2013-0173
+141	Will you still need me, will you still feed me	The Development of EU Case-Law on Age Discrimination in Employment: 'Will You Still Need Me? Will You Still Feed Me? When I'm Sixty-Four'	2013	14	10.1111/eulj.12042
+142	Will you still need me, will you still feed me	Will you still need me, will you still feed me...?	2013	0	
+143	Will you still need me, will you still feed me	WILL YOU STILL NEED ME, WILL YOU STILL FEED ME, WHEN I'M 64? AN ETHICAL PROBLEM FOR THE MODERN, COSMOPOLITAN ACADEMIC	2009	0	10.1163/9789042027404_014
+144	Will you still need me, will you still feed me	Will you still need me, will you still feed me, when I'm 64?	2006	0	
+145	Will you still need me, will you still feed me	Will you still need me, will you still feed me? - Paying for care in old age	1997	15	10.1111/1467-9515.00044
+146	Will you still need me, will you still feed me	Will you still need me, will you still feed me, when I'm eighty-four?	1990	0	
+147	I read the news today oh boy	'I read the news today . . . oh boy': Taking the pulse of UK popular music journalism	2024	0	
+148	I read the news today oh boy	I read the news today, oh boy: The effect of crime news coverage on crime perception	2020	11	10.1016/j.worlddev.2020.105111
+149	I read the news today oh boy	I Read the News Today, Oh Boy	2020	1	10.1007/s12671-020-01356-z
+150	I read the news today oh boy	I read the news today, oh boy: Making metaphors topical, timely and humorously personal	2017	5	10.1007/978-3-319-58697-7_52
+151	I read the news today oh boy	I read the news today, oh boy: The British press and the Beatles	2010	12	10.1080/03007761003694373
+152	I read the news today oh boy	'I Read the News Today, Oh Boy!': Newspaper publishing in the online world	2010	0	
+153	I read the news today oh boy	I read the news today, oh boy: The increasing centrality of constitutional design	2009	2	
+154	I read the news today oh boy	I read the news today... Oh boy	2008	0	
+155	I read the news today oh boy	I read the news today, oh boy: reading and attention in digital libraries	1997	42	
+156	Something in the way she moves	Something in the way she moves: biological motion, body shape, and attractiveness in women	2018	3	10.1080/13506285.2018.1471560
+157	Something in the way she moves	'Something in the way she moves': The functional significance of flexibility in the multiple roles of protein disulfide isomerase (PDI)	2017	35	10.1016/j.bbapap.2017.08.014
+158	Something in the way she moves	Something in the way she moves-movement trajectories reveal dynamics of self-control	2014	15	10.3758/s13423-013-0517-x
+159	Something in the way she moves	Something in the way she moves me: Morphology and motion of observed goal-directed and pantomimed actions	2012	2	10.3758/s13414-011-0228-1
+160	Something in the way she moves	Something in the way she moves: A fresh look at an old gap	2004	22	10.1093/oep/gpf039
+161	Something in the way she moves	Something in the way she moves	2004	10	10.1016/j.tics.2003.12.009
+162	Something in the way she moves	Something in the way she moves: Gallbladder motility and gallstones	1996	6	10.1053/gast.1996.v111.agast961110823
+163	Get back to where you once belonged	'Get back to where you once belonged'? Effects of skilled internal migration on Italian regional green growth	2024	4	10.1016/j.pirs.2024.100036
+164	Get back to where you once belonged	'Get back to where you once belonged!' the positive creative impact of a refresher course for 'baby-boomer' rock musicians	2012	7	10.1017/S0261143012000025
+165	Get back to where you once belonged	Get back to where you once belonged: Monitoring the AIDS pandemic in the 21st century	2008	4	10.1590/S1413-81232008000600007
+166	Get back to where you once belonged	Get Back to Where You Once Belonged: Identity, Citizenship, and Exclusion in Europe	1998	46	
+167	Living is easy with eyes closed	Living is Easy With Eyes Closed: Avoidance of Targeted Political Advertising in Response to Privacy Concerns, Perceived Personalization, and Overload	2024	11	10.1177/00936502221130840
+168	Living is easy with eyes closed	A journey through the Late Franco Period: Living is Easy with Eyes Closed	2016	0	
+169	Living is easy with eyes closed	Living is easy with eyes closed	2015	0	10.1016/j.fmc.2015.06.001
+170	Living is easy with eyes closed	Living is easy with eyes closed... on blinded RCTs and specific and non-specific effects of complex therapeutic interventions	2014	6	10.1016/j.eujim.2014.06.008
+171	Take a sad song and make it better	Take a sad song and make it better: Spousal activity limitations, caregiving, and depressive symptoms among couples	2021	7	10.1016/j.socscimed.2021.114081
+172	Take a sad song and make it better	Take a sad song and make it better: What makes an interpretation growth facilitating for the patient?	2020	9	10.1037/pst0000290
+173	Take a sad song and make it better	Trends in surgeon wellness (take a sad song and make it better): A comparison of surgical residents, fellows, and attendings	2019	25	
+174	You say yes, I say no	You say yes, I say no. Investigating the link between meaning and form in response particles	2023	1	10.16995/glossa.9185
+175	You say yes, I say no	You say yes, i say no: Capturing and measuring 'public opinion' through citizens' conversation online (on the russian-language livejornal blogging platform)	2013	4	10.1007/978-3-642-40346-0_12
+176	You say yes, I say no	"You say ""yes,"" i say ""no,"" you say ""goodbye,"" and i say ""hello"""	2011	1	
+177	I'd like to be under the sea	I'd like to be under the sea: Contextual cues in virtual environments influence the orientation of idea generation	2019	19	10.1016/j.chb.2018.08.001
+178	I'd like to be under the sea	I'D like to be under the sea: Modelling gender in Clara F Guernsey's The Merman and the Figure-Head	2018	1	10.21463/shima.12.2.15
+179	Look at all the lonely people	'Ah, look at all the lonely people..': loneliness and solitude in public mental health	2021	1	10.1177/17579139211018120
+180	Look at all the lonely people	Ah, look at all the lonely people (and resultant health problems thereof)	2018	1	
+181	Nothing's gonna change my world	Nothing's gonna change my world - Or do journalistic clarifications help against rumors?	2019	1	10.5771/2192-4007-2019-4-497
+182	Nothing's gonna change my world	Nothing's gonna change my world: Why?	2014	0	10.1007/s11739-014-1135-y
+183	Speaking words of wisdom	SPEAKING WORDS OF WISDOM: INTRODUCING 15 ORIGINAL SONGS TO TEACH PRINCIPLES OF MARKETING	2024	0	
+184	Speaking words of wisdom	Speaking words of WISDOM: Web intelligent search based on DOMain ontologies	2005	1	
+185	When I find myself in times of trouble	'When I find myself in times of trouble ...' : The conditional effect of international organisations on policy convergence	2013	12	10.1111/1475-6765.12006
+186	When I find myself in times of trouble	When I find myself in times of trouble...	2003	16	10.1163/157361203X00228
+187	Let me take you down	Let Me Take You Down	2004	0	
+188	Let me tell you how it will be	Let me tell you how it will be: Whoever wins the next election, taxes are likely to go up	2017	0	
