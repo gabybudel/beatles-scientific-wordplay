@@ -398,11 +398,12 @@ paper_nr	song_name	title	year	cited_by	doi
 396	Will you still need me, will you still feed me	Tanizaki's The Key in Translation: Will You Still Need Me, Will You Still Read Me, When I'm (Over) Sixty-Four?	2023	0	
 397	Will you still need me, will you still feed me	The aging workplace - It's not just ergonomics or will you still need me, will you still love me, when I'm 64?	2008	0	
 398	Will you still need me, will you still feed me	Will you still need me, will you still screen me, when I'm past 64?: Breast screening policy is based on ageism	1997	18	10.1136/bmj.315.7115.1032
-399	Living is easy with eyes closed	Is Living Easier with Eyes Closed?	2024	0	10.1017/S1062798723000558
-400	Living is easy with eyes closed	Fieldwork is easy with eyes closed, misunderstanding all you see ... and other reflections: 3ie annual Howard White inaugural lecture	2015	6	10.1080/19439342.2015.1068359
-401	Speaking words of wisdom	Whisper words of wisdom: Asides and appositives in Kaplan's logic of demonstratives	2024	0	10.1111/theo.12545
-402	Speaking words of wisdom	John Launer: Hearing words of wisdom	2022	1	10.1136/bmj.o2570
-403	I read the news today oh boy	I Shared the News Today, oh Boy: News provision and interaction on Facebook	2018	40	10.1080/1461670X.2016.1154797
-404	Look at all the lonely people	Look (closely) at all the lonely people: Age and the social psychology of social support	2007	103	10.1177/0898264307301178
-405	We all live in a yellow submarine	We all live in a virtual submarine	2010	8	10.1109/MCG.2010.20
-406	You say yes, I say no	You Say 'PK' and I Say 'No Way!'; You Say 'Keo' and I Say 'Time to Go!': Pharmacokinetics for TIVA	2019	0	10.1017/9781316659069.004
+399	Speaking words of wisdom	Whisper words of wisdom: Asides and appositives in Kaplan's logic of demonstratives	2024	0	10.1111/theo.12545
+400	Speaking words of wisdom	John Launer: Hearing words of wisdom	2022	1	10.1136/bmj.o2570
+401	Speaking words of wisdom	Speaking Words of Life	2020	0	10.1097/CNJ.0000000000000722
+402	Living is easy with eyes closed	Is Living Easier with Eyes Closed?	2024	0	10.1017/S1062798723000558
+403	Living is easy with eyes closed	Fieldwork is easy with eyes closed, misunderstanding all you see ... and other reflections: 3ie annual Howard White inaugural lecture	2015	6	10.1080/19439342.2015.1068359
+404	I read the news today oh boy	I Shared the News Today, oh Boy: News provision and interaction on Facebook	2018	40	10.1080/1461670X.2016.1154797
+405	Look at all the lonely people	Look (closely) at all the lonely people: Age and the social psychology of social support	2007	103	10.1177/0898264307301178
+406	We all live in a yellow submarine	We all live in a virtual submarine	2010	8	10.1109/MCG.2010.20
+407	You say yes, I say no	You Say 'PK' and I Say 'No Way!'; You Say 'Keo' and I Say 'Time to Go!': Pharmacokinetics for TIVA	2019	0	10.1017/9781316659069.004
