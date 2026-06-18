@@ -1,0 +1,35 @@
+lyric	song	n_exact
+You say you want a revolution	Revolution	53
+Come together, right now	Come Together	23
+It's getting better all the time	Getting Better	21
+Help! I need somebody	Help!	15
+Love is all you need	All You Need Is Love	13
+Try to see it my way	We Can Work It Out	11
+Will you still need me, will you still feed me	When I'm Sixty-Four	11
+I read the news today oh boy	A Day in the Life	9
+Something in the way she moves	Something	7
+Get back to where you once belonged	Get Back	4
+Living is easy with eyes closed	Strawberry Fields Forever	4
+Take a sad song and make it better	Hey Jude	3
+You say yes, I say no	Hello, Goodbye	3
+I'd like to be under the sea	Octopus's Garden	2
+Look at all the lonely people	Eleanor Rigby	2
+Nothing's gonna change my world	Across the Universe	2
+Speaking words of wisdom	Let It Be	2
+When I find myself in times of trouble	Let It Be	2
+Let me take you down	Strawberry Fields Forever	1
+Let me tell you how it will be	Taxman	1
+All my troubles seemed so far away	Yesterday	0
+Close your eyes and I'll kiss you	All My Loving	0
+I give her all my love	And I Love Her	0
+I think I'm gonna be sad	Ticket to Ride	0
+In the end, the love you take is equal to the love you make	The End	0
+In the town where I was born	Yellow Submarine	0
+Life is very short	We Can Work It Out	0
+Oh dear, what can I do	Baby's in Black	0
+She was just seventeen	I Saw Her Standing There	0
+Standing on the dock in Southampton	The Ballad of John and Yoko	0
+There are places I remember	In My Life	0
+There's no time for fussing and fighting	We Can Work It Out	0
+We all live in a yellow submarine	Yellow Submarine	0
+You think you lost your love	She Loves You	0

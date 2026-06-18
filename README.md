@@ -45,6 +45,7 @@ titles from Scopus in two retrieval passes (1a and 1b), then classifies them (2)
 │       ├── titles_wordplay.txt           #  554 song-title wordplay references
 │       ├── lyrics_exact.txt              #  189 exact lyric references
 │       ├── lyrics_wordplay.txt           #  408 lyric wordplay references
+│       ├── lyrics_selected.txt           #   34 selected lyrics + source song + exact-match count (S2 Table)
 │       ├── wordplay_candidates.txt       # approximate candidates seen by the classifier
 │       └── wordplay_annotation_sample.csv  # 300-title human validation set
 ├── prompts/
@@ -180,11 +181,14 @@ The reference datasets behind the paper's results, plus the approximate wordplay
 | `titles_wordplay.txt` | 554 | song-title wordplay references |
 | `lyrics_exact.txt` | 189 | exact lyric references |
 | `lyrics_wordplay.txt` | 408 | lyric wordplay references |
+| `lyrics_selected.txt` | 34 | the full selected-lyric list, with source song and exact-match count (source for S2 Table) |
 | `wordplay_candidates.txt` | — | approximate candidates before wordplay classification |
 
-Each row is one referencing article, with columns `paper_nr`, `song_name`, `title`,
-`year`, `cited_by`, `doi`. Rows are ordered by descending per-song reference count, then
-newest first within each song; the song-title datasets cover the 112 selected songs.
+Each row of the four reference datasets is one referencing article, with columns
+`paper_nr`, `song_name`, `title`, `year`, `cited_by`, `doi`. Rows are ordered by descending
+per-song reference count, then newest first within each song; the song-title datasets cover
+the 112 selected songs. `lyrics_selected.txt` is the curated selection summary (one row per
+selected lyric, columns `lyric`, `song`, `n_exact`) and is the source for S2 Table.
 
 Regenerate them from the retrieved data with:
 
