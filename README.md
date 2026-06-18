@@ -25,7 +25,7 @@ titles from Scopus in two retrieval passes (1a and 1b), then classifies them (2)
 
 **Key numbers from the paper:**
 - 2,237 exact song title / lyric references identified
-- 962 instances of creative wordplay detected
+- 963 instances of creative wordplay detected
 - 112 curated Beatles songs used in the published analysis (see `data/beatles_selected_songs.txt`)
 - 34 characteristic lyric phrases (see `data/beatles_lyrics.txt`)
 
@@ -42,7 +42,7 @@ titles from Scopus in two retrieval passes (1a and 1b), then classifies them (2)
 │   ├── subjects/                  # Scopus subject-area exports, one CSV per song (gitignored)
 │   └── shared/                    # reference datasets behind the paper's results
 │       ├── titles_exact.txt              # 2048 exact song-title references
-│       ├── titles_wordplay.txt           #  554 song-title wordplay references
+│       ├── titles_wordplay.txt           #  555 song-title wordplay references
 │       ├── lyrics_exact.txt              #  189 exact lyric references
 │       ├── lyrics_wordplay.txt           #  408 lyric wordplay references
 │       ├── lyrics_selected.txt           #   34 selected lyrics + source song + exact-match count (S2 Table)

@@ -540,16 +540,17 @@ paper_nr	song_name	title	year	cited_by	doi
 538	Ticket to Ride	You've got a ticket to deride	2005	0	
 539	Everybody's Got Something to Hide Except Me and My Monkey	Everybody's Got Something To Hide Except Me and My NFT's Monkey - An Analysis of the European Commission's DAC8 Proposal on Automatic Exchange of Cryptoasset Information	2023	1	10.59403/16edte1
 540	Everybody's Got Something to Hide Except Me and My Monkey	Everybody's got something to hide except me and my patented monkey: patentability of cloned organisms.	1998	0	
-541	While My Guitar Gently Weeps	Still my guitar gently weeps. Questions for an ockhamized metaphysics of the event sources of sound	2013	1	10.1515/krt-2013-012704
-542	While My Guitar Gently Weeps	While my guitar gently reaps	2005	0	
-543	Do You Want to Know a Secret	Do You Want to Know a Trade Secret? How Article 2B Will Make Licensing Trade Secrets Easier (But Innovation More Difficult)	1999	5	10.2307/3481007
-544	I Me Mine	"""I, me, me, mine!: Autobiographical fiction and the """"I"""""""	2005	7	10.1080/10131750485310111
-545	I'll Follow the Sun	I'll follow the fun: The extended investment model of social media influencers	2022	38	10.1016/j.tele.2022.101881
-546	I've Just Seen a Face	'i have just seen a face of old africa' the depiction of black africa in national geographic magazine	1997	1	10.1080/02500169708537815
-547	Love Me Do	From experiencer verbs to Agree-and-Move: a review of Bind Me Tender, Bind Me Do!	2023	0	10.1515/psicl-2022-1075
-548	Maxwell's Silver Hammer	Grenville's silver hammer: The problem of money in the Stamp Act crisis	2017	6	10.1093/jahist/jax172
-549	Norwegian Wood (This Bird Has Flown)	Bird flu has flown	2017	0	10.1002/cind.812_9.x
-550	Nowhere Man	The nowhere (wo)man: An example of the defensive use of emptiness in a patient with a schizoid disorder of the self	1996	4	10.1007/BF02189729
-551	Please Please Me	Please, Please, Just Tell Me: The Linguistic Features of Humorous Deception	2020	6	10.5210/dad.2020.205
-552	Revolution 9	Rated X: Apple's new operating system aims to score a perfect 10, but for some, revolution no. 9 was change enough	2001	0	
-553	We Can Work It Out	Can Wii work it out?	2011	5	10.7790/tja.v61i3.231
+541	Love Me Do	From experiencer verbs to Agree-and-Move: a review of Bind Me Tender, Bind Me Do!	2023	0	10.1515/psicl-2022-1075
+542	Love Me Do	Bind Me Tender, Bind Me Do!: Dative and Accusative Arguments as Antecedents for Reflexives in Polish	2020	6	10.3726/b16471
+543	While My Guitar Gently Weeps	Still my guitar gently weeps. Questions for an ockhamized metaphysics of the event sources of sound	2013	1	10.1515/krt-2013-012704
+544	While My Guitar Gently Weeps	While my guitar gently reaps	2005	0	
+545	Do You Want to Know a Secret	Do You Want to Know a Trade Secret? How Article 2B Will Make Licensing Trade Secrets Easier (But Innovation More Difficult)	1999	5	10.2307/3481007
+546	I Me Mine	"""I, me, me, mine!: Autobiographical fiction and the """"I"""""""	2005	7	10.1080/10131750485310111
+547	I'll Follow the Sun	I'll follow the fun: The extended investment model of social media influencers	2022	38	10.1016/j.tele.2022.101881
+548	I've Just Seen a Face	'i have just seen a face of old africa' the depiction of black africa in national geographic magazine	1997	1	10.1080/02500169708537815
+549	Maxwell's Silver Hammer	Grenville's silver hammer: The problem of money in the Stamp Act crisis	2017	6	10.1093/jahist/jax172
+550	Norwegian Wood (This Bird Has Flown)	Bird flu has flown	2017	0	10.1002/cind.812_9.x
+551	Nowhere Man	The nowhere (wo)man: An example of the defensive use of emptiness in a patient with a schizoid disorder of the self	1996	4	10.1007/BF02189729
+552	Please Please Me	Please, Please, Just Tell Me: The Linguistic Features of Humorous Deception	2020	6	10.5210/dad.2020.205
+553	Revolution 9	Rated X: Apple's new operating system aims to score a perfect 10, but for some, revolution no. 9 was change enough	2001	0	
+554	We Can Work It Out	Can Wii work it out?	2011	5	10.7790/tja.v61i3.231
