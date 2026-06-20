@@ -26,7 +26,7 @@ authors:
 # --- software release (the Zenodo code archive) -----------------------------
 version: "v1.1.0"
 date-released: "2026-06-20"
-doi: "10.5281/zenodo.XXXXXXXX"    # TODO: v1.1.0 software DOI, mint on release
+doi: "10.5281/zenodo.20772604"
 # --- the paper to cite ------------------------------------------------------
 preferred-citation:
   type: article

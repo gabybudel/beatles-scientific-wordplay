@@ -238,12 +238,12 @@ article DOI will be added here once the paper is published.
 **Code** — this repository, archived on Zenodo
 
 > Budel, G., Kooij, R. E., Tjepkema, M. *Beatles Scientific Wordplay* (version v1.0.0)
-> [Software]. Zenodo. doi:[10.5281/zenodo.XXXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXXX) (v1.1.0 DOI assigned on release)
+> [Software]. Zenodo. doi:[10.5281/zenodo.20772604](https://doi.org/10.5281/zenodo.20772604)
 
 **Data** — the result datasets from `data/shared/`, archived on Zenodo
 
 > Budel, G., Kooij, R. E., Tjepkema, M. *Beatles Scientific Wordplay: result datasets*
-> [Data set]. Zenodo. doi:[10.5281/zenodo.XXXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXXX) (v1.1.0 DOI assigned on release)
+> [Data set]. Zenodo. doi:[10.5281/zenodo.20772803](https://doi.org/10.5281/zenodo.20772803)
 
 ---
 
