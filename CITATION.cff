@@ -24,9 +24,9 @@ authors:
     affiliation: "Radboud University Nijmegen, Nijmegen, The Netherlands"
     orcid: "https://orcid.org/0009-0003-6029-2455"
 # --- software release (the Zenodo code archive) -----------------------------
-version: "v1.0.0"
-date-released: "2026-06-08"
-doi: "10.5281/zenodo.20599390"
+version: "v1.1.0"
+date-released: "2026-06-20"
+doi: "10.5281/zenodo.XXXXXXXX"    # TODO: v1.1.0 software DOI, mint on release
 # --- the paper to cite ------------------------------------------------------
 preferred-citation:
   type: article

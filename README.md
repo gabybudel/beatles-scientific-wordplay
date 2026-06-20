@@ -215,9 +215,9 @@ The few-shot examples in `prompts/user_prompt.txt` cover both positive cases (ge
 `data/beatles_songs.txt` is the full Beatles discography (215 songs + year, the core
 catalogue sourced from Wikipedia's *List of songs recorded by the Beatles*). The 112 songs
 in `data/beatles_selected_songs.txt` were selected from it by excluding:
-- Cover songs and songs not originally written by the Beatles
-- Titles too generic to yield reliable matches (e.g., *Get Back*, *Yesterday*)
-- Titles too obscure to plausibly appear as deliberate references
+- Songs the Beatles did not themselves compose, even where their cover became widely recognized (e.g., *Twist and Shout*, *Roll Over Beethoven*, *Long Tall Sally*)
+- Single-word titles, since an isolated common word can rarely be tied to a specific song (e.g., *Yesterday*, *Wait*, *Girl*, *Rain*, *Birthday*, *Because*)
+- Multiple-word titles that double as everyday English—fixed expressions or common phrases at least as plausibly explained by ordinary usage as by deliberate allusion (e.g., *A Day in the Life*, *There's a Place*, *All Together Now*, *Run for Your Life*)
 
 Songs were matched from their release year onward. Queries are case- and punctuation-insensitive; articles (*a*, *an*, *the*) and auxiliary forms of *to be* may be omitted.
 
@@ -238,15 +238,12 @@ article DOI will be added here once the paper is published.
 **Code** — this repository, archived on Zenodo
 
 > Budel, G., Kooij, R. E., Tjepkema, M. *Beatles Scientific Wordplay* (version v1.0.0)
-> [Software]. Zenodo. doi:[10.5281/zenodo.20599390](https://doi.org/10.5281/zenodo.20599390)
+> [Software]. Zenodo. doi:[10.5281/zenodo.XXXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXXX) (v1.1.0 DOI assigned on release)
 
 **Data** — the result datasets from `data/shared/`, archived on Zenodo
 
 > Budel, G., Kooij, R. E., Tjepkema, M. *Beatles Scientific Wordplay: result datasets*
-> [Data set]. Zenodo. doi:[10.5281/zenodo.20599598](https://doi.org/10.5281/zenodo.20599598)
-
-GitHub's *Cite this repository* button reads [`CITATION.cff`](CITATION.cff) if you want
-these pre-formatted.
+> [Data set]. Zenodo. doi:[10.5281/zenodo.XXXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXXX) (v1.1.0 DOI assigned on release)
 
 ---
 
