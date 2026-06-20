@@ -178,7 +178,7 @@ The reference datasets behind the paper's results, plus the approximate wordplay
 | File | Rows | Contents |
 |---|---|---|
 | `titles_exact.txt` | 2048 | exact song-title references |
-| `titles_wordplay.txt` | 554 | song-title wordplay references |
+| `titles_wordplay.txt` | 555 | song-title wordplay references |
 | `lyrics_exact.txt` | 189 | exact lyric references |
 | `lyrics_wordplay.txt` | 408 | lyric wordplay references |
 | `lyrics_selected.txt` | 34 | the full selected-lyric list, with source song and exact-match count (source for S2 Table) |
